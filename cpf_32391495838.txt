@@ -1,0 +1,525 @@
+{
+    "success": true,
+    "query": "32391495838",
+    "query_date": "2025-07-12T19:11:35.328Z",
+    "query_id": "e4282bc8-736b-43af-a74b-4ac013be0682",
+    "data": {
+        "dadosBasicos": {
+            "cnsDef": "706702285953620",
+            "cnsProv": "",
+            "cpf": "32391495838",
+            "nome": "RONALDO DOS PASSOS BELAZZI",
+            "nomeSocial": "",
+            "sexo": "M",
+            "sexoRetratado": "M",
+            "nasc": "1985-01-04 00:00:00",
+            "racaCor": "",
+            "signo": "CAPRICÓRNIO",
+            "tipoSanguineo": "",
+            "partoGemelar": false,
+            "vipSus": false,
+            "vipMotivo": "",
+            "escolaridade": "ENSINO MEDIO",
+            "empresario": false,
+            "aposentado": false,
+            "servidorPubl": false,
+            "nacionalidade": "",
+            "estCivil": "SOLTEIRO(A)",
+            "rendaAtual": "1650",
+            "scoreFaixa": "ENTRE 250 E 500",
+            "scoreSpc": "135",
+            "filiacao": {
+                "nomeMae": "LAIDE DOS PASSOS BELAZZI",
+                "nomePai": ""
+            },
+            "situacaoCadastral": {
+                "descricao": "REGULAR",
+                "dataSituacao": "2023-07-04 05:27:51",
+                "obito": {}
+            }
+        },
+        "registroGeral": {},
+        "bigDataDocumentos": [],
+        "serasaAnalytics": {
+            "csb8": "135",
+            "csb8Faixa": "ALTISSIMO",
+            "csb8Descricao": "UTILIZADO PARA ANÁLISE DE PRODUTOS DE CRÉDITO PESSOAL",
+            "csba": "655",
+            "csbaFaixa": "BAIXO",
+            "csbaDescricao": "UTILIZADO PARA ANÁLISE E AVALIAÇÃO DE CRÉDITO EMPRESARIAL SOBRE O TITULAR"
+        },
+        "serasaMosaic": {
+            "codMosaic": "F18",
+            "descricaoMosaic": "",
+            "codMosaicSecundario": "C08",
+            "descMosaicSecundario": "JOVENS PROTAGONISTAS DA CLASSE MÉDIA",
+            "codMosaicNovo": "F19",
+            "descricaoMosaicNovo": "IDOSOS INDEPENDENTES DA CLASSE MÉDIA"
+        },
+        "serasaConselhos": [],
+        "poderAquisitivo": {
+            "codPoderAquisitivo": "3",
+            "poderAquisitivo": "MEDIO BAIXO",
+            "renda": "1650",
+            "faixaRenda": "DE R$ 631 ATÉ R$ 1018"
+        },
+        "profissaoAtual": {},
+        "universitario": [],
+        "pisPasep": [
+            {
+                "numeroPis": "12787079255",
+                "dataInclusao": "2021-09-09 00:00:00"
+            }
+        ],
+        "nisHist": [],
+        "tse": [
+            {
+                "tituloEleitoral": "314025690132",
+                "zona": "211",
+                "secao": "173"
+            }
+        ],
+        "telefones": [
+            {
+                "ddd": "19",
+                "telefone": "39345823",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "19",
+                "telefone": "39359094",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "19",
+                "telefone": "996542189",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "19",
+                "telefone": "39366732",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "19",
+                "telefone": "992728461",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "19",
+                "telefone": "39365643",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "19",
+                "telefone": "989696077",
+                "operadoraLinha": "CLARO",
+                "tipoLinha": "MÓVEL/FIXO",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "19",
+                "telefone": "989550884",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "19",
+                "telefone": "994971635",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "11",
+                "telefone": "937068646",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "19",
+                "telefone": "986125184",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "11",
+                "telefone": "978372505",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            }
+        ],
+        "emails": [
+            {
+                "email": "ronaldo-falcon@hotmail.com",
+                "score": "OTIMO",
+                "usoPessoal": true,
+                "blackList": false
+            },
+            {
+                "email": "julieli_tomasetto@yahoo.com.br",
+                "score": "BOM",
+                "usoPessoal": false,
+                "blackList": false
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "PC PRUDENTE DE MORAES",
+                "numero": "504",
+                "complemento": "",
+                "bairro": "CENTRO",
+                "cidade": "INDAIATUBA",
+                "siglaUf": "SP",
+                "cep": "13330010"
+            },
+            {
+                "logradouro": "R QUARIN JOAO BADIM 504",
+                "numero": "504",
+                "complemento": "",
+                "bairro": "MORADA DO SOL",
+                "cidade": "INDAIATUBA",
+                "siglaUf": "SP",
+                "cep": ""
+            },
+            {
+                "logradouro": "R ALBANO SCHMIDT",
+                "numero": "504",
+                "complemento": "",
+                "bairro": "BOA VISTA",
+                "cidade": "JOINVILLE",
+                "siglaUf": "SC",
+                "cep": "89205103"
+            },
+            {
+                "logradouro": "JANDIRA",
+                "numero": "90",
+                "complemento": "",
+                "bairro": "INDIANOPOLIS",
+                "cidade": "S PAULO",
+                "siglaUf": "SP",
+                "cep": "04080907"
+            },
+            {
+                "logradouro": "R GUARIN JOAO BADIM",
+                "numero": "504",
+                "complemento": "NA",
+                "bairro": "JD MORADA DO SOL",
+                "cidade": "352050",
+                "siglaUf": "SP",
+                "cep": "13348310"
+            },
+            {
+                "logradouro": "GUARIN JOAO BADIN",
+                "numero": "504",
+                "complemento": "C",
+                "bairro": "JD MORADA DO SOL",
+                "cidade": "INDAIATUBA",
+                "siglaUf": "SP",
+                "cep": "13348310"
+            }
+        ],
+        "veiculos": [
+            {
+                "marcaModelo": "HONDA/CG 150 TITAN ESD",
+                "placa": "BXQ1769",
+                "chassi": "9C2KC08208R042722",
+                "renavam": "959498834",
+                "anoFabricacao": "2008",
+                "anoModelo": "2008"
+            },
+            {
+                "marcaModelo": "CORSA GLS",
+                "placa": "CEO8333",
+                "chassi": "9BGSJ19NTTC765788",
+                "renavam": "656407140",
+                "anoFabricacao": "1996",
+                "anoModelo": "1996"
+            },
+            {
+                "marcaModelo": "HONDA/CG 150 TITAN ESD",
+                "placa": "BXQ1769",
+                "chassi": "9C2KC08208R042722",
+                "renavam": "959498834",
+                "anoFabricacao": "2008",
+                "anoModelo": "2008"
+            },
+            {
+                "marcaModelo": "HONDA/CB600F HORNET",
+                "placa": "EON4989",
+                "chassi": "9C2PC4200AR001736",
+                "renavam": "233892958",
+                "anoFabricacao": "2010",
+                "anoModelo": "2010"
+            }
+        ],
+        "parentes": [
+            {
+                "nome": "FERNANDA DOS PASSOS BELAZZI",
+                "cpf": "33869029870",
+                "tipoVinculo": "IRMA(O)"
+            },
+            {
+                "nome": "LAIDE DOS PASSOS BELAZZI",
+                "cpf": "18528426874",
+                "tipoVinculo": "MAE"
+            },
+            {
+                "nome": "JULIANA DOS PASSOS BELAZZI",
+                "cpf": "37194264838",
+                "tipoVinculo": "IRMA(O)"
+            }
+        ],
+        "vizinhos": [
+            {
+                "nome": "JOSE MARIM BRITO",
+                "cpf": "07746981879",
+                "cep": "13349042"
+            },
+            {
+                "nome": "ADEILSON DE SOUZA",
+                "cpf": "14992797873",
+                "cep": "13349042"
+            },
+            {
+                "nome": "ANA PAULA GONCALVES",
+                "cpf": "28640317879",
+                "cep": "13349042"
+            },
+            {
+                "nome": "FATIMA DE GOES",
+                "cpf": "34529041808",
+                "cep": "13349042"
+            },
+            {
+                "nome": "ROSANGELA DE ARAUJO LIMA GONCALVES",
+                "cpf": "15786115801",
+                "cep": "13349042"
+            },
+            {
+                "nome": "LEILA QUEIROZ APOLINARIO",
+                "cpf": "35305758874",
+                "cep": "13349042"
+            },
+            {
+                "nome": "MARIA DO CARMO ANTONIO",
+                "cpf": "31133858813",
+                "cep": "13349042"
+            },
+            {
+                "nome": "IOLANDA APARECIDA CIRINO",
+                "cpf": "08753931874",
+                "cep": "13349042"
+            },
+            {
+                "nome": "DENISE DE MORA",
+                "cpf": "18213437861",
+                "cep": "13349042"
+            },
+            {
+                "nome": "THAIS DE PAULA ARAUJO DE LIMA",
+                "cpf": "34182656857",
+                "cep": "13349042"
+            },
+            {
+                "nome": "ADEMARSIL TEODORO",
+                "cpf": "59290480963",
+                "cep": "13349042"
+            }
+        ],
+        "empresas": [],
+        "empregos": [
+            {
+                "cnpj": "83636019000407",
+                "razaoSocial": "TERMOTECNICA LTDA",
+                "situacao": "",
+                "cboNumero": "813125",
+                "cboDescricao": "OPERADOR DE PRODUÇÃO (QUÍMICA, PETROQUÍMICA E AFINS)",
+                "ctpsNumero": "57258",
+                "ctpsSerie": "282",
+                "dataCadastro": "",
+                "dataAdmissao": "2016-05-20 00:00:00",
+                "dataDesligamento": ""
+            },
+            {
+                "cnpj": "26106055000174",
+                "razaoSocial": "MARCOS SILVEIRA DOS SANTOS MANUTENCAO",
+                "situacao": "ENTREGUE",
+                "cboNumero": "",
+                "cboDescricao": "",
+                "ctpsNumero": "",
+                "ctpsSerie": "",
+                "dataCadastro": "2022-08-26 17:55:00",
+                "dataAdmissao": "2019-03-01 00:00:00",
+                "dataDesligamento": ""
+            }
+        ],
+        "dividas": [],
+        "beneficios": {
+            "previdenciaSocial": {
+                "descricao": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "fundoGarantia": {
+                "descricao": "FUNDO DE GARANTIA DE TEMPO DE SERVIÇO",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas ": []
+            },
+            "assistenciaSocial": {
+                "descricao": "LEI ORGÂNICA DE ASSISTÊNCIA SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioEmergencial": {
+                "descricao": "AUXÍLIO EMERGENCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioBrasil": {
+                "descricao": "AUXÍLIO BRASIL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "bolsaFamilia": {
+                "descricao": "BOLSA FAMÍLIA",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "detalhamentoDependentes": []
+            },
+            "saudeParticular": {
+                "descricao": "PLANOS DE SAÚDE",
+                "tipoAcesso": "PRIVADO",
+                "totalContrato": "0",
+                "registroContratos": []
+            }
+        },
+        "vacinas": [
+            {
+                "vacinaNome": "COVID-19 SINOVAC/BUTANTAN - CORONAVAC",
+                "descricao": "1ª DOSE",
+                "lote": "210277",
+                "fabricante": "SINOVAC/BUTANTAN",
+                "estabAplicacao": "UBS 01",
+                "grupoAtendimento": "PESSOAS DE 18 A 64 ANOS",
+                "profissionalAplic": "MARINA DE MELO BARBOSA",
+                "dataAplicacao": "2021-07-20T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 PFIZER - COMIRNATY",
+                "descricao": "DOSE ADICIONAL",
+                "lote": "FK8917",
+                "fabricante": "PFIZER",
+                "estabAplicacao": "UBS 01",
+                "grupoAtendimento": "PESSOAS DE 18 A 64 ANOS",
+                "profissionalAplic": "JULIANA VULF",
+                "dataAplicacao": "2021-12-27T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 SINOVAC/BUTANTAN - CORONAVAC",
+                "descricao": "2ª DOSE",
+                "lote": "210376",
+                "fabricante": "SINOVAC/BUTANTAN",
+                "estabAplicacao": "UBS 01",
+                "grupoAtendimento": "PESSOAS DE 18 A 64 ANOS",
+                "profissionalAplic": "ARLETE DA SILVA PACHECO LIMA",
+                "dataAplicacao": "2021-08-18T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 JANSSEN - AD26.COV2.S",
+                "descricao": "2º REFORÇO",
+                "lote": "205J21A",
+                "fabricante": "JANSSEN",
+                "estabAplicacao": "UBS 01",
+                "grupoAtendimento": "PESSOAS DE 18 A 64 ANOS",
+                "profissionalAplic": "VICTORIA ALVES LOBATO",
+                "dataAplicacao": "2022-09-15T00:00:00.000Z"
+            }
+        ],
+        "certidoes": [],
+        "bancarias": [
+            {
+                "instituicao": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+                "bancoId": "",
+                "codAgencia": "",
+                "numero": ""
+            }
+        ],
+        "compras": [],
+        "internet": [],
+        "irpf": [
+            {
+                "instituicao": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2016",
+                "situacaoReceita": "SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL",
+                "dataConsulta": "2016-12-28 00:00:00"
+            },
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2014",
+                "situacaoReceita": "SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL",
+                "dataConsulta": ""
+            },
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2020",
+                "situacaoReceita": "SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL",
+                "dataConsulta": "2020-10-22 23:47:48"
+            }
+        ],
+        "interesses": {
+            "creditoPessoalPreAprovado": true,
+            "creditoImobiliarioPreAprovado": false,
+            "financiamentoDeVeiculoPreAprovado": true,
+            "classeMedia": false,
+            "debitoAutomatico": false,
+            "possuiLuxo": true,
+            "possuiInvestimentos": false,
+            "possuiCartaoDeCredito": true,
+            "possuiMultiplosCartoes": false,
+            "possuiContaAltoPadrao": false,
+            "possuiCartaoBlack": false,
+            "possuiCartaoPrime": false,
+            "possuiCelularPrePago": true,
+            "possuiCelularPosPago": false,
+            "possuiMilhasAcumuladas": true,
+            "possuiCasaPropria": false,
+            "possuiDescontos": false,
+            "possuiContasCorrentes": false,
+            "possuiInternetBanking": true,
+            "possuiSeguroAutomotivo": false,
+            "possuiPrevidenciaPrivada": false,
+            "realizouViagens": false
+        }
+    }
+}

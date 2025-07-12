@@ -1,0 +1,60 @@
+{
+    "success": true,
+    "query": "31987155896",
+    "query_date": "2025-07-12T19:11:38.922Z",
+    "query_id": "8efe3a0e-bd23-47a0-8b4c-b28bd7efeed9",
+    "data": [
+        {
+            "telefone": "31987155896",
+            "operadora": "CLARO",
+            "nome": "CRISTIANE MARTINS SILVEIRA REIS OLIVEIRA",
+            "cpfCnpj": "05661568657",
+            "endereco": {
+                "logradouro": "RUA MARFIM",
+                "numero": "0",
+                "bairro": "PINDORAMA",
+                "cidade": "BELO HORIZONTE",
+                "siglaUf": "MG",
+                "cep": "30880410",
+                "complemento": ""
+            }
+        },
+        {
+            "telefone": "31987155896",
+            "operadora": "",
+            "nome": "CRISTIANE MARTINS SILVEIRA REIS OLIVEIRA",
+            "cpfCnpj": "05661568657",
+            "endereco": {}
+        },
+        {
+            "telefone": "31987155896",
+            "operadora": "OI",
+            "nome": "CRISTIANE MARTINS REIS OLIVEIRA",
+            "cpfCnpj": "05661568657",
+            "endereco": {
+                "logradouro": "R EUGENIA NERY 333",
+                "numero": "",
+                "bairro": "GLORIA",
+                "cidade": "BELO HORIZONTE",
+                "siglaUf": "MG",
+                "cep": "30870240",
+                "complemento": ""
+            }
+        },
+        {
+            "telefone": "31987155896",
+            "operadora": "",
+            "nome": "MARCELO FERREIRA DOS SANTOS",
+            "cpfCnpj": "4330760622",
+            "endereco": {
+                "logradouro": "R BEGONIAS 189",
+                "numero": "189",
+                "bairro": "S PEDRO",
+                "cidade": "ITABIRA",
+                "siglaUf": "MG",
+                "cep": "",
+                "complemento": ""
+            }
+        }
+    ]
+}

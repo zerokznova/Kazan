@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "query": "12988649985",
+    "query_date": "2025-07-12T19:11:33.047Z",
+    "query_id": "a0686947-05d3-49c5-8f3d-ab1be035fe61",
+    "data": [
+        {
+            "telefone": "12988649985",
+            "operadora": "ASSECC",
+            "nome": "TATIANA GONCALVES DA SILVA",
+            "cpfCnpj": "27526911812",
+            "endereco": {
+                "logradouro": "R GANDU",
+                "numero": "0000081",
+                "bairro": "JARDIM VALE DO SOL",
+                "cidade": "SAO JOSE DOS CAMPOS",
+                "siglaUf": "SP",
+                "cep": "12238040",
+                "complemento": ""
+            }
+        }
+    ]
+}
