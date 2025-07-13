@@ -1,0 +1,28 @@
+nohup: ignoring input
+/data/data/com.termux/files/usr/lib/python3.12/site-packages/apscheduler/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_application.py", line 1264, in process_update
+    await coroutine
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_handlers/basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/Kazan/main.py", line 72, in handle_comando
+    if update.message.chat.type == "private" and not tem_assinatura(user_id) and comando not in BASES_LIVRES:
+                                                     ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/Kazan/main.py", line 36, in tem_assinatura
+    return expira_em and time.time() < expira_em
+                         ^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'float' and 'dict'
+No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_application.py", line 1264, in process_update
+    await coroutine
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_handlers/basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/Kazan/main.py", line 144, in planos
+    if time.time() < ts:
+       ^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'float' and 'dict'
