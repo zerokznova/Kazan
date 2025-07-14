@@ -1,0 +1,411 @@
+{
+    "success": true,
+    "query": "15891252821",
+    "query_date": "2025-07-14T12:05:22.748Z",
+    "query_id": "313dd1bd-83c3-44b9-9a99-a8aac06b753e",
+    "data": {
+        "dadosBasicos": {
+            "cnsDef": "700501783831359",
+            "cnsProv": "898001924786585",
+            "cpf": "15891252821",
+            "nome": "ROSEMEIDE VITORES THOME",
+            "nomeSocial": "",
+            "sexo": "M",
+            "sexoRetratado": "M",
+            "nasc": "1973-04-03 00:00:00",
+            "racaCor": "BRANCO(A)",
+            "signo": "ÁRIES",
+            "tipoSanguineo": "",
+            "partoGemelar": false,
+            "vipSus": false,
+            "vipMotivo": "",
+            "escolaridade": "ENSINO MEDIO",
+            "empresario": false,
+            "aposentado": false,
+            "servidorPubl": false,
+            "nacionalidade": "10",
+            "estCivil": "CASADO(A)",
+            "rendaAtual": "1450",
+            "scoreFaixa": "ENTRE 751 E 1.000",
+            "scoreSpc": "144",
+            "filiacao": {
+                "nomeMae": "ELZA DA COSTA VITORES",
+                "nomePai": "JOO VITORES"
+            },
+            "situacaoCadastral": {
+                "descricao": "REGULAR",
+                "dataSituacao": "2023-09-22 09:52:36",
+                "obito": {}
+            }
+        },
+        "registroGeral": {},
+        "bigDataDocumentos": [
+            {
+                "numeroDoc": "0204636120141",
+                "tipoDocumento": "TITULO ELEITOR"
+            },
+            {
+                "numeroDoc": "12431785353",
+                "tipoDocumento": "PIS"
+            }
+        ],
+        "serasaAnalytics": {
+            "csb8": "144",
+            "csb8Faixa": "ALTISSIMO",
+            "csb8Descricao": "UTILIZADO PARA ANÁLISE DE PRODUTOS DE CRÉDITO PESSOAL",
+            "csba": "378",
+            "csbaFaixa": "ALTO",
+            "csbaDescricao": "UTILIZADO PARA ANÁLISE E AVALIAÇÃO DE CRÉDITO EMPRESARIAL SOBRE O TITULAR"
+        },
+        "serasaMosaic": {
+            "codMosaic": "G25",
+            "descricaoMosaic": "",
+            "codMosaicSecundario": "E18",
+            "descMosaicSecundario": "OPERÁRIOS DA VILA",
+            "codMosaicNovo": "F17",
+            "descricaoMosaicNovo": ""
+        },
+        "serasaConselhos": [],
+        "poderAquisitivo": {
+            "codPoderAquisitivo": "3",
+            "poderAquisitivo": "MEDIO BAIXO",
+            "renda": "1450",
+            "faixaRenda": "DE R$ 1019 ATÉ R$ 1630"
+        },
+        "profissaoAtual": {},
+        "universitario": [],
+        "pisPasep": [
+            {
+                "numeroPis": "12431785353",
+                "dataInclusao": "2019-02-11 00:00:00"
+            }
+        ],
+        "nisHist": [],
+        "tse": [
+            {
+                "tituloEleitoral": "204636120141",
+                "zona": "290",
+                "secao": "39"
+            }
+        ],
+        "telefones": [
+            {
+                "ddd": "18",
+                "telefone": "33242477",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "18",
+                "telefone": "997291293",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "18",
+                "telefone": "996758865",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "18",
+                "telefone": "997654796",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "18",
+                "telefone": "997914025",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "18",
+                "telefone": "991184571",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            }
+        ],
+        "emails": [
+            {
+                "email": "rose_mariajulia@hotmail.com",
+                "score": "OTIMO",
+                "usoPessoal": true,
+                "blackList": false
+            },
+            {
+                "email": "rosethome@globo.com",
+                "score": "",
+                "usoPessoal": true,
+                "blackList": false
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "R JOAO MARTINES MOLINES",
+                "numero": "118",
+                "complemento": "",
+                "bairro": "VL RIBEIRO",
+                "cidade": "ASSIS",
+                "siglaUf": "SP",
+                "cep": "19803020"
+            },
+            {
+                "logradouro": "R MARTINEZ MOLINEZ 126",
+                "numero": "126",
+                "complemento": "",
+                "bairro": "VL RIBEIRO",
+                "cidade": "ASSIS",
+                "siglaUf": "SP",
+                "cep": ""
+            },
+            {
+                "logradouro": "QUINZE DE NOVEMBRO R",
+                "numero": "752",
+                "complemento": "",
+                "bairro": "VILA SANTO ANTONIO",
+                "cidade": "SP",
+                "siglaUf": "ASSIS",
+                "cep": "19800161"
+            },
+            {
+                "logradouro": "JOAO MARTINES MOLINES",
+                "numero": "118",
+                "complemento": "",
+                "bairro": "VILA RIBEIRO",
+                "cidade": "350400",
+                "siglaUf": "SP",
+                "cep": "19803020"
+            },
+            {
+                "logradouro": "JOAO MARTINES MOLINES",
+                "numero": "",
+                "complemento": "",
+                "bairro": "VILA RIBEIRO",
+                "cidade": "ASSIS",
+                "siglaUf": "SP",
+                "cep": "19803020"
+            }
+        ],
+        "veiculos": [
+            {
+                "marcaModelo": "CBX 250 TWISTE",
+                "placa": "DTN4475",
+                "chassi": "9C2MC35007R020207",
+                "renavam": "908358563",
+                "anoFabricacao": "2006",
+                "anoModelo": "2007"
+            },
+            {
+                "marcaModelo": "HONDA/CG 150 TITAN KS",
+                "placa": "DKM9986",
+                "chassi": "9C2KC08105R864376",
+                "renavam": "860069591",
+                "anoFabricacao": "2005",
+                "anoModelo": "2005"
+            },
+            {
+                "marcaModelo": "HONDA/CG 150 TITAN KS",
+                "placa": "DKM9986",
+                "chassi": "9C2KC08105R864376",
+                "renavam": "860069591",
+                "anoFabricacao": "2005",
+                "anoModelo": "2005"
+            },
+            {
+                "marcaModelo": "HONDA/CBX 250 TWISTER",
+                "placa": "DTN4475",
+                "chassi": "9C2MC35007R020207",
+                "renavam": "908358563",
+                "anoFabricacao": "2006",
+                "anoModelo": "2007"
+            },
+            {
+                "marcaModelo": "HONDA/CG 150 FAN ESI",
+                "placa": "EHV7556",
+                "chassi": "9C2KC1550AR065186",
+                "renavam": "206225555",
+                "anoFabricacao": "2010",
+                "anoModelo": "2010"
+            }
+        ],
+        "parentes": [
+            {
+                "nome": "NATAL ROGERIO VITORES",
+                "cpf": "12105877850",
+                "tipoVinculo": "IRMA(O)"
+            },
+            {
+                "nome": "ELZA DA COSTA VITORES",
+                "cpf": "01357963858",
+                "tipoVinculo": "MAE"
+            }
+        ],
+        "vizinhos": [],
+        "empresas": [],
+        "empregos": [
+            {
+                "cnpj": "04756679000102",
+                "razaoSocial": "ORION INTEGRACAO DE NEGOCIOS E TECNOLOGIA LTDA.",
+                "situacao": "",
+                "cboNumero": "421125",
+                "cboDescricao": "OPERADOR DE CAIXA",
+                "ctpsNumero": "79777",
+                "ctpsSerie": "119",
+                "dataCadastro": "",
+                "dataAdmissao": "2015-10-28 00:00:00",
+                "dataDesligamento": ""
+            },
+            {
+                "cnpj": "10631334001601",
+                "razaoSocial": "POTENCIAL SERVICOS EM TELEFONIA LTDA",
+                "situacao": "ENTREGUE",
+                "cboNumero": "",
+                "cboDescricao": "",
+                "ctpsNumero": "",
+                "ctpsSerie": "",
+                "dataCadastro": "2022-08-26 08:36:00",
+                "dataAdmissao": "2018-12-10 00:00:00",
+                "dataDesligamento": ""
+            }
+        ],
+        "dividas": [],
+        "beneficios": {
+            "previdenciaSocial": {
+                "descricao": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "fundoGarantia": {
+                "descricao": "FUNDO DE GARANTIA DE TEMPO DE SERVIÇO",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas ": []
+            },
+            "assistenciaSocial": {
+                "descricao": "LEI ORGÂNICA DE ASSISTÊNCIA SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioEmergencial": {
+                "descricao": "AUXÍLIO EMERGENCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioBrasil": {
+                "descricao": "AUXÍLIO BRASIL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "bolsaFamilia": {
+                "descricao": "BOLSA FAMÍLIA",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "detalhamentoDependentes": []
+            },
+            "saudeParticular": {
+                "descricao": "PLANOS DE SAÚDE",
+                "tipoAcesso": "PRIVADO",
+                "totalContrato": "0",
+                "registroContratos": []
+            }
+        },
+        "vacinas": [
+            {
+                "vacinaNome": "COVID-19 ASTRAZENECA/FIOCRUZ - COVISHIELD",
+                "descricao": "2ª DOSE",
+                "lote": "217VCD222Z",
+                "fabricante": "ASTRAZENECA/FIOCRUZ",
+                "estabAplicacao": "UBS VILA RIBEIRO",
+                "grupoAtendimento": "HIPERTENSÃO DE DIFÍCIL CONTROLE OU COM COMPLICAÇÕES/LESÃO DE ÓRGÃO ALVO",
+                "profissionalAplic": "VERA LUCIA DA SILVA ONCA",
+                "dataAplicacao": "2021-08-26T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 ASTRAZENECA/FIOCRUZ - COVISHIELD",
+                "descricao": "REFORÇO",
+                "lote": "219VCD283Z",
+                "fabricante": "ASTRAZENECA/FIOCRUZ",
+                "estabAplicacao": "ESF RURAL",
+                "grupoAtendimento": "HIPERTENSÃO DE DIFÍCIL CONTROLE OU COM COMPLICAÇÕES/LESÃO DE ÓRGÃO ALVO",
+                "profissionalAplic": "GRACILENE PRISCA BRANDAO",
+                "dataAplicacao": "2022-01-05T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 ASTRAZENECA/FIOCRUZ - COVISHIELD",
+                "descricao": "1ª DOSE",
+                "lote": "ABX0529",
+                "fabricante": "ASTRAZENECA/FIOCRUZ",
+                "estabAplicacao": "UBS VILA RIBEIRO",
+                "grupoAtendimento": "HIPERTENSÃO DE DIFÍCIL CONTROLE OU COM COMPLICAÇÕES/LESÃO DE ÓRGÃO ALVO",
+                "profissionalAplic": "TACIA CAMILA TEIXEIRA DA SILVA LAURIANO",
+                "dataAplicacao": "2021-05-26T00:00:00.000Z"
+            }
+        ],
+        "certidoes": [
+            {
+                "cartorioNome": "CIVIL DE ASSIS",
+                "livroNumero": "B-37",
+                "folhaNumero": "B-37",
+                "termoNumero": "11326",
+                "dataLavrat": "1997-09-06 00:00:00",
+                "tipoCertidao": "CASAMENTO"
+            }
+        ],
+        "bancarias": [],
+        "compras": [
+            {
+                "produtoNome": "DESODORANTE ANTITRANSPIRANTE ROLL-ON INVISÍVEL NATURA HOMEM - 75ML",
+                "detalhes": "",
+                "preco": "8.2",
+                "quantidade": "2"
+            }
+        ],
+        "internet": [],
+        "irpf": [
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2014",
+                "situacaoReceita": "SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL",
+                "dataConsulta": ""
+            }
+        ],
+        "interesses": {
+            "creditoPessoalPreAprovado": false,
+            "creditoImobiliarioPreAprovado": false,
+            "financiamentoDeVeiculoPreAprovado": false,
+            "classeMedia": false,
+            "debitoAutomatico": false,
+            "possuiLuxo": true,
+            "possuiInvestimentos": false,
+            "possuiCartaoDeCredito": true,
+            "possuiMultiplosCartoes": false,
+            "possuiContaAltoPadrao": false,
+            "possuiCartaoBlack": false,
+            "possuiCartaoPrime": false,
+            "possuiCelularPrePago": false,
+            "possuiCelularPosPago": false,
+            "possuiMilhasAcumuladas": false,
+            "possuiCasaPropria": false,
+            "possuiDescontos": true,
+            "possuiContasCorrentes": false,
+            "possuiInternetBanking": true,
+            "possuiSeguroAutomotivo": false,
+            "possuiPrevidenciaPrivada": false,
+            "realizouViagens": false
+        }
+    }
+}
