@@ -7,7 +7,7 @@ import requests
 from telegram import Update, InputFile, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQueryHandler
 
-# 🔐 Configurações
+# Configurações
 TOKEN = "7727164066:AAFZmMo0RSI7RqwwLKa1aTKl50nSMr2bYoI"
 API_KEY = "WM3t-Av5u-thfP-GiBV-sM3B"
 API_URL = "https://voidsearch.localto.net/api/search"
@@ -16,7 +16,7 @@ ASSINANTES_FILE = "assinantes.json"
 ADMIN_ID = 7889164760
 PLAN_LINK = "https://t.me/assinaturakazanova_bot"
 
-# 📚 Bases
+# Bases
 BASES_BASICAS = ["cpf", "nome", "telefone", "cnpj"]
 BASES_AVANCADAS = [
     "rg", "rgsimpl", "pis", "titulo", "email", "cns", "mae", "pai",
@@ -25,7 +25,7 @@ BASES_AVANCADAS = [
 ]
 BASES = BASES_BASICAS + BASES_AVANCADAS
 
-# 📂 Utilitários
+# Utilitários
 def carregar_assinantes():
     if os.path.exists(ASSINANTES_FILE):
         with open(ASSINANTES_FILE, "r") as f:
@@ -41,71 +41,75 @@ def tem_assinatura(user_id):
     expira = assinantes.get(str(user_id), {}).get("expira", 0)
     return time.time() < expira
 
-# ▶️ /start (privado)
+# Comando /start (privado)
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.message.chat.type != "private":
         return
+
     keyboard = [
-        [InlineKeyboardButton("➕ Adicionar bot ao grupo", url="https://t.me/Kazanovabuscas_bot?startgroup=true")],
-        [InlineKeyboardButton("💳 Adquirir assinatura", url=PLAN_LINK)],
-        [InlineKeyboardButton("📂 Comandos", callback_data="show_commands")]
+        [InlineKeyboardButton("Adicionar bot ao grupo", url="https://t.me/Kazanovabuscas_bot?startgroup=true")],
+        [InlineKeyboardButton("Adquirir assinatura", url=PLAN_LINK)],
+        [InlineKeyboardButton("Comandos disponíveis", callback_data="show_commands")]
     ]
+
     await update.message.reply_text(
-        "Bem-vindo ao Kazanova Bot!\n\nEste bot funciona apenas em grupos.\n\nUse os botões abaixo para adicionar ao grupo ou adquirir um plano.",
+        "Bem-vindo ao Kazanova Bot!\n\nEste bot funciona apenas em grupos.\n\nUse os botões abaixo:",
         reply_markup=InlineKeyboardMarkup(keyboard)
     )
 
-# 🔘 Botão "Comandos"
+# Botão inline de comandos
 async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
     data = query.data
+
     if data == "show_commands":
         await query.message.reply_text(
-            "📂 Comandos Disponíveis:\n\n"
             "Comandos básicos (qualquer grupo):\n"
             "/cpf, /nome, /telefone, /cnpj\n\n"
-            "Comandos avançados (grupo VIP):\n"
-            + ", ".join(f"/{cmd}" for cmd in BASES_AVANCADAS)
+            "Comandos avançados (grupo VIP):\n" +
+            ", ".join(f"/{cmd}" for cmd in BASES_AVANCADAS)
         )
 
-# 🔎 Executar comandos
+# Handler dos comandos
 async def handle_comando(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not update.message:
         return
-    comando = update.message.text.split()[0][1:]
+
+    comando = update.message.text.split()[0][1:].lower()
     argumento = " ".join(context.args)
     chat_id = update.message.chat_id
-    user = update.effective_user
 
-    # Bloqueia comandos no privado
     if update.message.chat.type == "private":
         return
 
     if comando not in BASES:
-        return await update.message.reply_text("❌ Base inválida.")
+        await update.message.reply_text("Comando inválido.")
+        return
+
     if not argumento:
-        return await update.message.reply_text(f"⚠️ Uso correto: /{comando} <dado>")
+        await update.message.reply_text(f"Uso correto: /{comando} <dado>")
+        return
 
     if comando in BASES_AVANCADAS and chat_id != GRUPO_ESPECIFICO:
-        return await update.message.reply_text("🔒 Este comando está disponível apenas no grupo VIP.")
+        await update.message.reply_text("Este comando está disponível apenas no grupo VIP.")
+        return
 
-    await update.message.reply_text("🔎 Buscando dados, por favor aguarde...")
+    await update.message.reply_text("Buscando dados, aguarde...")
 
     try:
         url = f"{API_URL}?Access-Key={API_KEY}&Base={comando}&Info={argumento}"
         r = requests.get(url, timeout=15)
 
         if r.status_code != 200 or not r.text.strip() or "error" in r.text.lower():
-            return await update.message.reply_text("⚠️ Nenhum dado encontrado.")
-
-        resultado = r.text.strip()
+            await update.message.reply_text("Nenhum dado encontrado.")
+            return
 
         texto = (
-            "🔎 Consulta completa dentro do arquivo\n\n"
+            "Consulta completa dentro do arquivo\n\n"
             f"• Base: {comando}\n"
             f"• Dado pesquisado: {argumento}\n\n"
-            f"{resultado}"
+            f"{r.text.strip()}"
         )
 
         nome_arquivo = f"{comando}_{argumento.replace(' ', '_')}.txt"
@@ -115,37 +119,46 @@ async def handle_comando(update: Update, context: ContextTypes.DEFAULT_TYPE):
             f.write(texto)
 
         with open(caminho, "rb") as f:
-            await update.message.reply_document(InputFile(f, filename=nome_arquivo))
+            await update.message.reply_document(
+                InputFile(f, filename=nome_arquivo),
+                reply_markup=InlineKeyboardMarkup([
+                    [InlineKeyboardButton("Adquirir assinatura", url=PLAN_LINK)]
+                ]) if comando in BASES_BASICAS and chat_id != GRUPO_ESPECIFICO else None
+            )
 
         os.remove(caminho)
 
     except Exception as e:
         print("Erro:", e)
-        await update.message.reply_text("❌ Erro inesperado durante a busca.")
+        await update.message.reply_text("Erro inesperado durante a busca.")
 
-# 🔓 /liberar
+# Comando /liberar (admin)
 async def liberar(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.effective_user.id != ADMIN_ID:
         return
+
     try:
         user_id = context.args[0]
         dias = int(context.args[1])
         assinantes = carregar_assinantes()
         assinantes[user_id] = {"expira": time.time() + dias * 86400}
         salvar_assinantes(assinantes)
-        await update.message.reply_text(f"✅ Usuário {user_id} liberado por {dias} dias.")
+        await update.message.reply_text(f"Usuário {user_id} liberado por {dias} dias.")
     except:
         await update.message.reply_text("Uso correto: /liberar <user_id> <dias>")
 
-# ▶️ Inicializa bot
+# Inicialização
 def main():
     app = Application.builder().token(TOKEN).build()
+
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CallbackQueryHandler(handle_callback))
     app.add_handler(CommandHandler("liberar", liberar))
+
     for base in BASES:
         app.add_handler(CommandHandler(base, handle_comando))
-    print("🤖 Bot rodando...")
+
+    print("Bot rodando...")
     app.run_polling()
 
 if __name__ == "__main__":
