@@ -1,0 +1,115 @@
+🔎 CONSULTA COMPLETA
+
+• Base: cpf
+• Dado pesquisado: 06721910241
+
+{
+    "success": true,
+    "query": "06721910241",
+    "query_date": "2025-07-17T14:32:34.177Z",
+    "query_id": "ad60d662-6f45-4db4-b27b-815c8fd688f3",
+    "data": {
+        "dadosBasicos": {
+            "cnsDef": "",
+            "cnsProv": "",
+            "cpf": "06721910241",
+            "nome": "LUANNA CORDEIRO LOURENCO",
+            "nomeSocial": "",
+            "sexo": "F",
+            "sexoRetratado": "",
+            "nasc": "2005-10-10 00:00:00",
+            "racaCor": "",
+            "signo": "LIBRA",
+            "tipoSanguineo": "",
+            "partoGemelar": false,
+            "vipSus": false,
+            "vipMotivo": "",
+            "escolaridade": "",
+            "empresario": false,
+            "aposentado": false,
+            "servidorPubl": false,
+            "nacionalidade": "",
+            "estCivil": "",
+            "rendaAtual": "",
+            "scoreFaixa": "",
+            "scoreSpc": "",
+            "filiacao": {},
+            "situacaoCadastral": {
+                "descricao": "REGULAR",
+                "dataSituacao": "2023-08-28 02:45:09",
+                "obito": {}
+            }
+        },
+        "registroGeral": {},
+        "bigDataDocumentos": [],
+        "serasaAnalytics": {},
+        "serasaMosaic": {},
+        "serasaConselhos": [],
+        "poderAquisitivo": {},
+        "profissaoAtual": {},
+        "universitario": [],
+        "pisPasep": [],
+        "nisHist": [],
+        "tse": [],
+        "telefones": [],
+        "emails": [],
+        "enderecos": [],
+        "veiculos": [],
+        "parentes": [],
+        "vizinhos": [],
+        "empresas": [],
+        "empregos": [],
+        "dividas": [],
+        "beneficios": {
+            "previdenciaSocial": {
+                "descricao": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "fundoGarantia": {
+                "descricao": "FUNDO DE GARANTIA DE TEMPO DE SERVIÇO",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas ": []
+            },
+            "assistenciaSocial": {
+                "descricao": "LEI ORGÂNICA DE ASSISTÊNCIA SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioEmergencial": {
+                "descricao": "AUXÍLIO EMERGENCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioBrasil": {
+                "descricao": "AUXÍLIO BRASIL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "bolsaFamilia": {
+                "descricao": "BOLSA FAMÍLIA",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "detalhamentoDependentes": []
+            },
+            "saudeParticular": {
+                "descricao": "PLANOS DE SAÚDE",
+                "tipoAcesso": "PRIVADO",
+                "totalContrato": "0",
+                "registroContratos": []
+            }
+        },
+        "vacinas": [],
+        "certidoes": [],
+        "bancarias": [],
+        "compras": [],
+        "internet": [],
+        "irpf": [],
+        "interesses": {}
+    }
+}

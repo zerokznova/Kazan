@@ -1,0 +1,20 @@
+🔎 CONSULTA COMPLETA
+
+• Base: nome
+• Dado pesquisado: Elney Lira Júnior
+
+{
+    "success": true,
+    "query": "ELNEY LIRA JUNIOR",
+    "query_date": "2025-07-16T17:09:45.863Z",
+    "query_id": "9b3e3d3f-485a-4e74-a42e-640af9d8fc7a",
+    "data": [
+        {
+            "nome": "ELNEY SANTOS LIRA JUNIOR",
+            "cpf": "04747505156",
+            "nasc": "2003-04-16",
+            "sexo": "F",
+            "nomeMae": "ENIZETE MARCAL DE CASTRO"
+        }
+    ]
+}

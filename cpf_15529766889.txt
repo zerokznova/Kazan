@@ -1,0 +1,563 @@
+🔎 CONSULTA COMPLETA
+
+• Base: cpf
+• Dado pesquisado: 15529766889
+
+{
+    "success": true,
+    "query": "15529766889",
+    "query_date": "2025-07-17T17:46:20.561Z",
+    "query_id": "20d6ca1b-0814-47c1-b95f-24433edd512d",
+    "data": {
+        "dadosBasicos": {
+            "cnsDef": "701807201526273",
+            "cnsProv": "",
+            "cpf": "15529766889",
+            "nome": "JULIO CESAR VENTURA DE OLIVEIRA",
+            "nomeSocial": "",
+            "sexo": "M",
+            "sexoRetratado": "M",
+            "nasc": "1976-03-09 00:00:00",
+            "racaCor": "BRANCO(A)",
+            "signo": "PEIXES",
+            "tipoSanguineo": "",
+            "partoGemelar": false,
+            "vipSus": false,
+            "vipMotivo": "",
+            "escolaridade": "ENSINO SUPERIOR",
+            "empresario": true,
+            "aposentado": false,
+            "servidorPubl": false,
+            "nacionalidade": "",
+            "estCivil": "DIVORCIADO(A)",
+            "rendaAtual": "2200",
+            "scoreFaixa": "ENTRE 501 E 750",
+            "scoreSpc": "6",
+            "filiacao": {
+                "nomeMae": "CLEUZA APARECIDA C DE OLIVEIRA",
+                "nomePai": "CLOVIS VENTURA DE OLIVEIRA"
+            },
+            "situacaoCadastral": {
+                "descricao": "REGULAR",
+                "dataSituacao": "2023-07-08 05:48:57",
+                "obito": {}
+            }
+        },
+        "registroGeral": {
+            "rgNumero": "226168980",
+            "orgaoEmissor": "I CLA - CARTEIRA DE IDENTIDADE CLASSISTA",
+            "ufEmissao": "SP"
+        },
+        "bigDataDocumentos": [
+            {
+                "numeroDoc": "0260301810175",
+                "tipoDocumento": "TITULO ELEITOR"
+            },
+            {
+                "numeroDoc": "12454855269",
+                "tipoDocumento": "PIS"
+            },
+            {
+                "numeroDoc": "22616898",
+                "tipoDocumento": "RG - SP"
+            }
+        ],
+        "serasaAnalytics": {
+            "csb8": "3",
+            "csb8Faixa": "ALTISSIMO",
+            "csb8Descricao": "UTILIZADO PARA ANÁLISE DE PRODUTOS DE CRÉDITO PESSOAL",
+            "csba": "23",
+            "csbaFaixa": "ALTISSIMO",
+            "csbaDescricao": "UTILIZADO PARA ANÁLISE E AVALIAÇÃO DE CRÉDITO EMPRESARIAL SOBRE O TITULAR"
+        },
+        "serasaMosaic": {
+            "codMosaic": "D11",
+            "descricaoMosaic": "NOVOS MORADORES DA COMUNIDADE",
+            "codMosaicSecundario": "E15",
+            "descMosaicSecundario": "ESTICANDO A RENDA",
+            "codMosaicNovo": "D10",
+            "descricaoMosaicNovo": "NO CORAÇÃO DA PERIFERIA"
+        },
+        "serasaConselhos": [],
+        "poderAquisitivo": {
+            "codPoderAquisitivo": "3",
+            "poderAquisitivo": "MEDIO BAIXO",
+            "renda": "2200",
+            "faixaRenda": "DE R$ 1631 ATÉ R$ 4082"
+        },
+        "profissaoAtual": {
+            "cboNumero": "252105",
+            "cboDescricao": "ADMINISTRADOR",
+            "servidoresPublicos": []
+        },
+        "universitario": [],
+        "pisPasep": [
+            {
+                "numeroPis": "12454855269",
+                "dataInclusao": ""
+            }
+        ],
+        "nisHist": [],
+        "tse": [],
+        "telefones: 🔒 Disponível para assinantes": [
+            {
+                "ddd": "21",
+                "telefone": "34075710",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "14",
+                "telefone": "33544000",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "14",
+                "telefone": "991732442",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "11",
+                "telefone": "996145441",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "21",
+                "telefone": "996218680",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "24",
+                "telefone": "999239284",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "24",
+                "telefone": "998368499",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "24",
+                "telefone": "998375307",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "24",
+                "telefone": "998465779",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "24",
+                "telefone": "998184400",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "14",
+                "telefone": "991189793",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "14",
+                "telefone": "998159165",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "14",
+                "telefone": "996177880",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "21",
+                "telefone": "988480673",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "21",
+                "telefone": "972217545",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            }
+        ],
+        "emails": [
+            {
+                "email: 🔒 Disponível para assinantes": "jcvo2001@yahoo.com.br",
+                "score": "RUIM",
+                "usoPessoal": false,
+                "blackList": false
+            },
+            {
+                "email: 🔒 Disponível para assinantes": "fiscontabil@yahoo.com.br",
+                "score": "RUIM",
+                "usoPessoal": false,
+                "blackList": false
+            },
+            {
+                "email: 🔒 Disponível para assinantes": "jcvo2001@hotmail.com",
+                "score": "",
+                "usoPessoal": true,
+                "blackList": false
+            },
+            {
+                "email: 🔒 Disponível para assinantes": "jcvo2004@terra.com.br",
+                "score": "",
+                "usoPessoal": true,
+                "blackList": false
+            },
+            {
+                "email: 🔒 Disponível para assinantes": "patricia.andradesp@yahoo.com.br",
+                "score": "",
+                "usoPessoal": true,
+                "blackList": false
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "🔒 Disponível para assinantesAV DO TABOAO BL 6 929 AP 32 B",
+                "numero": "🔒 Disponível para assinantes",
+                "complemento": "",
+                "bairro": "🔒 Disponível para assinantesTABOAO",
+                "cidade": "SAO BERNARDO DO CAMPO",
+                "siglaUf": "SP",
+                "cep": "🔒 Disponível para assinantes"
+            },
+            {
+                "logradouro": "🔒 Disponível para assinantesPHILOMENA CUNHA CEZAR AV",
+                "numero": "🔒 Disponível para assinantes237",
+                "complemento": "",
+                "bairro": "🔒 Disponível para assinantesJARDIM CAMBUI",
+                "cidade": "BOTUCATU",
+                "siglaUf": "18608677",
+                "cep": "🔒 Disponível para assinantesSP"
+            },
+            {
+                "logradouro": "🔒 Disponível para assinantesTABOAO AV",
+                "numero": "🔒 Disponível para assinantes929",
+                "complemento": "",
+                "bairro": "🔒 Disponível para assinantesTABOAO",
+                "cidade": "S BERNARDO DO CAMPO",
+                "siglaUf": "09655000",
+                "cep": "🔒 Disponível para assinantesSP"
+            },
+            {
+                "logradouro": "🔒 Disponível para assinantesDOUTOR COSTA LEITE 882/1821",
+                "numero": "🔒 Disponível para assinantes1439",
+                "complemento": "",
+                "bairro": "🔒 Disponível para assinantesCENTRO",
+                "cidade": "350750",
+                "siglaUf": "SP",
+                "cep": "🔒 Disponível para assinantes18602110"
+            },
+            {
+                "logradouro": "🔒 Disponível para assinantesPHILOMENA CUNHA CEZAR",
+                "numero": "🔒 Disponível para assinantes0",
+                "complemento": "",
+                "bairro": "🔒 Disponível para assinantesJARDIM CAMBUI",
+                "cidade": "BOTUCATU",
+                "siglaUf": "RJ",
+                "cep": "🔒 Disponível para assinantes18608677"
+            }
+        ],
+        "veiculos": [
+            {
+                "marcaModelo": "I/FORD FIESTA SE",
+                "placa": "EVI7433",
+                "chassi": "3FAKP4BK1BM151932",
+                "renavam": "322777160",
+                "anoFabricacao": "2010",
+                "anoModelo": "2011"
+            }
+        ],
+        "parentes: 🔒 Disponível para assinantes": [
+            {
+                "nome": "LIGIA MARIA NOGUEIRA BARIONI",
+                "cpf": "32458331807",
+                "tipoVinculo": "PRIMA(O)"
+            },
+            {
+                "nome": "CLELIA DE FATIMA CESARIO NOGUEIRA",
+                "cpf": "32458369880",
+                "tipoVinculo": "TIA(O)"
+            },
+            {
+                "nome": "CRISTINA ISABEL CEZARIO TURATTI",
+                "cpf": "09638398884",
+                "tipoVinculo": "TIA(O)"
+            },
+            {
+                "nome": "JOSE LUIZ CESARIO",
+                "cpf": "55903657834",
+                "tipoVinculo": "TIA(O)"
+            },
+            {
+                "nome": "CLEUZA APARECIDA CESARIO DE OLIVEIRA",
+                "cpf": "18284646862",
+                "tipoVinculo": "MAE"
+            },
+            {
+                "nome": "CAROLINA MARIA NOGUEIRA",
+                "cpf": "32229297856",
+                "tipoVinculo": "PRIMA(O)"
+            },
+            {
+                "nome": "SANTINA DE JESUS CESARIO",
+                "cpf": "06919179733",
+                "tipoVinculo": "AVÓ(Ô)"
+            }
+        ],
+        "vizinhos: 🔒 Disponível para assinantes": [
+            {
+                "nome": "KARLA ANDRADE DA SILVA",
+                "cpf": "05074695937",
+                "cep": "🔒 Disponível para assinantes09693030"
+            },
+            {
+                "nome": "KARL ALBERT LESCHONSKI",
+                "cpf": "02889181855",
+                "cep": "🔒 Disponível para assinantes09693030"
+            },
+            {
+                "nome": "LUIZ ROBERTO MOREIRA PERDIGAO",
+                "cpf": "56634579849",
+                "cep": "🔒 Disponível para assinantes09693030"
+            },
+            {
+                "nome": "NORBERTO CARONE CASTRO",
+                "cpf": "66273072868",
+                "cep": "🔒 Disponível para assinantes09660060"
+            },
+            {
+                "nome": "MARCELO GOMES DE OLIVEIRA",
+                "cpf": "12451552883",
+                "cep": "🔒 Disponível para assinantes09660060"
+            },
+            {
+                "nome": "CLEIDE TEREZINHA FLORIANO",
+                "cpf": "04004654858",
+                "cep": "🔒 Disponível para assinantes09693030"
+            }
+        ],
+        "empresas": [
+            {
+                "razaoSocial": "GURGEL COMERCIO DE MAQUINAS P/ ALIMENTACAO LTDA",
+                "cnpj": "50669530000103",
+                "nomeFantasia": ""
+            },
+            {
+                "razaoSocial": "VENTURA GESTAO ADMINISTRATIVA LTDA",
+                "cnpj": "50121884000100",
+                "nomeFantasia": ""
+            }
+        ],
+        "empregos": [],
+        "dividas": [
+            {
+                "referenciaDivida": "SIDA",
+                "receitaPrincipal": "DIV ATIVA-SIMPLES NACIONAL",
+                "numeroInscricao": "8042318278501",
+                "dataInscricao": "2023-03-13 00:00:00",
+                "tipoSitInscricao": "EM COBRANÇA",
+                "situacaoInscricao": "ATIVA A SER COBRADA",
+                "indicadorAjuizado": false,
+                "valorConsolidado": "2697.61"
+            },
+            {
+                "referenciaDivida": "SIDA",
+                "receitaPrincipal": "R D ATIVA - SIMPLES NACIONAL - MEI",
+                "numeroInscricao": "8042317550356",
+                "dataInscricao": "2023-03-06 00:00:00",
+                "tipoSitInscricao": "EM COBRANÇA",
+                "situacaoInscricao": "ATIVA A SER COBRADA",
+                "indicadorAjuizado": false,
+                "valorConsolidado": "4877.84"
+            },
+            {
+                "referenciaDivida": "SIDA",
+                "receitaPrincipal": "DIV ATIVA-SIMPLES NACIONAL",
+                "numeroInscricao": "8042318278501",
+                "dataInscricao": "2023-03-13 00:00:00",
+                "tipoSitInscricao": "EM COBRANÇA",
+                "situacaoInscricao": "ATIVA EM COBRANCA",
+                "indicadorAjuizado": false,
+                "valorConsolidado": "2818.55"
+            },
+            {
+                "referenciaDivida": "SIDA",
+                "receitaPrincipal": "DIV ATIVA-SIMPLES NACIONAL",
+                "numeroInscricao": "8042385401743",
+                "dataInscricao": "2023-10-30 00:00:00",
+                "tipoSitInscricao": "EM COBRANÇA",
+                "situacaoInscricao": "ATIVA EM COBRANCA",
+                "indicadorAjuizado": false,
+                "valorConsolidado": "1209.93"
+            },
+            {
+                "referenciaDivida": "SIDA",
+                "receitaPrincipal": "R D ATIVA - SIMPLES NACIONAL - MEI",
+                "numeroInscricao": "8042317550356",
+                "dataInscricao": "2023-03-06 00:00:00",
+                "tipoSitInscricao": "EM COBRANÇA",
+                "situacaoInscricao": "ATIVA EM COBRANCA",
+                "indicadorAjuizado": false,
+                "valorConsolidado": "5066.05"
+            }
+        ],
+        "beneficios": {
+            "previdenciaSocial": {
+                "descricao": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "fundoGarantia": {
+                "descricao": "FUNDO DE GARANTIA DE TEMPO DE SERVIÇO",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas ": []
+            },
+            "assistenciaSocial": {
+                "descricao": "LEI ORGÂNICA DE ASSISTÊNCIA SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioEmergencial": {
+                "descricao": "AUXÍLIO EMERGENCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "150",
+                "parcelasRecebidas": [
+                    {
+                        "valor": "150",
+                        "nisFavorecido": "",
+                        "dataInclusao": "2023-01-04 14:40:00"
+                    }
+                ]
+            },
+            "auxilioBrasil": {
+                "descricao": "AUXÍLIO BRASIL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "bolsaFamilia": {
+                "descricao": "BOLSA FAMÍLIA",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "detalhamentoDependentes": []
+            },
+            "saudeParticular": {
+                "descricao": "PLANOS DE SAÚDE",
+                "tipoAcesso": "PRIVADO",
+                "totalContrato": "0",
+                "registroContratos": []
+            }
+        },
+        "vacinas": [
+            {
+                "vacinaNome": "COVID-19 PFIZER - COMIRNATY",
+                "descricao": "2ª DOSE",
+                "lote": "FF5110",
+                "fabricante": "PFIZER",
+                "estabAplicacao": "UBS RIO COTIA",
+                "grupoAtendimento": "PESSOAS DE 18 A 64 ANOS",
+                "profissionalAplic": "DONIZETE APARECIDO DOS SANTOS",
+                "dataAplicacao": "2021-09-21T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 PFIZER - COMIRNATY",
+                "descricao": "REFORÇO",
+                "lote": "FM2951",
+                "fabricante": "PFIZER",
+                "estabAplicacao": "UBS JD SAO VICENTE",
+                "grupoAtendimento": "PESSOAS DE 18 A 64 ANOS",
+                "profissionalAplic": "LEIA PIRES DE OLIVEIRA",
+                "dataAplicacao": "2022-02-08T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 ASTRAZENECA/FIOCRUZ - COVISHIELD",
+                "descricao": "1ª DOSE",
+                "lote": "215VCD133W",
+                "fabricante": "ASTRAZENECA/FIOCRUZ",
+                "estabAplicacao": "AMB ESPEC FREGUESIA DO O",
+                "grupoAtendimento": "PESSOAS DE 18 A 64 ANOS",
+                "profissionalAplic": "DEISE LUCIA COSTA PADINHA",
+                "dataAplicacao": "2021-06-29T00:00:00.000Z"
+            }
+        ],
+        "certidoes": [],
+        "bancarias": [],
+        "compras": [],
+        "internet": [],
+        "irpf": [
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "0000",
+                "lote": "0",
+                "dataLote": "",
+                "anoReferencia": "2017",
+                "situacaoReceita": "SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL",
+                "dataConsulta": "2018-04-30 03:09:00"
+            },
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2020",
+                "situacaoReceita": "SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL",
+                "dataConsulta": "2020-10-13 00:15:22"
+            }
+        ],
+        "interesses": {
+            "creditoPessoalPreAprovado": true,
+            "creditoImobiliarioPreAprovado": true,
+            "financiamentoDeVeiculoPreAprovado": true,
+            "classeMedia": false,
+            "debitoAutomatico": false,
+            "possuiLuxo": true,
+            "possuiInvestimentos": true,
+            "possuiCartaoDeCredito": true,
+            "possuiMultiplosCartoes": false,
+            "possuiContaAltoPadrao": false,
+            "possuiCartaoBlack": false,
+            "possuiCartaoPrime": false,
+            "possuiCelularPrePago": false,
+            "possuiCelularPosPago": true,
+            "possuiMilhasAcumuladas": true,
+            "possuiCasaPropria": true,
+            "possuiDescontos": true,
+            "possuiContasCorrentes": true,
+            "possuiInternetBanking": true,
+            "possuiSeguroAutomotivo": true,
+            "possuiPrevidenciaPrivada": true,
+            "realizouViagens": true
+        }
+    }
+}

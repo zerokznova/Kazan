@@ -1,0 +1,364 @@
+🔎 Consulta completa dentro do arquivo
+
+• Base: cpf
+• Dado pesquisado: 04195870984
+
+{
+    "success": true,
+    "query": "04195870984",
+    "query_date": "2025-07-16T13:32:21.943Z",
+    "query_id": "ae94fa1f-c224-477e-bb9d-129a375fbe9e",
+    "data": {
+        "dadosBasicos": {
+            "cnsDef": "708609543729780",
+            "cnsProv": "700005457724004",
+            "cpf": "04195870984",
+            "nome": "MARCIA DE CAMARGO SIQUEIRA",
+            "nomeSocial": "",
+            "sexo": "F",
+            "sexoRetratado": "F",
+            "nasc": "1981-08-20 00:00:00",
+            "racaCor": "BRANCO(A)",
+            "signo": "LEÃO",
+            "tipoSanguineo": "",
+            "partoGemelar": false,
+            "vipSus": false,
+            "vipMotivo": "",
+            "escolaridade": "ENSINO FUNDAMENTAL",
+            "empresario": true,
+            "aposentado": false,
+            "servidorPubl": false,
+            "nacionalidade": "",
+            "estCivil": "CASADO(A)",
+            "rendaAtual": "3500",
+            "scoreFaixa": "ENTRE 501 E 750",
+            "scoreSpc": "138",
+            "filiacao": {
+                "nomeMae": "NAIR DE CAMARGO",
+                "nomePai": "SALATIEL SOARES DE CAMARGO"
+            },
+            "situacaoCadastral": {
+                "descricao": "REGULAR",
+                "dataSituacao": "2023-11-11 05:42:44",
+                "obito": {}
+            }
+        },
+        "registroGeral": {
+            "rgNumero": "151409",
+            "orgaoEmissor": "SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA",
+            "ufEmissao": "PR"
+        },
+        "bigDataDocumentos": [],
+        "serasaAnalytics": {
+            "csb8": "",
+            "csb8Faixa": "",
+            "csb8Descricao": "UTILIZADO PARA ANÁLISE DE PRODUTOS DE CRÉDITO PESSOAL",
+            "csba": "264",
+            "csbaFaixa": "ALTO",
+            "csbaDescricao": "UTILIZADO PARA ANÁLISE E AVALIAÇÃO DE CRÉDITO EMPRESARIAL SOBRE O TITULAR"
+        },
+        "serasaMosaic": {
+            "codMosaic": "F18",
+            "descricaoMosaic": "",
+            "codMosaicSecundario": "E17",
+            "descMosaicSecundario": "ASCENDENTES DO BAIRRO",
+            "codMosaicNovo": "D10",
+            "descricaoMosaicNovo": "NO CORAÇÃO DA PERIFERIA"
+        },
+        "serasaConselhos": [],
+        "poderAquisitivo": {
+            "codPoderAquisitivo": "4",
+            "poderAquisitivo": "MEDIO",
+            "renda": "3500",
+            "faixaRenda": "DE R$ 1631 ATÉ R$ 4082"
+        },
+        "profissaoAtual": {
+            "cboNumero": "252105",
+            "cboDescricao": "ADMINISTRADOR",
+            "servidoresPublicos": []
+        },
+        "universitario": [],
+        "pisPasep": [
+            {
+                "numeroPis": "12627250495",
+                "dataInclusao": "2022-02-23 00:00:00"
+            }
+        ],
+        "nisHist": [],
+        "tse": [
+            {
+                "tituloEleitoral": "075688410671",
+                "zona": "68",
+                "secao": "353"
+            }
+        ],
+        "telefones": [
+            {
+                "ddd": "41",
+                "telefone": "32758744",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "41",
+                "telefone": "32037280",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "41",
+                "telefone": "32758477",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "41",
+                "telefone": "991720938",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "41",
+                "telefone": "996739795",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "41",
+                "telefone": "35018202",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            }
+        ],
+        "emails": [
+            {
+                "email": "reinaldosiqueirarey@hotmail.com",
+                "score": "BOM",
+                "usoPessoal": false,
+                "blackList": false
+            },
+            {
+                "email": "luzinha.c.siqueira@hotmail.com",
+                "score": "POTENCIALMENTE BOM",
+                "usoPessoal": false,
+                "blackList": false
+            },
+            {
+                "email": "siqueiraluannyc@gmail.com",
+                "score": "POTENCIALMENTE BOM",
+                "usoPessoal": false,
+                "blackList": false
+            },
+            {
+                "email": "reinaldo@luanny.com.br",
+                "score": "RUIM",
+                "usoPessoal": false,
+                "blackList": false
+            },
+            {
+                "email": "adelinotdias@petrobras.com.br",
+                "score": "",
+                "usoPessoal": true,
+                "blackList": false
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "R APINAJES",
+                "numero": "255",
+                "complemento": "",
+                "bairro": "STA CRUZ",
+                "cidade": "CASCAVEL",
+                "siglaUf": "PR",
+                "cep": "85806140"
+            },
+            {
+                "logradouro": "R JOEL PEDRINI",
+                "numero": "",
+                "complemento": "",
+                "bairro": "UBERABA",
+                "cidade": "CURITIBA",
+                "siglaUf": "PR",
+                "cep": ""
+            },
+            {
+                "logradouro": "HAYTON DA SILVA PEREIRA",
+                "numero": "1015",
+                "complemento": "",
+                "bairro": "CAPAO DA IMBUIA",
+                "cidade": "410690",
+                "siglaUf": "PR",
+                "cep": "82810170"
+            },
+            {
+                "logradouro": "APINAJES",
+                "numero": "255",
+                "complemento": "1",
+                "bairro": "STA CRUZ",
+                "cidade": "CASCAVEL",
+                "siglaUf": "PR",
+                "cep": "85806140"
+            }
+        ],
+        "veiculos": [],
+        "parentes": [
+            {
+                "nome": "NAIR DE CAMARGO",
+                "cpf": "",
+                "tipoVinculo": "MAE"
+            }
+        ],
+        "vizinhos": [],
+        "empresas": [],
+        "empregos": [],
+        "dividas": [
+            {
+                "referenciaDivida": "SIDA",
+                "receitaPrincipal": "DIV ATIVA-SIMPLES NACIONAL",
+                "numeroInscricao": "9042102304607",
+                "dataInscricao": "2021-04-05 00:00:00",
+                "tipoSitInscricao": "BENEFÍCIO FISCAL",
+                "situacaoInscricao": "ATIVA NAO AJUIZAVEL NEGOCIADA NO SISPAR",
+                "indicadorAjuizado": false,
+                "valorConsolidado": "12555.15"
+            },
+            {
+                "referenciaDivida": "SIDA",
+                "receitaPrincipal": "DIV ATIVA-SIMPLES NACIONAL",
+                "numeroInscricao": "9042102304607",
+                "dataInscricao": "2021-04-05 00:00:00",
+                "tipoSitInscricao": "BENEFÍCIO FISCAL",
+                "situacaoInscricao": "ATIVA NAO AJUIZAVEL NEGOCIADA NO SISPAR",
+                "indicadorAjuizado": false,
+                "valorConsolidado": "13076.43"
+            },
+            {
+                "referenciaDivida": "SIDA",
+                "receitaPrincipal": "DIV ATIVA-SIMPLES NACIONAL",
+                "numeroInscricao": "9042104694712",
+                "dataInscricao": "2021-06-21 00:00:00",
+                "tipoSitInscricao": "BENEFÍCIO FISCAL",
+                "situacaoInscricao": "ATIVA NAO AJUIZAVEL NEGOCIADA NO SISPAR",
+                "indicadorAjuizado": false,
+                "valorConsolidado": "48146.48"
+            }
+        ],
+        "beneficios": {
+            "previdenciaSocial": {
+                "descricao": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "fundoGarantia": {
+                "descricao": "FUNDO DE GARANTIA DE TEMPO DE SERVIÇO",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas ": []
+            },
+            "assistenciaSocial": {
+                "descricao": "LEI ORGÂNICA DE ASSISTÊNCIA SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioEmergencial": {
+                "descricao": "AUXÍLIO EMERGENCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioBrasil": {
+                "descricao": "AUXÍLIO BRASIL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "bolsaFamilia": {
+                "descricao": "BOLSA FAMÍLIA",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "detalhamentoDependentes": []
+            },
+            "saudeParticular": {
+                "descricao": "PLANOS DE SAÚDE",
+                "tipoAcesso": "PRIVADO",
+                "totalContrato": "0",
+                "registroContratos": []
+            }
+        },
+        "vacinas": [],
+        "certidoes": [],
+        "bancarias": [],
+        "compras": [],
+        "internet": [],
+        "irpf": [
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2020",
+                "situacaoReceita": "SALDO INEXISTENTE DE IMPOSTO A PAGAR OU A RESTITUIR.",
+                "dataConsulta": "2020-09-22 01:35:59"
+            },
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "0000",
+                "lote": "0",
+                "dataLote": "",
+                "anoReferencia": "2016",
+                "situacaoReceita": "SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL",
+                "dataConsulta": "2019-01-17 10:04:00"
+            },
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2017",
+                "situacaoReceita": "SALDO INEXISTENTE DE IMPOSTO A PAGAR OU A RESTITUIR",
+                "dataConsulta": "2018-11-15 04:19:00"
+            },
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "0000",
+                "lote": "0",
+                "dataLote": "",
+                "anoReferencia": "2015",
+                "situacaoReceita": "SALDO INEXISTENTE DE IMPOSTO A PAGAR OU A RESTITUIR",
+                "dataConsulta": "2019-01-12 06:13:00"
+            }
+        ],
+        "interesses": {
+            "creditoPessoalPreAprovado": true,
+            "creditoImobiliarioPreAprovado": true,
+            "financiamentoDeVeiculoPreAprovado": true,
+            "classeMedia": false,
+            "debitoAutomatico": false,
+            "possuiLuxo": true,
+            "possuiInvestimentos": true,
+            "possuiCartaoDeCredito": true,
+            "possuiMultiplosCartoes": false,
+            "possuiContaAltoPadrao": true,
+            "possuiCartaoBlack": true,
+            "possuiCartaoPrime": true,
+            "possuiCelularPrePago": false,
+            "possuiCelularPosPago": true,
+            "possuiMilhasAcumuladas": true,
+            "possuiCasaPropria": true,
+            "possuiDescontos": true,
+            "possuiContasCorrentes": true,
+            "possuiInternetBanking": true,
+            "possuiSeguroAutomotivo": true,
+            "possuiPrevidenciaPrivada": true,
+            "realizouViagens": true
+        }
+    }
+}

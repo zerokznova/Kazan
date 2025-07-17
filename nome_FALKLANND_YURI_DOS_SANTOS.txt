@@ -1,0 +1,20 @@
+🔎 CONSULTA COMPLETA
+
+• Base: nome
+• Dado pesquisado: FALKLANND YURI DOS SANTOS
+
+{
+    "success": true,
+    "query": "FALKLANND YURI DOS SANTOS",
+    "query_date": "2025-07-17T16:56:42.897Z",
+    "query_id": "c39c6864-56da-4d85-ba70-1264b4d85ad3",
+    "data": [
+        {
+            "nome": "FALKLANND YURI DOS SANTOS",
+            "cpf": "45349429825",
+            "nasc": "1996-03-10",
+            "sexo": "M",
+            "nomeMae": "CLAUDIA VIEIRA PELLEGRINO"
+        }
+    ]
+}

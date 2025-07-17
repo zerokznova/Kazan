@@ -1,0 +1,2085 @@
+🔎 Consulta completa dentro do arquivo
+
+• Base: nome
+• Dado pesquisado: Marco Aurélio Duarte
+
+{
+    "success": true,
+    "query": "MARCO AURELIO DUARTE",
+    "query_date": "2025-07-16T13:39:09.452Z",
+    "query_id": "b4823d8d-cad1-4167-9f3a-f591a06548a9",
+    "data": [
+        {
+            "nome": "MARCO AURELIO NEVES DUARTE",
+            "cpf": "00606127038",
+            "nasc": "1979-05-06",
+            "sexo": "M",
+            "nomeMae": "MARINA GORETI NEVES"
+        },
+        {
+            "nome": "MARCO AURELIO CANDIDO DUARTE",
+            "cpf": "14305406802",
+            "nasc": "1970-04-25",
+            "sexo": "M",
+            "nomeMae": "CICERA FERREIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DE PAULA DUARTE",
+            "cpf": "26680884888",
+            "nasc": "1978-10-16",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA DE PAULA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "05454130877",
+            "nasc": "1963-10-08",
+            "sexo": "M",
+            "nomeMae": "OROZINA SILVA A DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "42794064053",
+            "nasc": "1968-02-16",
+            "sexo": "M",
+            "nomeMae": "MARIA FLORISBELA RODRIGUES DUA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DOS SANTOS",
+            "cpf": "03557865754",
+            "nasc": "1973-10-29",
+            "sexo": "M",
+            "nomeMae": "RACHEL DUARTE DOS SANTOS"
+        },
+        {
+            "nome": "MARCO AURELIO JOSE DUARTE",
+            "cpf": "58815295100",
+            "nasc": "1974-04-12",
+            "sexo": "M",
+            "nomeMae": "ELIENE JOSE TEREZA"
+        },
+        {
+            "nome": "MARCO AURELIO ARAUJO DUARTE",
+            "cpf": "60316063134",
+            "nasc": "1973-02-16",
+            "sexo": "M",
+            "nomeMae": "MARIA EDNA ARAUJO DOS SANTOS"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "11322982880",
+            "nasc": "1966-02-24",
+            "sexo": "M",
+            "nomeMae": "APARECIDA SERIGATTO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE MENDES",
+            "cpf": "02834866600",
+            "nasc": "1976-12-24",
+            "sexo": "M",
+            "nomeMae": "DELISE MARIA DUARTE MENDES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE RENNO",
+            "cpf": "68232365668",
+            "nasc": "1968-01-15",
+            "sexo": "M",
+            "nomeMae": "MARIA DO CARMO DUARTE RENNO"
+        },
+        {
+            "nome": "MARCO AURELIO CABRAL DUARTE",
+            "cpf": "72312106604",
+            "nasc": "1967-01-01",
+            "sexo": "M",
+            "nomeMae": "MARIA CELIA CABRAL DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DA ROCHA DUARTE",
+            "cpf": "38477017034",
+            "nasc": "1962-12-09",
+            "sexo": "M",
+            "nomeMae": "ELBIA LUCIA DA ROCHA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO ROCHA DUARTE",
+            "cpf": "82354928149",
+            "nasc": "1977-08-09",
+            "sexo": "M",
+            "nomeMae": "AURENI ROCHA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE OLIVEIRA",
+            "cpf": "30288718828",
+            "nasc": "1979-03-25",
+            "sexo": "M",
+            "nomeMae": "NEUSA MARIA DUARTE DE OLIVEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE BORGES",
+            "cpf": "47995874049",
+            "nasc": "1966-03-30",
+            "sexo": "M",
+            "nomeMae": "FIRMINA FRANCISCA NUNES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "00975974491",
+            "nasc": "1942-05-14",
+            "sexo": "M",
+            "nomeMae": "ADELAIDE DUARTE BARROS"
+        },
+        {
+            "nome": "MARCO AURELIO TOLEDO DUARTE",
+            "cpf": "49710745972",
+            "nasc": "1964-02-16",
+            "sexo": "M",
+            "nomeMae": "VIRGINIA INES T DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DE ALMEIDA DUARTE",
+            "cpf": "98625454704",
+            "nasc": "1968-03-17",
+            "sexo": "M",
+            "nomeMae": "MARIA PUREZA DE ALMEIDA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO POMODORO DUARTE",
+            "cpf": "23547154715",
+            "nasc": "1951-09-06",
+            "sexo": "M",
+            "nomeMae": "ITALIA P DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO XAVIER DUARTE",
+            "cpf": "57148201004",
+            "nasc": "1967-04-02",
+            "sexo": "M",
+            "nomeMae": "MARILDA XAVIER DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE NOGUEIRA",
+            "cpf": "47405368034",
+            "nasc": "1968-10-09",
+            "sexo": "M",
+            "nomeMae": "MARIA ZIFA DUARTE NOGUEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO DA SILVA DUARTE",
+            "cpf": "63990695053",
+            "nasc": "1973-08-23",
+            "sexo": "M",
+            "nomeMae": "VALKIRIA DA SILVA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA COSTA",
+            "cpf": "41613961049",
+            "nasc": "1964-06-20",
+            "sexo": "M",
+            "nomeMae": "NILZA MARIA DA COSTA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE TEIXEIRA",
+            "cpf": "26621653832",
+            "nasc": "1974-03-21",
+            "sexo": "M",
+            "nomeMae": "FLORIPES DUARTE TEIXEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO CAMPOS DUARTE",
+            "cpf": "50188666672",
+            "nasc": "1960-03-02",
+            "sexo": "M",
+            "nomeMae": "ELZA DE CAMPOS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DOS SANTOS",
+            "cpf": "00064694771",
+            "nasc": "1968-09-08",
+            "sexo": "M",
+            "nomeMae": "MARIA GRACAS DUARTE DOS SANT"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE ALVES",
+            "cpf": "01212483804",
+            "nasc": "1961-09-04",
+            "sexo": "M",
+            "nomeMae": "ANA DIAS DUARTE ALVES"
+        },
+        {
+            "nome": "MARCO AURELIO RIBEIRO DUARTE",
+            "cpf": "03208791607",
+            "nasc": "1977-04-19",
+            "sexo": "M",
+            "nomeMae": "JIANE RIBEIRO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA SILVA",
+            "cpf": "04080770774",
+            "nasc": "1961-12-24",
+            "sexo": "M",
+            "nomeMae": "VERA LUCIA DUARTE DA SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO LIMA DUARTE",
+            "cpf": "17442036015",
+            "nasc": "1951-10-24",
+            "sexo": "M",
+            "nomeMae": "IOLANDA LIMA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO MELO DUARTE",
+            "cpf": "29128994272",
+            "nasc": "1966-06-08",
+            "sexo": "M",
+            "nomeMae": "DULCICLE MELO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE LAMEIRA",
+            "cpf": "44281579249",
+            "nasc": "1975-02-27",
+            "sexo": "M",
+            "nomeMae": "IVANIR DUARTE LAMEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO FREITAS DUARTE",
+            "cpf": "23672013072",
+            "nasc": "1958-01-10",
+            "sexo": "M",
+            "nomeMae": "MARIA FREITAS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO ALMEIDA DUARTE",
+            "cpf": "35860049072",
+            "nasc": "1961-12-15",
+            "sexo": "M",
+            "nomeMae": "ODETE ALMEIDA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DE ANDRADE DUARTE GONCALVES",
+            "cpf": "10795575807",
+            "nasc": "1966-09-25",
+            "sexo": "M",
+            "nomeMae": "MARIA LAZARA DUARTE GONCALVES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE BEZERRA",
+            "cpf": "34707700772",
+            "nasc": "1949-07-11",
+            "sexo": "M",
+            "nomeMae": "MARIA DE LOURDES PINTO BEZERRA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE STODUTO",
+            "cpf": "92386580725",
+            "nasc": "1967-06-21",
+            "sexo": "M",
+            "nomeMae": "VERA MARIA DUARTE STODUTO"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SILVA",
+            "cpf": "16862132806",
+            "nasc": "1973-09-09",
+            "sexo": "M",
+            "nomeMae": "ANA MARIA DUARTE DA SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO AGUILERA DUARTE",
+            "cpf": "14243065829",
+            "nasc": "1972-12-13",
+            "sexo": "M",
+            "nomeMae": "EVANY AGUILERA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO ALMEIDA DUARTE",
+            "cpf": "00498859959",
+            "nasc": "1978-08-17",
+            "sexo": "M",
+            "nomeMae": "MARIA DE FATIMA ALMEIDA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SIMOES",
+            "cpf": "92952712115",
+            "nasc": "1977-04-19",
+            "sexo": "M",
+            "nomeMae": "MARIA DAS GRACAS DUARTE SIMOES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE LIMA",
+            "cpf": "57315108220",
+            "nasc": "1971-05-22",
+            "sexo": "M",
+            "nomeMae": "WILMA DUARTE DE LIMA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE RIBEIRO",
+            "cpf": "30093511191",
+            "nasc": "1964-01-15",
+            "sexo": "M",
+            "nomeMae": "MARIA TEREZA O RIBEIRO"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "95094482734",
+            "nasc": "1967-09-26",
+            "sexo": "M",
+            "nomeMae": "IRIS MOREIRA DE SOUSA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO MAYER DUARTE",
+            "cpf": "00231002491",
+            "nasc": "1941-06-07",
+            "sexo": "M",
+            "nomeMae": "DJANIRA MAYER DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE ROCHA",
+            "cpf": "32239807687",
+            "nasc": "1960-01-07",
+            "sexo": "M",
+            "nomeMae": "CARMEN DUARTE ROCHA"
+        },
+        {
+            "nome": "MARCO AURELIO LAGE DUARTE",
+            "cpf": "52237710600",
+            "nasc": "1968-04-01",
+            "sexo": "M",
+            "nomeMae": "EFIGENIA LAGE DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SOARES",
+            "cpf": "47780045072",
+            "nasc": "1967-03-01",
+            "sexo": "M",
+            "nomeMae": "AUREA DUARTE SOARES"
+        },
+        {
+            "nome": "MARCO AURELIO DE CASTRO DUARTE",
+            "cpf": "18058999881",
+            "nasc": "1973-09-28",
+            "sexo": "M",
+            "nomeMae": "ELZA DE CASTRO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DELGADO",
+            "cpf": "42631653068",
+            "nasc": "1962-05-31",
+            "sexo": "M",
+            "nomeMae": "FLORIZA DUARTE DELGADO"
+        },
+        {
+            "nome": "MARCO AURELIO COMPARATO DUARTE",
+            "cpf": "28055750831",
+            "nasc": "1979-05-11",
+            "sexo": "M",
+            "nomeMae": "SANDRA DE CASSIA COMPARATO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "09027119899",
+            "nasc": "1970-04-27",
+            "sexo": "M",
+            "nomeMae": "ARACI CARDOSO"
+        },
+        {
+            "nome": "MARCO AURELIO PELINSON DUARTE",
+            "cpf": "26417054861",
+            "nasc": "1977-10-26",
+            "sexo": "M",
+            "nomeMae": "HELENA MARIA DO CARMO PELINSON DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE AZEVEDO",
+            "cpf": "31624757839",
+            "nasc": "1980-03-19",
+            "sexo": "M",
+            "nomeMae": "ESMERALDA DE FATIMA AZEVEDO"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "09463854835",
+            "nasc": "1967-04-08",
+            "sexo": "M",
+            "nomeMae": "MARIA AUXILIADORA MUNIZ DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE MOREIRA",
+            "cpf": "21422180832",
+            "nasc": "1978-07-06",
+            "sexo": "M",
+            "nomeMae": "MARLENE MATIAS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO RAMOS DUARTE",
+            "cpf": "17755289877",
+            "nasc": "1978-02-06",
+            "sexo": "M",
+            "nomeMae": "IZOLINA RAMOS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO BASSOALD DUARTE",
+            "cpf": "63251132091",
+            "nasc": "1957-08-20",
+            "sexo": "M",
+            "nomeMae": "MARIA EVA BASSOALD DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DA SILVA DUARTE",
+            "cpf": "27237242806",
+            "nasc": "1979-07-18",
+            "sexo": "M",
+            "nomeMae": "CLARICE ALVES DA SILVA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO XAVIER DUARTE",
+            "cpf": "55313892649",
+            "nasc": "1966-05-27",
+            "sexo": "M",
+            "nomeMae": "LEOPOLDINA XAVIER DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO PROCOPIO DUARTE",
+            "cpf": "02820011667",
+            "nasc": "1975-03-13",
+            "sexo": "M",
+            "nomeMae": "MARLETH DUARTE ANDRADE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE PINHEIRO DA CAMARA",
+            "cpf": "02166148484",
+            "nasc": "1973-04-07",
+            "sexo": "M",
+            "nomeMae": "DULCEIDE DUARTE PINHEIRO DA CAMARA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE PRAES",
+            "cpf": "74516566672",
+            "nasc": "1965-01-02",
+            "sexo": "M",
+            "nomeMae": "MYRTHES DUARTE PRAES"
+        },
+        {
+            "nome": "MARCO AURELIO CAMPOS DUARTE",
+            "cpf": "12328410804",
+            "nasc": "1968-12-19",
+            "sexo": "M",
+            "nomeMae": "ELOISA ELENA CAMPOS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE CARVALHO",
+            "cpf": "05183711747",
+            "nasc": "1977-10-06",
+            "sexo": "M",
+            "nomeMae": "NADJA SADE DE CARVALHO"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "16437270870",
+            "nasc": "1975-10-24",
+            "sexo": "M",
+            "nomeMae": "TEREZA DA ROCHA"
+        },
+        {
+            "nome": "MARCO AURELIO BRANDAO DUARTE",
+            "cpf": "16518024836",
+            "nasc": "1975-10-13",
+            "sexo": "M",
+            "nomeMae": "ELVIRA GOMES BRANDAO"
+        },
+        {
+            "nome": "MARCO AURELIO PEREIRA DUARTE",
+            "cpf": "22222994896",
+            "nasc": "1980-06-22",
+            "sexo": "M",
+            "nomeMae": "MARIA SUELI VIEIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO NAZARE DUARTE",
+            "cpf": "82306141720",
+            "nasc": "1966-05-29",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA NAZARE DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "04771255652",
+            "nasc": "1979-12-07",
+            "sexo": "M",
+            "nomeMae": "ELZA TEODORA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE BERNARDES",
+            "cpf": "41466292091",
+            "nasc": "1964-05-29",
+            "sexo": "M",
+            "nomeMae": "ARLETE HELENA DUARTE BERNARDES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE BRITO",
+            "cpf": "99258935691",
+            "nasc": "1968-12-06",
+            "sexo": "M",
+            "nomeMae": "LUCY DUARTE DE BRITO"
+        },
+        {
+            "nome": "MARCO AURELIO CALDEIRA DUARTE",
+            "cpf": "57864276687",
+            "nasc": "1965-03-16",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA SILVA",
+            "cpf": "89742311749",
+            "nasc": "1965-03-02",
+            "sexo": "M",
+            "nomeMae": "MARLENE DUARTE DA SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA SILVEIRA",
+            "cpf": "87117479604",
+            "nasc": "1970-09-02",
+            "sexo": "M",
+            "nomeMae": "CRISTINA MARIA DA SILVEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO COUTINHO DUARTE",
+            "cpf": "80366163604",
+            "nasc": "1972-02-07",
+            "sexo": "M",
+            "nomeMae": "EROTIDES COUTINHO"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA SILVA",
+            "cpf": "79688829153",
+            "nasc": "1976-03-31",
+            "sexo": "M",
+            "nomeMae": "NATALIA DUARTE DA SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE OLIVEIRA",
+            "cpf": "28843917897",
+            "nasc": "1979-01-29",
+            "sexo": "M",
+            "nomeMae": "SANDRA MARIA DUARTE DE OLIVEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "51684276004",
+            "nasc": "1963-04-26",
+            "sexo": "M",
+            "nomeMae": "HELIA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO ARRUDA DUARTE",
+            "cpf": "56872011653",
+            "nasc": "1966-07-01",
+            "sexo": "M",
+            "nomeMae": "ZILENE GUIMARAES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SOARES",
+            "cpf": "29074525768",
+            "nasc": "1949-02-23",
+            "sexo": "M",
+            "nomeMae": "CIBELE DUARTE SOARES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "25737001865",
+            "nasc": "1976-05-18",
+            "sexo": "M",
+            "nomeMae": "ELDA SISDELLI DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DE SOUZA DUARTE",
+            "cpf": "01869287770",
+            "nasc": "1971-02-15",
+            "sexo": "M",
+            "nomeMae": "MARIA LINA DIAS SOUZA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE TRANCOSO",
+            "cpf": "00368485730",
+            "nasc": "1968-11-16",
+            "sexo": "M",
+            "nomeMae": "SONIA MARIA DUARTE TRANCOSO"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "78838584672",
+            "nasc": "1971-05-17",
+            "sexo": "M",
+            "nomeMae": "MARIA DE LOURDES SA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "02505766940",
+            "nasc": "1976-12-22",
+            "sexo": "M",
+            "nomeMae": "APARECIDA CLAUDETE CICARELLI DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE PIRES",
+            "cpf": "72931698768",
+            "nasc": "1963-01-18",
+            "sexo": "M",
+            "nomeMae": "AMALIA DUARTE PIRES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "16524705149",
+            "nasc": "1951-03-07",
+            "sexo": "M",
+            "nomeMae": "MARIA VIEIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO SOUZA DUARTE",
+            "cpf": "16286625810",
+            "nasc": "1974-10-25",
+            "sexo": "M",
+            "nomeMae": "MARIA ILZA SOUZA SANTOS"
+        },
+        {
+            "nome": "MARCO AURELIO SILVA DUARTE",
+            "cpf": "01481852159",
+            "nasc": "1984-01-06",
+            "sexo": "M",
+            "nomeMae": "MARIA SOCORRO SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE ALMEIDA",
+            "cpf": "17268249772",
+            "nasc": "1949-02-23",
+            "sexo": "M",
+            "nomeMae": "LECY DUARTE DE ALMEIDA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SILVA",
+            "cpf": "63869144734",
+            "nasc": "1960-02-23",
+            "sexo": "M",
+            "nomeMae": "ARACY DUARTE SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO PAIVA DUARTE",
+            "cpf": "49179349749",
+            "nasc": "1958-07-12",
+            "sexo": "M",
+            "nomeMae": "MARIA CRUZ DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO GONCALVES DUARTE",
+            "cpf": "99214784787",
+            "nasc": "1966-01-24",
+            "sexo": "M",
+            "nomeMae": "DEYSE GONCALVES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DE MELLO DUARTE",
+            "cpf": "98099809734",
+            "nasc": "1967-06-02",
+            "sexo": "M",
+            "nomeMae": "REGINA LUCIA DE MELLO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE NOGUEIRA",
+            "cpf": "70529361787",
+            "nasc": "1958-11-01",
+            "sexo": "M",
+            "nomeMae": "LUCIA DUARTE NOGUEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE LEITAO",
+            "cpf": "95492046772",
+            "nasc": "1971-09-03",
+            "sexo": "M",
+            "nomeMae": "LEONTINA DUARTE LEITAO"
+        },
+        {
+            "nome": "MARCO AURELIO DA SILVA DUARTE",
+            "cpf": "40306348772",
+            "nasc": "1952-03-31",
+            "sexo": "M",
+            "nomeMae": "EDYR GUIMARAES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "44469241849",
+            "nasc": "1942-05-31",
+            "sexo": "M",
+            "nomeMae": "IRALDINA CARDOSO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO LIMA DUARTE",
+            "cpf": "40166481068",
+            "nasc": "1965-09-12",
+            "sexo": "M",
+            "nomeMae": "MARIA DAS GRACAS LIMA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE ALVES",
+            "cpf": "31184393869",
+            "nasc": "1984-08-26",
+            "sexo": "M",
+            "nomeMae": "DOLORES DUARTE ALVES"
+        },
+        {
+            "nome": "MARCO AURELIO RODRIGUES DUARTE",
+            "cpf": "00115640088",
+            "nasc": "1978-07-26",
+            "sexo": "M",
+            "nomeMae": "VERA LUCIA RODRIGUES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "50991337034",
+            "nasc": "1969-10-26",
+            "sexo": "M",
+            "nomeMae": "ONEIDE DOS REIS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO FONSECA DUARTE",
+            "cpf": "57228000072",
+            "nasc": "1967-01-24",
+            "sexo": "M",
+            "nomeMae": "MARIA DELFINA DA SILVA FONSECA"
+        },
+        {
+            "nome": "MARCO AURELIO SOARES DUARTE",
+            "cpf": "01478173157",
+            "nasc": "1984-05-13",
+            "sexo": "M",
+            "nomeMae": "DAMIANA GARCIA DA COSTA SOARES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE BARBOSA",
+            "cpf": "50592815153",
+            "nasc": "1972-04-16",
+            "sexo": "M",
+            "nomeMae": "EUNICE DUARTE BARBOSA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "25882257808",
+            "nasc": "1977-01-03",
+            "sexo": "M",
+            "nomeMae": "MARIA LOPES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA SILVA",
+            "cpf": "20585816875",
+            "nasc": "1975-01-29",
+            "sexo": "M",
+            "nomeMae": "ISTELITA DUARTE GONSALVE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE KAIRALLA",
+            "cpf": "06870598878",
+            "nasc": "1964-02-21",
+            "sexo": "M",
+            "nomeMae": "MARLI TEREZA DUARTE KAIRALLA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "09858312865",
+            "nasc": "1969-03-16",
+            "sexo": "M",
+            "nomeMae": "MARIA AUREA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE GONCALVES",
+            "cpf": "00188123687",
+            "nasc": "1942-05-24",
+            "sexo": "M",
+            "nomeMae": "MARIA DAS DORES CALDEIRA GONCALVES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE MOURA",
+            "cpf": "48751294672",
+            "nasc": "1965-03-14",
+            "sexo": "M",
+            "nomeMae": "MIRIAM DA C LOPES MOURA"
+        },
+        {
+            "nome": "MARCO AURELIO PEREIRA DUARTE",
+            "cpf": "07480060793",
+            "nasc": "1976-08-22",
+            "sexo": "M",
+            "nomeMae": "MARIA JANDIRA PEREIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE BARBOSA",
+            "cpf": "02148109766",
+            "nasc": "1970-06-09",
+            "sexo": "M",
+            "nomeMae": "MARGARIDA DAS GRACAS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO GREY DUARTE",
+            "cpf": "00136628729",
+            "nasc": "1938-06-25",
+            "sexo": "M",
+            "nomeMae": "COSMA GREY DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE VIEGAS",
+            "cpf": "00508883741",
+            "nasc": "1968-12-22",
+            "sexo": "M",
+            "nomeMae": "LUZIA DUARTE VIEGAS"
+        },
+        {
+            "nome": "MARCO AURELIO GOMES DUARTE",
+            "cpf": "03936323771",
+            "nasc": "1972-10-24",
+            "sexo": "M",
+            "nomeMae": "AGENILDA GOMES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO PERISSE DUARTE MENDONCA",
+            "cpf": "69991782753",
+            "nasc": "1960-12-12",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "40406601887",
+            "nasc": "1946-07-26",
+            "sexo": "M",
+            "nomeMae": "JORACY DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DA SILVA DUARTE",
+            "cpf": "65415035087",
+            "nasc": "1972-10-29",
+            "sexo": "M",
+            "nomeMae": "MARIA DA SILVA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO PAGANI DUARTE",
+            "cpf": "55172920030",
+            "nasc": "1966-03-04",
+            "sexo": "M",
+            "nomeMae": "ERLI SOARES PAGANI"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE AVILA",
+            "cpf": "36262471049",
+            "nasc": "1964-11-05",
+            "sexo": "M",
+            "nomeMae": "EDELVIRA DUARTE DE AVILA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "02956057820",
+            "nasc": "1964-01-14",
+            "sexo": "M",
+            "nomeMae": "MARINALVA DE ABREU DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DOS SANTOS DUARTE",
+            "cpf": "02574147979",
+            "nasc": "1978-01-11",
+            "sexo": "M",
+            "nomeMae": "MARINA EDITE DOS SANTOS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO CAMPOZZANI DUARTE",
+            "cpf": "35283491072",
+            "nasc": "1962-05-15",
+            "sexo": "M",
+            "nomeMae": "MARIA DE LOURDES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "37505497880",
+            "nasc": "1987-03-06",
+            "sexo": "M",
+            "nomeMae": "MARIA DULCEA SILVA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE BESSI",
+            "cpf": "12238259813",
+            "nasc": "1969-03-31",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO VIEIRA DUARTE",
+            "cpf": "47209267034",
+            "nasc": "1965-01-31",
+            "sexo": "M",
+            "nomeMae": "OSWALDINA VIEIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "39958469049",
+            "nasc": "1962-03-01",
+            "sexo": "M",
+            "nomeMae": "NOEMI ORDEIA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "55498728034",
+            "nasc": "1968-10-27",
+            "sexo": "M",
+            "nomeMae": "HELOISA HELENA B DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DOS SANTOS DUARTE",
+            "cpf": "46884998091",
+            "nasc": "1967-08-09",
+            "sexo": "M",
+            "nomeMae": "VERA SANTOS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "01597762792",
+            "nasc": "1969-07-04",
+            "sexo": "M",
+            "nomeMae": "SONIA MARIA DO N DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE JESUS",
+            "cpf": "86247344520",
+            "nasc": "1972-05-25",
+            "sexo": "M",
+            "nomeMae": "AIDIL DUARTE DE JESUS"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA SILVA",
+            "cpf": "86439499734",
+            "nasc": "1965-08-09",
+            "sexo": "M",
+            "nomeMae": "CARMELITA DUARTE DE ALMEIDA"
+        },
+        {
+            "nome": "MARCO AURELIO DE SOUZA DUARTE",
+            "cpf": "73766429272",
+            "nasc": "1984-02-15",
+            "sexo": "M",
+            "nomeMae": "JOSEFA DE SOUZA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "87405679900",
+            "nasc": "1972-12-12",
+            "sexo": "M",
+            "nomeMae": "JUSSARA FATIMA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE PAULA",
+            "cpf": "54177235687",
+            "nasc": "1964-02-05",
+            "sexo": "M",
+            "nomeMae": "EFIGENIA DUARTE DA SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO DE SOUZA DUARTE",
+            "cpf": "80635229749",
+            "nasc": "1968-10-06",
+            "sexo": "M",
+            "nomeMae": "ZEULACI DE SOUZA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO PEREIRA DUARTE",
+            "cpf": "03112092708",
+            "nasc": "1977-06-28",
+            "sexo": "M",
+            "nomeMae": "SEBASTIANA PEREIRA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE FONSECA",
+            "cpf": "06047583679",
+            "nasc": "1981-10-18",
+            "sexo": "M",
+            "nomeMae": "MARIA JOSE DUARTE FONSECA"
+        },
+        {
+            "nome": "MARCO AURELIO MENEZES BEZERRA DUARTE",
+            "cpf": "79423353487",
+            "nasc": "1971-07-29",
+            "sexo": "M",
+            "nomeMae": "ALBA MENEZE BEZERA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE OLIVEIRA",
+            "cpf": "88370615104",
+            "nasc": "1979-02-17",
+            "sexo": "M",
+            "nomeMae": "ESVANILDA DUARTE DE OLIVEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE E SILVA",
+            "cpf": "02362143732",
+            "nasc": "1975-03-13",
+            "sexo": "M",
+            "nomeMae": "MARIA BATISTA DUARTE E SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "94881600044",
+            "nasc": "1971-07-27",
+            "sexo": "M",
+            "nomeMae": "ILSE LAND DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO LIMA DUARTE",
+            "cpf": "70520623053",
+            "nasc": "1975-01-11",
+            "sexo": "M",
+            "nomeMae": "GECI LIMA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "24384801734",
+            "nasc": "1948-03-24",
+            "sexo": "M",
+            "nomeMae": "IRENE AFFONSO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "87465957168",
+            "nasc": "1980-02-23",
+            "sexo": "M",
+            "nomeMae": "VALDIVINA DE FATIMA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE BORGES",
+            "cpf": "63301040004",
+            "nasc": "1970-08-20",
+            "sexo": "M",
+            "nomeMae": "NELI DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "02530698902",
+            "nasc": "1977-10-17",
+            "sexo": "M",
+            "nomeMae": "MARIA DE FATIMA DA COSTA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SOARES JUNIOR",
+            "cpf": "09128610709",
+            "nasc": "1982-04-16",
+            "sexo": "M",
+            "nomeMae": "LUCYANE COSTA SOARES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "04214052609",
+            "nasc": "1976-07-19",
+            "sexo": "M",
+            "nomeMae": "LUCIA GASPARINA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA ROCHA",
+            "cpf": "03634869763",
+            "nasc": "1976-04-21",
+            "sexo": "M",
+            "nomeMae": "ALBERTINA DUARTE DA ROCHA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE VICENTE",
+            "cpf": "97129909749",
+            "nasc": "1967-05-05",
+            "sexo": "M",
+            "nomeMae": "NEIDE DUARTE VICENTE"
+        },
+        {
+            "nome": "MARCO AURELIO FERNANDO DUARTE",
+            "cpf": "06494392601",
+            "nasc": "1982-05-31",
+            "sexo": "M",
+            "nomeMae": "MARIA DAS GRACAS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "77170385600",
+            "nasc": "1968-03-16",
+            "sexo": "M",
+            "nomeMae": "MARIA DA CONCEIAO"
+        },
+        {
+            "nome": "MARCO AURELIO NUNES DUARTE",
+            "cpf": "68263201004",
+            "nasc": "1972-04-11",
+            "sexo": "M",
+            "nomeMae": "MARY LENIR NUNES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO MORAES DUARTE",
+            "cpf": "42312426072",
+            "nasc": "1956-02-09",
+            "sexo": "M",
+            "nomeMae": "DIRMA MORAES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO MARENT DUARTE",
+            "cpf": "65898656634",
+            "nasc": "1965-07-29",
+            "sexo": "M",
+            "nomeMae": "ELFRIEDA INGRID DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "03573172628",
+            "nasc": "1972-04-18",
+            "sexo": "M",
+            "nomeMae": "MARIA DAS DORES APOLINARIO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SANTOS",
+            "cpf": "73313874215",
+            "nasc": "1981-12-15",
+            "sexo": "M",
+            "nomeMae": "CARMEN DUARTE SANTOS"
+        },
+        {
+            "nome": "MARCO AURELIO PEREIRA DUARTE",
+            "cpf": "93542992615",
+            "nasc": "1973-11-02",
+            "sexo": "M",
+            "nomeMae": "MARIA DOLORES FERREIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO OLIVEIRA DUARTE",
+            "cpf": "75654563653",
+            "nasc": "1970-03-25",
+            "sexo": "M",
+            "nomeMae": "MARIA DE LOURDES OLIVEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO COSTA DUARTE",
+            "cpf": "99260700787",
+            "nasc": "1968-01-19",
+            "sexo": "M",
+            "nomeMae": "ANDREINA DA COSTA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE OLIVEIRA",
+            "cpf": "08571080771",
+            "nasc": "1979-06-06",
+            "sexo": "M",
+            "nomeMae": "MARIA DE FATIMA DUARTE DE OLIVEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE MARTINEZ",
+            "cpf": "22338626869",
+            "nasc": "1981-07-23",
+            "sexo": "M",
+            "nomeMae": "SANDRA APARECIDA DUARTE MARTINEZ"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE LACERDA",
+            "cpf": "57308632687",
+            "nasc": "1965-01-13",
+            "sexo": "M",
+            "nomeMae": "JANE MARIA DUARTE LACERDA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SOARES",
+            "cpf": "88669157772",
+            "nasc": "1961-12-24",
+            "sexo": "M",
+            "nomeMae": "NAYR DUARTE SOARES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE MARTINS",
+            "cpf": "08210388770",
+            "nasc": "1975-09-08",
+            "sexo": "M",
+            "nomeMae": "MARGARIDA DUARTE MARTINS"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "07285089664",
+            "nasc": "1986-09-05",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO LAGE DUARTE",
+            "cpf": "08450918677",
+            "nasc": "1989-06-15",
+            "sexo": "M",
+            "nomeMae": "MARCIA SILVEIRA LAGE DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE PEDROSA",
+            "cpf": "50714201634",
+            "nasc": "1964-12-31",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE OLIVEIRA",
+            "cpf": "42047773253",
+            "nasc": "1968-06-26",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE CARNEIRO",
+            "cpf": "12006516850",
+            "nasc": "1969-10-28",
+            "sexo": "M",
+            "nomeMae": "MATILDE DUARTE CARNEIRO"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "33075866881",
+            "nasc": "1985-09-27",
+            "sexo": "M",
+            "nomeMae": "SANDRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO GOMES DUARTE JUNIOR",
+            "cpf": "08034212652",
+            "nasc": "1987-10-16",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA DUARTE FARIA"
+        },
+        {
+            "nome": "MARCO AURELIO DA COSTA DUARTE",
+            "cpf": "25773995883",
+            "nasc": "1976-03-19",
+            "sexo": "M",
+            "nomeMae": "MARIA DE FATIMA PEREIRA DA COSTA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE LIMA",
+            "cpf": "50260863300",
+            "nasc": "1972-12-17",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE ROBALO",
+            "cpf": "00960767045",
+            "nasc": "1984-04-05",
+            "sexo": "M",
+            "nomeMae": "MARIA BERNARDINA VIEIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "36087033653",
+            "nasc": "1954-05-21",
+            "sexo": "M",
+            "nomeMae": "CARMEM GARCIA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "41463986653",
+            "nasc": "1964-01-01",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE CORDEIRO",
+            "cpf": "03138668720",
+            "nasc": "1970-11-03",
+            "sexo": "M",
+            "nomeMae": "BELARMINDA DUARTE CORDEIRO"
+        },
+        {
+            "nome": "MARCO AURELIO MAYER DUARTE NETO",
+            "cpf": "05797339471",
+            "nasc": "1994-03-19",
+            "sexo": "M",
+            "nomeMae": "MARIA ELOISA SOUTO MAIOR DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO CAVALCANTE DUARTE",
+            "cpf": "62323350315",
+            "nasc": "1977-11-26",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "06226579846",
+            "nasc": "1960-02-08",
+            "sexo": "M",
+            "nomeMae": "LOURDES DA SILVA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DE LIMA DUARTE",
+            "cpf": "01651018650",
+            "nasc": "1996-06-21",
+            "sexo": "M",
+            "nomeMae": "CLAUDINEIA PEREIRA DE LIMA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO NUNES DUARTE",
+            "cpf": "35206061867",
+            "nasc": "1983-07-24",
+            "sexo": "M",
+            "nomeMae": "VANDERLNE NUNES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO PAIVA DUARTE",
+            "cpf": "56695152772",
+            "nasc": "1958-07-12",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO TISSI MUNHOZ DUARTE",
+            "cpf": "05337957961",
+            "nasc": "1985-07-28",
+            "sexo": "M",
+            "nomeMae": "TANIA MARIA T MUNHOZ DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE RODRIGUES",
+            "cpf": "10589687778",
+            "nasc": "1983-03-25",
+            "sexo": "M",
+            "nomeMae": "DEUZA MARIA DUARTE RODRIGUES"
+        },
+        {
+            "nome": "MARCO AURELIO VICENTINI DUARTE",
+            "cpf": "22920152858",
+            "nasc": "1995-02-15",
+            "sexo": "M",
+            "nomeMae": "MARIUZA APARECIDA VICENTINI DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "34864016020",
+            "nasc": "1963-04-30",
+            "sexo": "M",
+            "nomeMae": "JACY DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO COIMBRA DUARTE",
+            "cpf": "04771248605",
+            "nasc": "1981-01-21",
+            "sexo": "M",
+            "nomeMae": "VALDECI VIEIRA DA SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO DA SILVA DUARTE",
+            "cpf": "28188403172",
+            "nasc": "1961-03-30",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO LIRA DUARTE",
+            "cpf": "04804909451",
+            "nasc": "1986-01-06",
+            "sexo": "M",
+            "nomeMae": "MARIA JOSE LIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO GREY DUARTE",
+            "cpf": "50465767753",
+            "nasc": "1938-06-25",
+            "sexo": "M",
+            "nomeMae": "COSMA GREY DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE FLORIANI",
+            "cpf": "04520663954",
+            "nasc": "1985-08-14",
+            "sexo": "M",
+            "nomeMae": "VALMIRIA DUARTE FLORIANI"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "61102148091",
+            "nasc": "1967-12-12",
+            "sexo": "M",
+            "nomeMae": "MARIA IRENE SCHACKER DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO CAMARA DUARTE",
+            "cpf": "00891346724",
+            "nasc": "1969-08-12",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE BARBOSA",
+            "cpf": "08091446624",
+            "nasc": "1987-04-08",
+            "sexo": "M",
+            "nomeMae": "VALMA EUNICE DUARTE BARBOSA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "56236786020",
+            "nasc": "1968-02-16",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO FERREIRA DUARTE",
+            "cpf": "99830426653",
+            "nasc": "1974-03-10",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE OLIVEIRA",
+            "cpf": "61461040272",
+            "nasc": "1968-06-26",
+            "sexo": "M",
+            "nomeMae": "DAIRCI DUARTE DE OLIVEIRA"
+        },
+        {
+            "nome": "MARCO AURELIO MACEI DUARTE",
+            "cpf": "34358144896",
+            "nasc": "1985-02-06",
+            "sexo": "M",
+            "nomeMae": "AMERICA MACEI DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA SILVA",
+            "cpf": "01566188695",
+            "nasc": "1986-04-20",
+            "sexo": "M",
+            "nomeMae": "MARCIA DAS DORES DUARTE SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO PINTO DUARTE",
+            "cpf": "67317146153",
+            "nasc": "1978-08-15",
+            "sexo": "M",
+            "nomeMae": "MARIA DE PAULA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DOS SANTOS DUARTE",
+            "cpf": "68290195087",
+            "nasc": "1976-07-28",
+            "sexo": "M",
+            "nomeMae": "OLIVIA DOS SANTOS DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE FERREIRA",
+            "cpf": "08451804608",
+            "nasc": "1988-06-21",
+            "sexo": "M",
+            "nomeMae": "VILMA CRISPINA DUARTE FERREIRA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "17283523804",
+            "nasc": "1941-01-18",
+            "sexo": "M",
+            "nomeMae": "NAZARETH R DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO PINTOS DUARTE",
+            "cpf": "01592043054",
+            "nasc": "1986-06-06",
+            "sexo": "M",
+            "nomeMae": "GLECY DUARTE CARVALHO"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DOS SANTOS",
+            "cpf": "11370377762",
+            "nasc": "1970-02-27",
+            "sexo": "M",
+            "nomeMae": "GILCEA JOSE DUARTE DOS SANTOS"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE BEZERRA",
+            "cpf": "73686328100",
+            "nasc": "1993-05-01",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO LAGE DUARTE",
+            "cpf": "59780231668",
+            "nasc": "1966-03-22",
+            "sexo": "M",
+            "nomeMae": "SENHORINHA LAGE DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "69102600668",
+            "nasc": "1969-01-01",
+            "sexo": "M",
+            "nomeMae": "MARIA DAS DORES LUZ DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO FERREIRA DUARTE",
+            "cpf": "05369382611",
+            "nasc": "1980-01-31",
+            "sexo": "M",
+            "nomeMae": "MARTA DIAS DAMACENO"
+        },
+        {
+            "nome": "MARCO AURELIO RODRIGUES DUARTE",
+            "cpf": "69548170159",
+            "nasc": "1977-11-09",
+            "sexo": "M",
+            "nomeMae": "MARIA RODRIGUES DOS ANJOS"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE PEDROSA",
+            "cpf": "03021058671",
+            "nasc": "1964-12-31",
+            "sexo": "M",
+            "nomeMae": "MARIA ANTONIA DUARTE PEDROSA"
+        },
+        {
+            "nome": "MARCO AURELIO BASSOALD DUARTE",
+            "cpf": "28589122034",
+            "nasc": "1957-08-20",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SVISTALSKI",
+            "cpf": "00987535927",
+            "nasc": "1988-02-08",
+            "sexo": "M",
+            "nomeMae": "NEUSA LEMES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DOS SANTOS",
+            "cpf": "99335786772",
+            "nasc": "1965-10-28",
+            "sexo": "M",
+            "nomeMae": "TEREZA DUARTE DOS SANTOS"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DOS SANTOS",
+            "cpf": "81319681034",
+            "nasc": "1982-08-01",
+            "sexo": "M",
+            "nomeMae": "MARLENE RODRIGUES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE E SOUZA",
+            "cpf": "45263418000",
+            "nasc": "1969-01-17",
+            "sexo": "M",
+            "nomeMae": "GENIDA MOTA"
+        },
+        {
+            "nome": "MARCO AURELIO LEAL DUARTE",
+            "cpf": "09689850504",
+            "nasc": "1941-08-20",
+            "sexo": "M",
+            "nomeMae": "CIRENE LEAL DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO CARVALHO DUARTE",
+            "cpf": "01721391126",
+            "nasc": "1989-05-16",
+            "sexo": "M",
+            "nomeMae": "MARIA VANDA ALMEIDA DE CARVALHO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "39397025015",
+            "nasc": "1963-04-26",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SILVEIRA DE BRITO",
+            "cpf": "02254185411",
+            "nasc": "1976-10-08",
+            "sexo": "M",
+            "nomeMae": "DJACIRA DUARTE SILVEIRA BRITO"
+        },
+        {
+            "nome": "MARCO AURELIO MACIEL DUARTE",
+            "cpf": "55429858072",
+            "nasc": "1968-10-22",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "86166611153",
+            "nasc": "1968-12-16",
+            "sexo": "M",
+            "nomeMae": "FORTUNATA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO NUNES DUARTE",
+            "cpf": "30238153053",
+            "nasc": "1959-12-20",
+            "sexo": "M",
+            "nomeMae": "MARIETA NUNES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "32871694087",
+            "nasc": "1961-11-02",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA SILVA",
+            "cpf": "02207730760",
+            "nasc": "1970-04-01",
+            "sexo": "M",
+            "nomeMae": "MARIA HELENA DUARTE DA SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "33182260847",
+            "nasc": "1986-05-28",
+            "sexo": "M",
+            "nomeMae": "APARECIDA DIONISIO"
+        },
+        {
+            "nome": "MARCO AURELIO CAMARA DUARTE",
+            "cpf": "02191688730",
+            "nasc": "1969-08-12",
+            "sexo": "M",
+            "nomeMae": "WILMA CAMARA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO SILVA DUARTE",
+            "cpf": "50161288049",
+            "nasc": "1968-08-10",
+            "sexo": "M",
+            "nomeMae": "NOEMIA DA SILVA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DE LIMA",
+            "cpf": "40792234200",
+            "nasc": "1971-05-22",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DE SOUSA DUARTE",
+            "cpf": "32135071803",
+            "nasc": "1996-04-02",
+            "sexo": "M",
+            "nomeMae": "ELIANA ALESSANDRA RODRIGUES DE SOUSA"
+        },
+        {
+            "nome": "MARCO AURELIO SANTANA DUARTE",
+            "cpf": "81989083072",
+            "nasc": "1981-02-10",
+            "sexo": "M",
+            "nomeMae": "TEREZA SANTANA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DA ROSA DUARTE",
+            "cpf": "72129476015",
+            "nasc": "1974-07-31",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DOS SANTOS DUARTE FILHO",
+            "cpf": "01725604035",
+            "nasc": "1987-12-20",
+            "sexo": "M",
+            "nomeMae": "CARLA ELIANE BORGES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DA SILVA DUARTE",
+            "cpf": "02958219143",
+            "nasc": "1989-01-09",
+            "sexo": "M",
+            "nomeMae": "ANA LUIZA MORAES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DOS SANTOS",
+            "cpf": "38864370862",
+            "nasc": "1988-10-30",
+            "sexo": "M",
+            "nomeMae": "MARIA DO CARMO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO FERREIRA DUARTE",
+            "cpf": "93977506234",
+            "nasc": "1975-04-04",
+            "sexo": "M",
+            "nomeMae": "IRENE FERREIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "06469046983",
+            "nasc": "1992-11-04",
+            "sexo": "M",
+            "nomeMae": "NADIR SALETE JUNCKES"
+        },
+        {
+            "nome": "MARCO AURELIO RODRIGUES DUARTE",
+            "cpf": "02652473140",
+            "nasc": "1989-05-18",
+            "sexo": "M",
+            "nomeMae": "MARIA JOSE RODRIGUES DE ALMEIDA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DOS SANTOS",
+            "cpf": "02663644030",
+            "nasc": "1991-04-14",
+            "sexo": "M",
+            "nomeMae": "JUSSARA DUARTE DOS SANTOS"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE AGUIAR",
+            "cpf": "03869243171",
+            "nasc": "1989-05-19",
+            "sexo": "M",
+            "nomeMae": "TEREZINHA APARECIDA DE SOUSA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO GUERVICH DUARTE",
+            "cpf": "13223065750",
+            "nasc": "1985-09-10",
+            "sexo": "M",
+            "nomeMae": "ELIANA GUERVICH"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE NERES",
+            "cpf": "13741172774",
+            "nasc": "1992-07-14",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA PEREIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO FAUSTINO DUARTE",
+            "cpf": "13908532760",
+            "nasc": "1991-01-15",
+            "sexo": "M",
+            "nomeMae": "GLORIA FAUSTINO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "40166714852",
+            "nasc": "1992-05-14",
+            "sexo": "M",
+            "nomeMae": "JOSINETE DEODATO DE MELO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE",
+            "cpf": "40108493806",
+            "nasc": "1993-10-08",
+            "sexo": "M",
+            "nomeMae": "CELIA REGINA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO MARQUES DUARTE",
+            "cpf": "10668472669",
+            "nasc": "1991-07-03",
+            "sexo": "M",
+            "nomeMae": "MARIA ANGELA MARQUES SILVA DUARTE MORAIS"
+        },
+        {
+            "nome": "MARCO AURELIO RODRIGUES DUARTE",
+            "cpf": "13356017756",
+            "nasc": "1986-02-26",
+            "sexo": "M",
+            "nomeMae": "MARIA ZILMAR RODRIGUES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE AGUILEIRA",
+            "cpf": "37000274867",
+            "nasc": "1988-11-08",
+            "sexo": "M",
+            "nomeMae": "MARIA DE FATIMA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO LINO DUARTE",
+            "cpf": "04363265159",
+            "nasc": "1990-07-22",
+            "sexo": "M",
+            "nomeMae": "MARIA LECIVALDA DUARTE LUIZ"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE JUNIOR",
+            "cpf": "02630091066",
+            "nasc": "1994-10-17",
+            "sexo": "M",
+            "nomeMae": "MARI JAQUELINE DE PAULA SCHOENARDIE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE LIMA",
+            "cpf": "11525090631",
+            "nasc": "1999-09-05",
+            "sexo": "M",
+            "nomeMae": "LIDIANE BORGES DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO JUNIO DUARTE DA SILVA",
+            "cpf": "11893771601",
+            "nasc": "1993-11-07",
+            "sexo": "M",
+            "nomeMae": "ROSA HELENA DUARTE DOS SANTOS"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DA SILVA",
+            "cpf": "42082925803",
+            "nasc": "1994-08-03",
+            "sexo": "M",
+            "nomeMae": "MAGALI SIQUEIRA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DO NASCIMENTO DUARTE",
+            "cpf": "42350055884",
+            "nasc": "1993-10-26",
+            "sexo": "M",
+            "nomeMae": "ELISABETE PEREIRA DO NASCIMENTO"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE LEITE DOS SANTOS",
+            "cpf": "06162151506",
+            "nasc": "1991-08-30",
+            "sexo": "M",
+            "nomeMae": "NEIDE DUARTE LEITE DOS SANTOS"
+        },
+        {
+            "nome": "MARCO AURELIO PEIXOTO DUARTE",
+            "cpf": "05261025192",
+            "nasc": "1995-02-26",
+            "sexo": "M",
+            "nomeMae": "VALDIRENE AZARIAS PEIXOTO"
+        },
+        {
+            "nome": "MARCO AURELIO PACHECO DUARTE",
+            "cpf": "05353269128",
+            "nasc": "1995-01-26",
+            "sexo": "M",
+            "nomeMae": "RENILDA SILVA PACHECO"
+        },
+        {
+            "nome": "MARCO AURELIO PACHECO DUARTE",
+            "cpf": "15934086766",
+            "nasc": "2008-05-08",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE PIMENTEL",
+            "cpf": "06676631504",
+            "nasc": "2006-01-19",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DA SILVA DUARTE JUNIOR",
+            "cpf": "03721036000",
+            "nasc": "1994-02-22",
+            "sexo": "M",
+            "nomeMae": "MARIA DA GRACA ELIZALDE TOLEDO"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE GOMES",
+            "cpf": "15565247730",
+            "nasc": "1994-09-08",
+            "sexo": "M",
+            "nomeMae": "MARIA ELIZABETH DUARTE GOMES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE RODRIGUES",
+            "cpf": "03796151000",
+            "nasc": "1989-05-02",
+            "sexo": "M",
+            "nomeMae": "ROSELI MENNA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO LISBOA DUARTE",
+            "cpf": "11565681452",
+            "nasc": "2009-07-11",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO CARVALHO DUARTE",
+            "cpf": "45264871809",
+            "nasc": "2002-03-07",
+            "sexo": "M",
+            "nomeMae": "LEILA MARIA DE CARVALHO DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE SALES",
+            "cpf": "61054276382",
+            "nasc": "2012-03-19",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE PEREIRA",
+            "cpf": "13394730626",
+            "nasc": "1996-11-11",
+            "sexo": "M",
+            "nomeMae": "DJANIRA DUARTE ALMEIDA PEREIRA"
+        },
+        {
+            "nome": "MARCO AURELIO CASTRILLON DUARTE",
+            "cpf": "05965488181",
+            "nasc": "2007-07-17",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DUTRA SOUZA",
+            "cpf": "16894028737",
+            "nasc": "1999-06-25",
+            "sexo": "M",
+            "nomeMae": "KARINE DUARTE DUTRA SOUZA"
+        },
+        {
+            "nome": "MARCO AURELIO DE FREITAS DUARTE DA COSTA",
+            "cpf": "06924555314",
+            "nasc": "2006-07-21",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE VIEIRA MENESES",
+            "cpf": "61262787394",
+            "nasc": "2000-03-13",
+            "sexo": "M",
+            "nomeMae": "MARIA AUCELIA DUARTE VIEIRA MENESES"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE RUIZ",
+            "cpf": "06361199126",
+            "nasc": "1990-10-27",
+            "sexo": "M",
+            "nomeMae": "CLEUZA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO RODRIGUES DUARTE",
+            "cpf": "06358819186",
+            "nasc": "1995-11-21",
+            "sexo": "M",
+            "nomeMae": "MARILZA RODRIGUES DE JESUS"
+        },
+        {
+            "nome": "MARCO AURELIO SOUSA DUARTE",
+            "cpf": "02112232630",
+            "nasc": "1997-05-20",
+            "sexo": "M",
+            "nomeMae": "JOCELIA APARECIDA DE SOUSA"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE ALVARENGA",
+            "cpf": "17316726750",
+            "nasc": "1996-06-18",
+            "sexo": "M",
+            "nomeMae": "VALERIA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE FERREIRA",
+            "cpf": "13977811657",
+            "nasc": "2001-08-23",
+            "sexo": "M",
+            "nomeMae": "CLAUDIA MARILAC NUNES DUARTE ALVES FERREIRA"
+        },
+        {
+            "nome": "MARCO AURELIO DE FARIAS DUARTE",
+            "cpf": "17434728701",
+            "nasc": "1994-04-03",
+            "sexo": "M",
+            "nomeMae": "SEBASTIANA G DE FARIAS"
+        },
+        {
+            "nome": "MARCO AURELIO DE BRITO DUARTE",
+            "cpf": "17575424776",
+            "nasc": "2011-01-24",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE ANDRADE",
+            "cpf": "04278661037",
+            "nasc": "1997-08-03",
+            "sexo": "M",
+            "nomeMae": "EVALESCA DUARTE ANDRADE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE MESQUITA",
+            "cpf": "14246515655",
+            "nasc": "2012-11-30",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DOS SANTOS DUARTE",
+            "cpf": "18014923790",
+            "nasc": "2001-12-24",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA FERREIRA DOS SANTOS"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE VILARINS",
+            "cpf": "61951572360",
+            "nasc": "2000-05-17",
+            "sexo": "M",
+            "nomeMae": "AURORA DA COSTA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO CORREA MENDES DUARTE",
+            "cpf": "14715060612",
+            "nasc": "2000-11-08",
+            "sexo": "M",
+            "nomeMae": "ELAINE DUARTE SOUZA DE FREITAS"
+        },
+        {
+            "nome": "MARCO AURELIO OLIVEIRA DUARTE JUNIOR",
+            "cpf": "15635071619",
+            "nasc": "2002-03-12",
+            "sexo": "M",
+            "nomeMae": "LIDIANE AMELIA DA SILVA DUARTE"
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE DUTRA",
+            "cpf": "05171196095",
+            "nasc": "2011-11-15",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DA SILVA DUARTE",
+            "cpf": "49886841800",
+            "nasc": "1997-05-27",
+            "sexo": "M",
+            "nomeMae": "ADRIANA DONIZETE PEREIRA DA SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO EURIPEDES DUARTE DA SILVA",
+            "cpf": "16756518682",
+            "nasc": "2000-07-10",
+            "sexo": "M",
+            "nomeMae": "EVANIA DUARTE DA SILVA"
+        },
+        {
+            "nome": "MARCO AURELIO DA SILVA DUARTE",
+            "cpf": "16300704670",
+            "nasc": "2015-08-18",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO FERREIRA DUARTE",
+            "cpf": "15958688600",
+            "nasc": "2008-09-27",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE BARROSO",
+            "cpf": "07652386241",
+            "nasc": "2015-06-16",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCO AURELIO DUARTE MAIA BERTI",
+            "cpf": "09286834195",
+            "nasc": "2018-04-25",
+            "sexo": "M",
+            "nomeMae": ""
+        }
+    ]
+}
