@@ -1,0 +1,242 @@
+🔎 CONSULTA COMPLETA
+
+• Base: cpf
+• Dado pesquisado: 10924908920
+
+{
+    "success": true,
+    "query": "10924908920",
+    "query_date": "2025-07-18T00:53:19.818Z",
+    "query_id": "8685b75f-cfa9-42a4-b884-e151cb2949f6",
+    "data": {
+        "dadosBasicos": {
+            "cnsDef": "700500789273454",
+            "cnsProv": "",
+            "cpf": "10924908920",
+            "nome": "RUAN HEIMOSKI RIBEIRO PEREIRA",
+            "nomeSocial": "",
+            "sexo": "M",
+            "sexoRetratado": "",
+            "nasc": "2003-12-10 00:00:00",
+            "racaCor": "",
+            "signo": "SAGITÁRIO",
+            "tipoSanguineo": "",
+            "partoGemelar": false,
+            "vipSus": false,
+            "vipMotivo": "",
+            "escolaridade": "",
+            "empresario": false,
+            "aposentado": false,
+            "servidorPubl": false,
+            "nacionalidade": "",
+            "estCivil": "",
+            "rendaAtual": "225",
+            "scoreFaixa": "ENTRE 501 E 750",
+            "scoreSpc": "",
+            "filiacao": {
+                "nomeMae": "TATIANE HEIMOSKI RIBEIRO",
+                "nomePai": ""
+            },
+            "situacaoCadastral": {
+                "descricao": "REGULAR",
+                "dataSituacao": "2022-11-28 00:55:41",
+                "obito": {}
+            }
+        },
+        "registroGeral": {},
+        "bigDataDocumentos": [],
+        "serasaAnalytics": {
+            "csb8": "1",
+            "csb8Faixa": "ALTISSIMO",
+            "csb8Descricao": "UTILIZADO PARA ANÁLISE DE PRODUTOS DE CRÉDITO PESSOAL",
+            "csba": "0",
+            "csbaFaixa": "",
+            "csbaDescricao": "UTILIZADO PARA ANÁLISE E AVALIAÇÃO DE CRÉDITO EMPRESARIAL SOBRE O TITULAR"
+        },
+        "serasaMosaic": {},
+        "serasaConselhos": [],
+        "poderAquisitivo": {
+            "codPoderAquisitivo": "1",
+            "poderAquisitivo": "MUITO BAIXO",
+            "renda": "225",
+            "faixaRenda": "DE R$ 112 ATÉ R$ 630"
+        },
+        "profissaoAtual": {},
+        "universitario": [],
+        "pisPasep": [],
+        "nisHist": [],
+        "tse": [],
+        "telefones": [
+            {
+                "ddd": "47",
+                "telefone": "996073405",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            }
+        ],
+        "emails": [
+            {
+                "email": "josyyuri52@gmail.com",
+                "score": "POTENCIALMENTE BOM",
+                "usoPessoal": false,
+                "blackList": false
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "",
+                "numero": "",
+                "complemento": "",
+                "bairro": "",
+                "cidade": "",
+                "siglaUf": "SC",
+                "cep": "00000000"
+            },
+            {
+                "logradouro": "R MILTON SEARA MULLER",
+                "numero": "94",
+                "complemento": "",
+                "bairro": "MEIA PRAIA",
+                "cidade": "421130",
+                "siglaUf": "SC",
+                "cep": "88375000"
+            },
+            {
+                "logradouro": "JOAO SACAVEM",
+                "numero": "",
+                "complemento": "",
+                "bairro": "CENTRO",
+                "cidade": "NAVEGANTES",
+                "siglaUf": "SC",
+                "cep": "88375000"
+            }
+        ],
+        "veiculos": [],
+        "parentes": [],
+        "vizinhos": [],
+        "empresas": [],
+        "empregos": [
+            {
+                "cnpj": "29769845000128",
+                "razaoSocial": "NEW-DK SOLUCOES LOGISTICAS LTDA",
+                "situacao": "ENTREGUE",
+                "cboNumero": "",
+                "cboDescricao": "",
+                "ctpsNumero": "",
+                "ctpsSerie": "",
+                "dataCadastro": "2022-11-10 04:53:00",
+                "dataAdmissao": "2020-11-01 00:00:00",
+                "dataDesligamento": ""
+            },
+            {
+                "cnpj": "29769845000128",
+                "razaoSocial": "NEW-DK SOLUCOES LOGISTICAS LTDA",
+                "situacao": "ENTREGUE",
+                "cboNumero": "",
+                "cboDescricao": "",
+                "ctpsNumero": "",
+                "ctpsSerie": "",
+                "dataCadastro": "2022-11-10 04:53:00",
+                "dataAdmissao": "2020-11-01 00:00:00",
+                "dataDesligamento": ""
+            }
+        ],
+        "dividas": [],
+        "beneficios": {
+            "previdenciaSocial": {
+                "descricao": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "fundoGarantia": {
+                "descricao": "FUNDO DE GARANTIA DE TEMPO DE SERVIÇO",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas ": []
+            },
+            "assistenciaSocial": {
+                "descricao": "LEI ORGÂNICA DE ASSISTÊNCIA SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioEmergencial": {
+                "descricao": "AUXÍLIO EMERGENCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioBrasil": {
+                "descricao": "AUXÍLIO BRASIL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "bolsaFamilia": {
+                "descricao": "BOLSA FAMÍLIA",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "detalhamentoDependentes": []
+            },
+            "saudeParticular": {
+                "descricao": "PLANOS DE SAÚDE",
+                "tipoAcesso": "PRIVADO",
+                "totalContrato": "0",
+                "registroContratos": []
+            }
+        },
+        "vacinas": [
+            {
+                "vacinaNome": "COVID-19 SINOVAC/BUTANTAN - CORONAVAC",
+                "descricao": "2ª DOSE",
+                "lote": "C202107130",
+                "fabricante": "SINOVAC/BUTANTAN",
+                "estabAplicacao": "UNIDADE DE SAUDE DA FAMILIA VILA DO SALTO",
+                "grupoAtendimento": "PESSOAS DE 18 A 64 ANOS",
+                "profissionalAplic": "TATIANE HEIMOSKI RIBEIRO",
+                "dataAplicacao": "2022-06-29T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 SINOVAC/BUTANTAN - CORONAVAC",
+                "descricao": "1ª DOSE",
+                "lote": "C202107130",
+                "fabricante": "SINOVAC/BUTANTAN",
+                "estabAplicacao": "UNIDADE DE SAUDE DA FAMILIA VILA DO SALTO",
+                "grupoAtendimento": "PESSOAS DE 18 A 64 ANOS",
+                "profissionalAplic": "RAUNICE ELIAS DE SANTANA",
+                "dataAplicacao": "2022-05-10T00:00:00.000Z"
+            }
+        ],
+        "certidoes": [],
+        "bancarias": [],
+        "compras": [],
+        "internet": [],
+        "irpf": [],
+        "interesses": {
+            "creditoPessoalPreAprovado": false,
+            "creditoImobiliarioPreAprovado": false,
+            "financiamentoDeVeiculoPreAprovado": false,
+            "classeMedia": false,
+            "debitoAutomatico": false,
+            "possuiLuxo": false,
+            "possuiInvestimentos": false,
+            "possuiCartaoDeCredito": false,
+            "possuiMultiplosCartoes": false,
+            "possuiContaAltoPadrao": false,
+            "possuiCartaoBlack": false,
+            "possuiCartaoPrime": false,
+            "possuiCelularPrePago": false,
+            "possuiCelularPosPago": false,
+            "possuiMilhasAcumuladas": false,
+            "possuiCasaPropria": false,
+            "possuiDescontos": false,
+            "possuiContasCorrentes": false,
+            "possuiInternetBanking": true,
+            "possuiSeguroAutomotivo": false,
+            "possuiPrevidenciaPrivada": false,
+            "realizouViagens": false
+        }
+    }
+}

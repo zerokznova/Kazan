@@ -1,0 +1,162 @@
+🔎 CONSULTA CPF
+
+Argumento: 03949910280
+
+{
+  "success": true,
+  "query": "03949910280",
+  "query_date": "2025-07-17T20:45:36.083Z",
+  "query_id": "91c8cc60-e825-44e4-8fe8-6fd7ccbf9eb1",
+  "data": {
+    "dadosBasicos": {
+      "cnsDef": "704802533398845",
+      "cnsProv": "",
+      "cpf": "03949910280",
+      "nome": "ISAAC RYAN COSTA BARATA",
+      "nomeSocial": "",
+      "sexo": "M",
+      "sexoRetratado": "",
+      "nasc": "2007-02-02 00:00:00",
+      "racaCor": "",
+      "signo": "AQUÁRIO",
+      "tipoSanguineo": "",
+      "partoGemelar": false,
+      "vipSus": false,
+      "vipMotivo": "",
+      "escolaridade": "",
+      "empresario": false,
+      "aposentado": false,
+      "servidorPubl": false,
+      "nacionalidade": "",
+      "estCivil": "",
+      "rendaAtual": "225",
+      "scoreFaixa": "",
+      "scoreSpc": "",
+      "filiacao": {
+        "nomeMae": "ALESSANDRA DO SOCORRO DA SILVA COSTA",
+        "nomePai": ""
+      },
+      "situacaoCadastral": {
+        "descricao": "REGULAR",
+        "dataSituacao": "2022-10-01 07:01:24",
+        "obito": {}
+      }
+    },
+    "registroGeral": {},
+    "bigDataDocumentos": [],
+    "serasaAnalytics": {
+      "csb8": "1",
+      "csb8Faixa": "ALTISSIMO",
+      "csb8Descricao": "UTILIZADO PARA ANÁLISE DE PRODUTOS DE CRÉDITO PESSOAL",
+      "csba": "1",
+      "csbaFaixa": "",
+      "csbaDescricao": "UTILIZADO PARA ANÁLISE E AVALIAÇÃO DE CRÉDITO EMPRESARIAL SOBRE O TITULAR"
+    },
+    "serasaMosaic": {},
+    "serasaConselhos": [],
+    "poderAquisitivo": {
+      "codPoderAquisitivo": "1",
+      "poderAquisitivo": "",
+      "renda": "225",
+      "faixaRenda": ""
+    },
+    "profissaoAtual": {},
+    "universitario": [],
+    "pisPasep": [],
+    "nisHist": [],
+    "tse": [],
+    "telefones": [],
+    "emails": [],
+    "enderecos": [
+      {
+        "logradouro": "SAO SEBASTIAO",
+        "numero": "2966",
+        "complemento": "",
+        "bairro": "OUTEIRO",
+        "cidade": "150140",
+        "siglaUf": "PA",
+        "cep": "66845100"
+      }
+    ],
+    "veiculos": [],
+    "parentes": [],
+    "vizinhos": [],
+    "empresas": [],
+    "empregos": [],
+    "dividas": [],
+    "beneficios": {
+      "previdenciaSocial": {
+        "descricao": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+        "tipoAcesso": "PÚBLICO",
+        "totalRecebido": "0",
+        "parcelasRecebidas": []
+      },
+      "fundoGarantia": {
+        "descricao": "FUNDO DE GARANTIA DE TEMPO DE SERVIÇO",
+        "tipoAcesso": "PÚBLICO",
+        "totalRecebido": "0",
+        "parcelasRecebidas ": []
+      },
+      "assistenciaSocial": {
+        "descricao": "LEI ORGÂNICA DE ASSISTÊNCIA SOCIAL",
+        "tipoAcesso": "PÚBLICO",
+        "totalRecebido": "0",
+        "parcelasRecebidas": []
+      },
+      "auxilioEmergencial": {
+        "descricao": "AUXÍLIO EMERGENCIAL",
+        "tipoAcesso": "PÚBLICO",
+        "totalRecebido": "0",
+        "parcelasRecebidas": []
+      },
+      "auxilioBrasil": {
+        "descricao": "AUXÍLIO BRASIL",
+        "tipoAcesso": "PÚBLICO",
+        "totalRecebido": "0",
+        "parcelasRecebidas": []
+      },
+      "bolsaFamilia": {
+        "descricao": "BOLSA FAMÍLIA",
+        "tipoAcesso": "PÚBLICO",
+        "totalRecebido": "0",
+        "detalhamentoDependentes": []
+      },
+      "saudeParticular": {
+        "descricao": "PLANOS DE SAÚDE",
+        "tipoAcesso": "PRIVADO",
+        "totalContrato": "0",
+        "registroContratos": []
+      }
+    },
+    "vacinas": [],
+    "certidoes": [],
+    "bancarias": [],
+    "compras": [],
+    "internet": [],
+    "irpf": [],
+    "interesses": {
+      "creditoPessoalPreAprovado": false,
+      "creditoImobiliarioPreAprovado": false,
+      "financiamentoDeVeiculoPreAprovado": false,
+      "classeMedia": false,
+      "debitoAutomatico": false,
+      "possuiLuxo": false,
+      "possuiInvestimentos": false,
+      "possuiCartaoDeCredito": false,
+      "possuiMultiplosCartoes": false,
+      "possuiContaAltoPadrao": false,
+      "possuiCartaoBlack": false,
+      "possuiCartaoPrime": false,
+      "possuiCelularPrePago": true,
+      "possuiCelularPosPago": false,
+      "possuiMilhasAcumuladas": false,
+      "possuiCasaPropria": false,
+      "possuiDescontos": false,
+      "possuiContasCorrentes": false,
+      "possuiInternetBanking": false,
+      "possuiSeguroAutomotivo": false,
+      "possuiPrevidenciaPrivada": false,
+      "realizouViagens": false
+    }
+  }
+}
