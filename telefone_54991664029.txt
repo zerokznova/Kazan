@@ -1,0 +1,57 @@
+🔎 CONSULTA COMPLETA
+
+• Base: telefone
+• Dado pesquisado: 54991664029
+
+{
+    "success": true,
+    "query": "54991664029",
+    "query_date": "2025-07-18T17:14:44.120Z",
+    "query_id": "7686f23f-e687-49f0-a4ab-0622ae935e03",
+    "data": [
+        {
+            "telefone": "54991664029",
+            "operadora": "CLARO",
+            "nome": "",
+            "cpfCnpj": "94829298000190",
+            "endereco": {}
+        },
+        {
+            "telefone": "54991664029",
+            "operadora": "",
+            "nome": "SUELI TERESINHA DADALT TAFFAREL 22844104053",
+            "cpfCnpj": "94829298000190",
+            "endereco": {}
+        },
+        {
+            "telefone": "54991664029",
+            "operadora": "",
+            "nome": "FLAVIA DADALT TAFFAREL",
+            "cpfCnpj": "98632990063",
+            "endereco": {
+                "logradouro": "R TIRADENTES 435",
+                "numero": "435",
+                "bairro": "CENTRO",
+                "cidade": "VCA",
+                "siglaUf": "BA",
+                "cep": "",
+                "complemento": ""
+            }
+        },
+        {
+            "telefone": "54991664029",
+            "operadora": "ASSECC",
+            "nome": "SUELI TERESINHA DADALT TAFFAREL 22844104053",
+            "cpfCnpj": "94829298000190",
+            "endereco": {
+                "logradouro": "AV 0002090",
+                "numero": "CENTRO",
+                "bairro": "9 DE JULHO",
+                "cidade": "FONTOURA XAVIER",
+                "siglaUf": "RS",
+                "cep": "99370000",
+                "complemento": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+🔎 CONSULTA COMPLETA
+
+• Base: telefone
+• Dado pesquisado: 17991059449
+
+{
+    "success": true,
+    "query": "17991059449",
+    "query_date": "2025-07-18T17:27:50.413Z",
+    "query_id": "a2b6932f-9d3e-44ad-831b-4899c73c4c02",
+    "data": [
+        {
+            "telefone": "17991059449",
+            "operadora": "CLARO",
+            "nome": "GILSON COSTA SILVA",
+            "cpfCnpj": "04725647810",
+            "endereco": {}
+        },
+        {
+            "telefone": "17991059449",
+            "operadora": "CLARO",
+            "nome": "GILSON COSTA SILVA",
+            "cpfCnpj": "04725647810",
+            "endereco": {
+                "logradouro": "BRR DO RIO AZUL",
+                "numero": "85",
+                "bairro": "PARQUE GLORIA VI",
+                "cidade": "CATANDUVA",
+                "siglaUf": "SP",
+                "cep": "15807311",
+                "complemento": ""
+            }
+        },
+        {
+            "telefone": "17991059449",
+            "operadora": "",
+            "nome": "GILSON COSTA SILVA",
+            "cpfCnpj": "04725647810",
+            "endereco": {}
+        },
+        {
+            "telefone": "17991059449",
+            "operadora": "",
+            "nome": "GILSON COSTA SILVA",
+            "cpfCnpj": "00004725647810",
+            "endereco": {}
+        },
+        {
+            "telefone": "17991059449",
+            "operadora": "ASSECC",
+            "nome": "GILSON COSTA SILVA",
+            "cpfCnpj": "04725647810",
+            "endereco": {
+                "logradouro": "R BARRA DO RIO AZUL",
+                "numero": "0000085",
+                "bairro": "PARQUE GLORIA VI",
+                "cidade": "CATANDUVA",
+                "siglaUf": "SP",
+                "cep": "15807311",
+                "complemento": ""
+            }
+        }
+    ]
+}

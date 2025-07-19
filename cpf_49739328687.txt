@@ -1,0 +1,429 @@
+{
+    "success": true,
+    "query": "49739328687",
+    "query_date": "2025-07-19T00:17:44.432Z",
+    "query_id": "c50293b6-e2f8-4fff-999d-54c2b956ed58",
+    "data": {
+        "dadosBasicos": {
+            "cnsDef": "704101063857550",
+            "cnsProv": "898000425250069",
+            "cpf": "49739328687",
+            "nome": "MARCORELIO FERREIRA DOS SANTOS",
+            "nomeSocial": "",
+            "sexo": "M",
+            "sexoRetratado": "M",
+            "nasc": "1964-07-24 00:00:00",
+            "racaCor": "PARDO(A)",
+            "signo": "LEÃO",
+            "tipoSanguineo": "",
+            "partoGemelar": false,
+            "vipSus": false,
+            "vipMotivo": "",
+            "escolaridade": "ENSINO SUPERIOR",
+            "empresario": true,
+            "aposentado": false,
+            "servidorPubl": false,
+            "nacionalidade": "",
+            "estCivil": "",
+            "rendaAtual": "15500",
+            "scoreFaixa": "ENTRE 501 E 750",
+            "scoreSpc": "590",
+            "filiacao": {
+                "nomeMae": "EDY BORBOREMA SANTOS",
+                "nomePai": "SISINO FERREIRA DOS SANTOS"
+            },
+            "situacaoCadastral": {
+                "descricao": "REGULAR",
+                "dataSituacao": "2023-07-01 05:04:35",
+                "obito": {}
+            }
+        },
+        "registroGeral": {
+            "rgNumero": "2999457",
+            "orgaoEmissor": "SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA",
+            "ufEmissao": "MG"
+        },
+        "bigDataDocumentos": [],
+        "serasaAnalytics": {
+            "csb8": "634",
+            "csb8Faixa": "BAIXO",
+            "csb8Descricao": "UTILIZADO PARA ANÁLISE DE PRODUTOS DE CRÉDITO PESSOAL",
+            "csba": "965",
+            "csbaFaixa": "BAIXISSIMO RISCO",
+            "csbaDescricao": "UTILIZADO PARA ANÁLISE E AVALIAÇÃO DE CRÉDITO EMPRESARIAL SOBRE O TITULAR"
+        },
+        "serasaMosaic": {
+            "codMosaic": "D13",
+            "descricaoMosaic": "INDEPENDÊNCIA NA CASA DOS PAIS",
+            "codMosaicSecundario": "H26",
+            "descMosaicSecundario": "TRABALHADORES MANUAIS DE BAIXA REMUNERAÇÃO",
+            "codMosaicNovo": "A01",
+            "descricaoMosaicNovo": "RICOS E INFLUENTES"
+        },
+        "serasaConselhos": [],
+        "poderAquisitivo": {
+            "codPoderAquisitivo": "4",
+            "poderAquisitivo": "MEDIO",
+            "renda": "15500",
+            "faixaRenda": "DE R$ 1631 ATÉ R$ 4082"
+        },
+        "profissaoAtual": {
+            "cboNumero": "252105",
+            "cboDescricao": "ADMINISTRADOR",
+            "servidoresPublicos": []
+        },
+        "universitario": [],
+        "pisPasep": [],
+        "nisHist": [],
+        "tse": [],
+        "telefones": [
+            {
+                "ddd": "38",
+                "telefone": "38218291",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "38",
+                "telefone": "38213216",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "38",
+                "telefone": "38223054",
+                "operadoraLinha": "",
+                "tipoLinha": "FIXO",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "38",
+                "telefone": "38212578",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "38",
+                "telefone": "991748404",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "38",
+                "telefone": "38214009",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "38",
+                "telefone": "984157131",
+                "operadoraLinha": "CLARO",
+                "tipoLinha": "MÓVEL/FIXO",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "38",
+                "telefone": "984098079",
+                "operadoraLinha": "CLARO",
+                "tipoLinha": "MÓVEL/FIXO",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "38",
+                "telefone": "984162560",
+                "operadoraLinha": "CLARO",
+                "tipoLinha": "MÓVEL/FIXO",
+                "usoPessoal": true
+            }
+        ],
+        "emails": [
+            {
+                "email": "analauraanacleta@gmail.com",
+                "score": "POTENCIALMENTE BOM",
+                "usoPessoal": false,
+                "blackList": false
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "R BR DO RIO BRANCO 647 C FRENTE 575",
+                "numero": "647",
+                "complemento": "",
+                "bairro": "PE EUSTAQUIO",
+                "cidade": "JANAUBA",
+                "siglaUf": "MG",
+                "cep": ""
+            },
+            {
+                "logradouro": "R MANOEL FOGISTA",
+                "numero": "16",
+                "complemento": "",
+                "bairro": "39440000",
+                "cidade": "JANAUBA",
+                "siglaUf": "MG",
+                "cep": "TERMINAL TEM"
+            },
+            {
+                "logradouro": "BARAO DO RIO BRANCO 1/99998",
+                "numero": "647",
+                "complemento": "",
+                "bairro": "PADRE EUSTAQUIO",
+                "cidade": "313510",
+                "siglaUf": "MG",
+                "cep": "39442284"
+            },
+            {
+                "logradouro": "RONDONIA",
+                "numero": "0",
+                "complemento": "",
+                "bairro": "DENTE GRANDE",
+                "cidade": "JANAUBA",
+                "siglaUf": "MG",
+                "cep": "39445350"
+            }
+        ],
+        "veiculos": [
+            {
+                "marcaModelo": "FIAT/UNO WAY 1.0",
+                "placa": "GMB8397",
+                "chassi": "9BD195162D0417216",
+                "renavam": "00494578122",
+                "anoFabricacao": "2012",
+                "anoModelo": "2013"
+            }
+        ],
+        "parentes": [
+            {
+                "nome": "EDY BORBOREMA SANTOS",
+                "cpf": "",
+                "tipoVinculo": "MAE"
+            }
+        ],
+        "vizinhos": [],
+        "empresas": [],
+        "empregos": [
+            {
+                "cnpj": "18017392000167",
+                "razaoSocial": "MUNICIPIO DE JANAUBA",
+                "situacao": "ENTREGUE",
+                "cboNumero": "",
+                "cboDescricao": "",
+                "ctpsNumero": "",
+                "ctpsSerie": "",
+                "dataCadastro": "2022-07-24 11:52:00",
+                "dataAdmissao": "2021-07-02 00:00:00",
+                "dataDesligamento": ""
+            }
+        ],
+        "dividas": [],
+        "beneficios": {
+            "previdenciaSocial": {
+                "descricao": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "fundoGarantia": {
+                "descricao": "FUNDO DE GARANTIA DE TEMPO DE SERVIÇO",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas ": []
+            },
+            "assistenciaSocial": {
+                "descricao": "LEI ORGÂNICA DE ASSISTÊNCIA SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioEmergencial": {
+                "descricao": "AUXÍLIO EMERGENCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "250",
+                "parcelasRecebidas": [
+                    {
+                        "valor": "250",
+                        "nisFavorecido": "",
+                        "dataInclusao": "2023-01-04 14:40:00"
+                    }
+                ]
+            },
+            "auxilioBrasil": {
+                "descricao": "AUXÍLIO BRASIL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "bolsaFamilia": {
+                "descricao": "BOLSA FAMÍLIA",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "detalhamentoDependentes": []
+            },
+            "saudeParticular": {
+                "descricao": "PLANOS DE SAÚDE",
+                "tipoAcesso": "PRIVADO",
+                "totalContrato": "0",
+                "registroContratos": []
+            }
+        },
+        "vacinas": [
+            {
+                "vacinaNome": "COVID-19 PFIZER - COMIRNATY",
+                "descricao": "REFORÇO",
+                "lote": "31045BD",
+                "fabricante": "PFIZER",
+                "estabAplicacao": "POSTO DE SAUDE DO QUEMQUEM",
+                "grupoAtendimento": "OUTROS",
+                "profissionalAplic": "VILMA ALVES DE SOUZA",
+                "dataAplicacao": "2021-10-07T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 JANSSEN - AD26.COV2.S",
+                "descricao": "2º REFORÇO",
+                "lote": "205J21A",
+                "fabricante": "JANSSEN",
+                "estabAplicacao": "POSTO DE SAUDE DO QUEMQUEM",
+                "grupoAtendimento": "OUTROS",
+                "profissionalAplic": "VILMA ALVES DE SOUZA",
+                "dataAplicacao": "2022-06-20T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 SINOVAC/BUTANTAN - CORONAVAC",
+                "descricao": "2ª DOSE",
+                "lote": "202010031",
+                "fabricante": "SINOVAC/BUTANTAN",
+                "estabAplicacao": "POSTO DE SAUDE DO QUEMQUEM",
+                "grupoAtendimento": "OUTROS",
+                "profissionalAplic": "VILMA ALVES DE SOUZA",
+                "dataAplicacao": "2021-02-10T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 SINOVAC/BUTANTAN - CORONAVAC",
+                "descricao": "1ª DOSE",
+                "lote": "202010031",
+                "fabricante": "SINOVAC/BUTANTAN",
+                "estabAplicacao": "POSTO DE SAUDE DO QUEMQUEM",
+                "grupoAtendimento": "OUTROS",
+                "profissionalAplic": "VILMA ALVES DE SOUZA",
+                "dataAplicacao": "2021-01-20T00:00:00.000Z"
+            }
+        ],
+        "certidoes": [],
+        "bancarias": [
+            {
+                "instituicao": "BANCO DO BRASIL",
+                "bancoId": "",
+                "codAgencia": "935",
+                "numero": ""
+            },
+            {
+                "instituicao": "BANCO DO BRASIL",
+                "bancoId": "",
+                "codAgencia": "935",
+                "numero": ""
+            },
+            {
+                "instituicao": "BANCO DO BRASIL",
+                "bancoId": "",
+                "codAgencia": "935",
+                "numero": ""
+            }
+        ],
+        "compras": [],
+        "internet": [],
+        "irpf": [
+            {
+                "instituicao": "BANCO DO BRASIL",
+                "codAgencia": "0935",
+                "lote": "3",
+                "dataLote": "2018-08-15",
+                "anoReferencia": "2018",
+                "situacaoReceita": "CREDITADA",
+                "dataConsulta": "2019-04-16 06:46:48"
+            },
+            {
+                "instituicao": "BANCO DO BRASIL",
+                "codAgencia": "0935",
+                "lote": "005",
+                "dataLote": "2019-10-15",
+                "anoReferencia": "2019",
+                "situacaoReceita": "CREDITADA",
+                "dataConsulta": "2020-02-27 01:53:12"
+            },
+            {
+                "instituicao": "BANCO DO BRASIL",
+                "codAgencia": "0935",
+                "lote": "4",
+                "dataLote": "2015-09-15",
+                "anoReferencia": "2015",
+                "situacaoReceita": "CREDITADA",
+                "dataConsulta": "2018-10-30 10:19:00"
+            },
+            {
+                "instituicao": "BANCO DO BRASIL",
+                "codAgencia": "0935",
+                "lote": "14",
+                "dataLote": "2017-07-17",
+                "anoReferencia": "2016",
+                "situacaoReceita": "CREDITADA",
+                "dataConsulta": "2018-10-27 21:42:00"
+            },
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2019",
+                "situacaoReceita": "SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL - PROCESSADA EM FILA DE RESTITUICAO",
+                "dataConsulta": "2019-08-09 15:36:08"
+            },
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2020",
+                "situacaoReceita": "SALDO INEXISTENTE DE IMPOSTO A PAGAR OU A RESTITUIR.",
+                "dataConsulta": "2020-08-18 10:42:25"
+            },
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2021",
+                "situacaoReceita": "SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL",
+                "dataConsulta": "2022-06-16 21:46:58"
+            }
+        ],
+        "interesses": {
+            "creditoPessoalPreAprovado": false,
+            "creditoImobiliarioPreAprovado": true,
+            "financiamentoDeVeiculoPreAprovado": false,
+            "classeMedia": false,
+            "debitoAutomatico": false,
+            "possuiLuxo": true,
+            "possuiInvestimentos": false,
+            "possuiCartaoDeCredito": true,
+            "possuiMultiplosCartoes": false,
+            "possuiContaAltoPadrao": false,
+            "possuiCartaoBlack": false,
+            "possuiCartaoPrime": false,
+            "possuiCelularPrePago": false,
+            "possuiCelularPosPago": true,
+            "possuiMilhasAcumuladas": false,
+            "possuiCasaPropria": true,
+            "possuiDescontos": true,
+            "possuiContasCorrentes": true,
+            "possuiInternetBanking": true,
+            "possuiSeguroAutomotivo": true,
+            "possuiPrevidenciaPrivada": true,
+            "realizouViagens": true
+        }
+    }
+}

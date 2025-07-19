@@ -1,0 +1,391 @@
+🔎 CONSULTA COMPLETA
+
+• Base: nome
+• Dado pesquisado: Ana Clara Fernandes Araujo
+
+{
+    "success": true,
+    "query": "ANA CLARA FERNANDES ARAUJO",
+    "query_date": "2025-07-18T03:43:03.506Z",
+    "query_id": "f9144dca-0c0b-4777-ab7e-2b0a5f0480d1",
+    "data": [
+        {
+            "nome": "ANA CLARA FERNANDES DE ARAUJO DOS SANTOS",
+            "cpf": "34656367400",
+            "nasc": "1961-11-30",
+            "sexo": "F",
+            "nomeMae": "RENEUZA FERNANDES DE ARAUJO"
+        },
+        {
+            "nome": "ANA CLARA ARAUJO FERNANDES",
+            "cpf": "51135540306",
+            "nasc": "1974-04-19",
+            "sexo": "F",
+            "nomeMae": "MARIA DE FATIMA ARAUJO VIEIRA"
+        },
+        {
+            "nome": "ANA CLARA NOBERTO GALDINO DE ARAUJO FERNANDES",
+            "cpf": "08405040471",
+            "nasc": "1988-10-11",
+            "sexo": "F",
+            "nomeMae": "FRANCISCA NOBERTO GOIANA"
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "09682436656",
+            "nasc": "2005-02-25",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA ARAUJO FERNANDES",
+            "cpf": "11499806647",
+            "nasc": "1997-01-05",
+            "sexo": "F",
+            "nomeMae": "VIVIANE DE CASSIA ARAUJO FERNANDES"
+        },
+        {
+            "nome": "ANA CLARA DE ARAUJO FERNANDES",
+            "cpf": "09852259474",
+            "nasc": "1997-05-30",
+            "sexo": "F",
+            "nomeMae": "FRANCISCA LOPES DE ARAUJO FERNANDES"
+        },
+        {
+            "nome": "ANA CLARA ARAUJO FERNANDES SALDANHA",
+            "cpf": "08807164442",
+            "nasc": "2005-03-01",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "42326505808",
+            "nasc": "2009-04-06",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DE ARAUJO",
+            "cpf": "15033748742",
+            "nasc": "2007-07-18",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA ARAUJO FERNANDES",
+            "cpf": "12537406664",
+            "nasc": "2003-10-21",
+            "sexo": "F",
+            "nomeMae": "JANNE LEITE DE ARAUJO"
+        },
+        {
+            "nome": "ANA CLARA ARAUJO FERNANDES",
+            "cpf": "12908751623",
+            "nasc": "2006-12-22",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA ARAUJO FERNANDES",
+            "cpf": "16556035742",
+            "nasc": "2003-10-29",
+            "sexo": "F",
+            "nomeMae": "MARIA DA DORES ARAUJO DO VALE"
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DA SILVA ARAUJO",
+            "cpf": "45198084808",
+            "nasc": "2008-05-31",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DE ARAUJO FEITOSA",
+            "cpf": "11687325499",
+            "nasc": "2006-05-10",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA MARQUES FERNANDES DE ARAUJO",
+            "cpf": "46490579812",
+            "nasc": "1997-10-05",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DE ARAUJO",
+            "cpf": "46906074865",
+            "nasc": "2012-12-22",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA DE ARAUJO FERNANDES",
+            "cpf": "12235301401",
+            "nasc": "2009-11-15",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES PESTANA DOS SANTOS DE ARAUJO",
+            "cpf": "61573015385",
+            "nasc": "2002-04-11",
+            "sexo": "F",
+            "nomeMae": "GABRIELLE FERNANDES PESTANA DOS SANTOS"
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DE ARAUJO",
+            "cpf": "12544613459",
+            "nasc": "2002-05-28",
+            "sexo": "F",
+            "nomeMae": "CLEONEIDE FERNANDES DE ARAUJO"
+        },
+        {
+            "nome": "ANA CLARA FERNANDES SOUZA DE ARAUJO",
+            "cpf": "17895522736",
+            "nasc": "2003-07-09",
+            "sexo": "F",
+            "nomeMae": "DINORAH CRISTINA FERNANDES SOUZA DE ARAUJO"
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DE ARAUJO",
+            "cpf": "02288647639",
+            "nasc": "2003-07-29",
+            "sexo": "F",
+            "nomeMae": "VALQUIRIA FERREIRA DA SILVA"
+        },
+        {
+            "nome": "ANA CLARA DE ARAUJO FERNANDES",
+            "cpf": "12694616488",
+            "nasc": "2004-03-02",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA DE ARAUJO FERNANDES",
+            "cpf": "11536979988",
+            "nasc": "2010-02-25",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DE SOUZA ARAUJO",
+            "cpf": "18263885752",
+            "nasc": "2009-05-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "49184336854",
+            "nasc": "2012-07-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES MARQUES DE ARAUJO",
+            "cpf": "18352767763",
+            "nasc": "2014-02-13",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "18370112730",
+            "nasc": "2003-04-30",
+            "sexo": "F",
+            "nomeMae": "ALOMA PAIVA FERNANDES"
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "14873972671",
+            "nasc": "2006-12-30",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "62219252310",
+            "nasc": "2004-04-21",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA TORRES FERNANDES ARAUJO",
+            "cpf": "08307939178",
+            "nasc": "2016-01-15",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA ARAUJO FERNANDES LIMA",
+            "cpf": "50121319830",
+            "nasc": "2008-12-29",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "18915037740",
+            "nasc": "2003-01-04",
+            "sexo": "F",
+            "nomeMae": "BRUNA MOREIRA FERNANDES"
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "08417799109",
+            "nasc": "2003-08-19",
+            "sexo": "F",
+            "nomeMae": "ELAINE DE OLIVEIRA FERNANDES"
+        },
+        {
+            "nome": "ANA CLARA ARAUJO FERNANDES",
+            "cpf": "08790851340",
+            "nasc": "2003-11-07",
+            "sexo": "F",
+            "nomeMae": "VALDENISA ARAUJO FERNANDES"
+        },
+        {
+            "nome": "ANA CLARA FERNANDES VIEIRA DE ARAUJO",
+            "cpf": "19300770764",
+            "nasc": "2004-07-30",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DE ARAUJO",
+            "cpf": "53426885824",
+            "nasc": "2011-05-30",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "86723709535",
+            "nasc": "2005-12-14",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DE ARAUJO",
+            "cpf": "08346592124",
+            "nasc": "2008-01-25",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DE ARAUJO DANTAS",
+            "cpf": "05347515201",
+            "nasc": "2007-09-04",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "15851742623",
+            "nasc": "2016-03-23",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "15716556620",
+            "nasc": "2008-04-03",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA BORGES FERNANDES ARAUJO",
+            "cpf": "08809034309",
+            "nasc": "2009-06-18",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "08798244337",
+            "nasc": "2017-01-31",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "10465115136",
+            "nasc": "2003-07-19",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "54842851864",
+            "nasc": "2014-08-12",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA MARIALVA FERNANDES ARAUJO",
+            "cpf": "56054703889",
+            "nasc": "2012-06-22",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "53771302862",
+            "nasc": "2008-01-03",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES CARDOSO DE ARAUJO",
+            "cpf": "53564889809",
+            "nasc": "2011-12-13",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA DE ARAUJO FERNANDES",
+            "cpf": "58002644816",
+            "nasc": "2011-05-28",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA DE ARAUJO FERNANDES",
+            "cpf": "70482623624",
+            "nasc": "2012-03-01",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES DE ARAUJO",
+            "cpf": "18445234625",
+            "nasc": "2009-03-26",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA ARAUJO FERNANDES",
+            "cpf": "10456311165",
+            "nasc": "2014-12-01",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA ARAUJO FERNANDES",
+            "cpf": "09960202178",
+            "nasc": "2019-03-06",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ANA CLARA FERNANDES ARAUJO",
+            "cpf": "11275912311",
+            "nasc": "2020-04-14",
+            "sexo": "F",
+            "nomeMae": ""
+        }
+    ]
+}

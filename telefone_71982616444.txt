@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "query": "71982616444",
+    "query_date": "2025-07-19T00:10:54.502Z",
+    "query_id": "882d0ef1-2d7b-4c8b-99e2-6d1679fa1d26",
+    "data": [
+        {
+            "telefone": "71982616444",
+            "operadora": "CLARO",
+            "nome": "RAFAEL SANTOS CARDOSO",
+            "cpfCnpj": "01453717510",
+            "endereco": {}
+        },
+        {
+            "telefone": "71982616444",
+            "operadora": "CLARO",
+            "nome": "RAFAEL SANTOS CARDOSO",
+            "cpfCnpj": "01453717510",
+            "endereco": {}
+        },
+        {
+            "telefone": "71982616444",
+            "operadora": "CLARO",
+            "nome": "RAFAEL SANTOS CARDOSO",
+            "cpfCnpj": "01453717510",
+            "endereco": {
+                "logradouro": "DA RESISTENCIA",
+                "numero": "1",
+                "bairro": "BAIRRO DA PAZ",
+                "cidade": "SALVADOR",
+                "siglaUf": "BA",
+                "cep": "41515230",
+                "complemento": ""
+            }
+        },
+        {
+            "telefone": "71982616444",
+            "operadora": "",
+            "nome": "ROQUE ANDERSON GUIMARAES MATOS SANTOS",
+            "cpfCnpj": "92927874549",
+            "endereco": {
+                "logradouro": "R QUARENTA E CINCO CJ C BRANCO 6 ETP III",
+                "numero": "",
+                "bairro": "FAZ COUTOS",
+                "cidade": "SALVADOR",
+                "siglaUf": "BA",
+                "cep": "",
+                "complemento": ""
+            }
+        },
+        {
+            "telefone": "71982616444",
+            "operadora": "ASSECC",
+            "nome": "MIRIANE DA SILVA",
+            "cpfCnpj": "06997990584",
+            "endereco": {
+                "logradouro": "R SANTA MARIA",
+                "numero": "0000006",
+                "bairro": "LAMA PRETA",
+                "cidade": "CAMACARI",
+                "siglaUf": "BA",
+                "cep": "42806330",
+                "complemento": ""
+            }
+        }
+    ]
+}
