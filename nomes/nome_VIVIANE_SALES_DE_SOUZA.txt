@@ -1,0 +1,141 @@
+{
+    "success": true,
+    "query": "VIVIANE SALES DE SOUZA",
+    "query_date": "2025-07-20T00:51:29.205Z",
+    "query_id": "129d707d-42bc-45f7-9cb4-f5e08bb4280b",
+    "data": [
+        {
+            "nome": "VIVIANE DE SOUZA GRIBEL SALES",
+            "cpf": "16007177807",
+            "nasc": "1975-02-07",
+            "sexo": "F",
+            "nomeMae": "JULIA DE SOUZA GRIBEL"
+        },
+        {
+            "nome": "VIVIANE SOUZA SALES DE CARVALHO",
+            "cpf": "31518772811",
+            "nasc": "1983-08-16",
+            "sexo": "F",
+            "nomeMae": "LAURA MOURA DE SOUZA"
+        },
+        {
+            "nome": "VIVIANE DE SOUZA SERRA SALES",
+            "cpf": "02519329904",
+            "nasc": "1979-11-16",
+            "sexo": "F",
+            "nomeMae": "MARIA LUCIA ROSSI MELLO"
+        },
+        {
+            "nome": "VIVIANE SALES DE SOUZA",
+            "cpf": "12089111712",
+            "nasc": "1988-01-10",
+            "sexo": "F",
+            "nomeMae": "MARIA IRIS ZEFERINO SALES"
+        },
+        {
+            "nome": "VIVIANE SALES DE SOUZA",
+            "cpf": "33435725869",
+            "nasc": "1985-07-16",
+            "sexo": "F",
+            "nomeMae": "LIOZINA ALVES DE SALES"
+        },
+        {
+            "nome": "VIVIANE DE SOUZA SALES",
+            "cpf": "05832974719",
+            "nasc": "1986-12-21",
+            "sexo": "F",
+            "nomeMae": "LUCIA CRISTINA ALVES DE SOUZA"
+        },
+        {
+            "nome": "VIVIANE SALES DE SOUZA",
+            "cpf": "33650520893",
+            "nasc": "1985-05-27",
+            "sexo": "F",
+            "nomeMae": "ANA CLESSIA SALES DE SOUZA"
+        },
+        {
+            "nome": "VIVIANE BRAGA SALES DE SOUZA",
+            "cpf": "09508581700",
+            "nasc": "1981-04-09",
+            "sexo": "F",
+            "nomeMae": "NADIA BRAGA SALES DE SOUZA"
+        },
+        {
+            "nome": "VIVIANE SALES DE SOUZA",
+            "cpf": "70553076353",
+            "nasc": "1975-06-08",
+            "sexo": "F",
+            "nomeMae": "LUZIA SALES DE SOUZA"
+        },
+        {
+            "nome": "VIVIANE SALES DE SOUZA",
+            "cpf": "99811820104",
+            "nasc": "1981-04-18",
+            "sexo": "F",
+            "nomeMae": "MARINETE VTOR DA SILVA"
+        },
+        {
+            "nome": "VIVIANE DE SOUZA LIMA MENDES SALES",
+            "cpf": "38908019863",
+            "nasc": "1982-04-04",
+            "sexo": "F",
+            "nomeMae": "MARIA APARECIDA DA COSTA"
+        },
+        {
+            "nome": "VIVIANE DE SOUZA SALES PEREIRA",
+            "cpf": "04011702331",
+            "nasc": "1991-11-14",
+            "sexo": "F",
+            "nomeMae": "ANA LUCIA DE SOUZA SALES"
+        },
+        {
+            "nome": "VIVIANE SALES DE SOUZA",
+            "cpf": "03232362192",
+            "nasc": "1990-04-10",
+            "sexo": "F",
+            "nomeMae": "IVANY SALES"
+        },
+        {
+            "nome": "VIVIANE LIMA DE SOUZA SALES",
+            "cpf": "03968542576",
+            "nasc": "1995-10-08",
+            "sexo": "F",
+            "nomeMae": "IZABEL FARIAS LIMA"
+        },
+        {
+            "nome": "VIVIANE OLIVEIRA DE SOUZA SALES",
+            "cpf": "12490271792",
+            "nasc": "1995-05-13",
+            "sexo": "F",
+            "nomeMae": "DINILCE OLIVEIRA DE SOUSA SALES"
+        },
+        {
+            "nome": "APARECIDA VIVIANE PAOLA DE SALES PEREIRA DE SOUZA",
+            "cpf": "41493251899",
+            "nasc": "1995-09-06",
+            "sexo": "F",
+            "nomeMae": "ROSANGELA APARECIDA SALES PEREIRA"
+        },
+        {
+            "nome": "VIVIANE SALES DE SOUZA",
+            "cpf": "70149176414",
+            "nasc": "1997-06-07",
+            "sexo": "F",
+            "nomeMae": "ISIAURIA MARIA SALES MENEZES DE SOUZA"
+        },
+        {
+            "nome": "VIVIANE SOUZA DE SALES",
+            "cpf": "10110150562",
+            "nasc": "1997-07-23",
+            "sexo": "F",
+            "nomeMae": "SIVALDA ROCHA DE SOUZA"
+        },
+        {
+            "nome": "VIVIANE MICAELE SALES DE SOUZA",
+            "cpf": "71496504496",
+            "nasc": "2010-09-08",
+            "sexo": "F",
+            "nomeMae": ""
+        }
+    ]
+}

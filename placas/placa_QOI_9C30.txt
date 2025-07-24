@@ -1,0 +1,9 @@
+{
+    "success": false,
+    "query": "qoi 9c30",
+    "query_date": "2025-07-22T13:41:24.695Z",
+    "query_id": "48db081c-0cd9-4382-b578-1075ac94a7c1",
+    "error": {
+        "message": "Placa não encontrada."
+    }
+}

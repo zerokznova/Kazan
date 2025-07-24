@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "query": "CASSIELI MANTELLI",
+    "query_date": "2025-07-23T17:46:34.288Z",
+    "query_id": "93648ddd-ee65-4264-817d-972be074383f",
+    "data": [
+        {
+            "nome": "CASSIELI PRIGOLI MANTELLI",
+            "cpf": "11824108982",
+            "nasc": "2009-02-25",
+            "sexo": "F",
+            "nomeMae": ""
+        }
+    ]
+}

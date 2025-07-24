@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "query": "ELIANE DE DARDANIA FERREIRA",
+    "query_date": "2025-07-23T19:04:00.770Z",
+    "query_id": "de8dd450-3310-43a4-89c8-106e9db1abca",
+    "data": [
+        {
+            "nome": "ELIANE DE DARDANIA FERREIRA",
+            "cpf": "04967561683",
+            "nasc": "1980-10-31",
+            "sexo": "F",
+            "nomeMae": "MARIA ODETE FERREIRA"
+        }
+    ]
+}

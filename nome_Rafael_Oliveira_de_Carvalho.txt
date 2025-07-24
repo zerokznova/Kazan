@@ -1,0 +1,3508 @@
+{
+    "success": true,
+    "query": "RAFAEL OLIVEIRA DE CARVALHO",
+    "query_date": "2025-07-23T19:48:49.903Z",
+    "query_id": "a4a06bf2-0b65-4b4d-8a39-400c6451d863",
+    "data": [
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA PAIXAO",
+            "cpf": "96804394372",
+            "nasc": "1981-03-06",
+            "sexo": "M",
+            "nomeMae": "YOLETE CARVALHO DE OLIVEIRA PAIXAO"
+        },
+        {
+            "nome": "RAFAEL HENRIQUE DE OLIVEIRA CARVALHO",
+            "cpf": "08092513619",
+            "nasc": "1986-11-17",
+            "sexo": "M",
+            "nomeMae": "DEZIA MARIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "02531133186",
+            "nasc": "1987-10-27",
+            "sexo": "M",
+            "nomeMae": "SUELI APARECIDA ALVES DE OLIVEIRA"
+        },
+        {
+            "nome": "TATIANA KATIA RAFAEL CARVALHO DE OLIVEIRA FEITOSA",
+            "cpf": "06759752473",
+            "nasc": "1986-10-27",
+            "sexo": "F",
+            "nomeMae": "NELMA CRISTINA C OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL JOSE CARVALHO DE OLIVEIRA",
+            "cpf": "27729818604",
+            "nasc": "1942-10-15",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "32406471845",
+            "nasc": "1983-04-06",
+            "sexo": "M",
+            "nomeMae": "TERTULINA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "31613048882",
+            "nasc": "1985-01-09",
+            "sexo": "M",
+            "nomeMae": "MARIA ELIZETE DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "28229324840",
+            "nasc": "1980-09-09",
+            "sexo": "M",
+            "nomeMae": "VERA LUCIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "JOAO RAFAEL OLIVEIRA DE CARVALHO E MUNHOZ",
+            "cpf": "33224516828",
+            "nasc": "1984-09-15",
+            "sexo": "M",
+            "nomeMae": "ETHEL JOYCE CALMON DE OLIVEIRA BORGES"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "05591086489",
+            "nasc": "1983-02-23",
+            "sexo": "M",
+            "nomeMae": "JUSSARA MARIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL HENRIQUE OLIVEIRA DE CARVALHO",
+            "cpf": "69927839049",
+            "nasc": "1976-02-12",
+            "sexo": "M",
+            "nomeMae": "ISAMARA BEATRIZ OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "93332734415",
+            "nasc": "1975-08-15",
+            "sexo": "M",
+            "nomeMae": "MARIA GORET DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "65924967115",
+            "nasc": "1982-01-12",
+            "sexo": "M",
+            "nomeMae": "ONEIDE DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "22012809839",
+            "nasc": "1984-08-08",
+            "sexo": "M",
+            "nomeMae": "VANIA PATRICIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL MAIA DE OLIVEIRA CARVALHO",
+            "cpf": "29308389814",
+            "nasc": "1981-05-06",
+            "sexo": "M",
+            "nomeMae": "SANDRA MARA MAIA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "33945734827",
+            "nasc": "1983-11-05",
+            "sexo": "M",
+            "nomeMae": "INES FERREIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "22654440818",
+            "nasc": "1982-09-28",
+            "sexo": "M",
+            "nomeMae": "MARIA SYLVIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO PONTES",
+            "cpf": "35239300810",
+            "nasc": "1986-10-28",
+            "sexo": "M",
+            "nomeMae": "MILENE DE OLIVEIRA CARVALHO SANTOS"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "02780811340",
+            "nasc": "1986-11-09",
+            "sexo": "M",
+            "nomeMae": "MARLY LIMA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "04432558652",
+            "nasc": "1980-02-01",
+            "sexo": "M",
+            "nomeMae": "LEA REGINA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "22567822801",
+            "nasc": "1985-08-28",
+            "sexo": "M",
+            "nomeMae": "RAFAELA PELUZIA GUEDES DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "86400940120",
+            "nasc": "1979-07-26",
+            "sexo": "M",
+            "nomeMae": "TEREZA AUGUSTA DE CARVALHO GOMES"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "86037722153",
+            "nasc": "1977-11-17",
+            "sexo": "M",
+            "nomeMae": "VALERIA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "54025095572",
+            "nasc": "1971-09-11",
+            "sexo": "M",
+            "nomeMae": "MARIA C DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "04444456760",
+            "nasc": "1977-01-19",
+            "sexo": "M",
+            "nomeMae": "ROSA MARIA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "07668730729",
+            "nasc": "1977-04-18",
+            "sexo": "M",
+            "nomeMae": "MARILSA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "00904361721",
+            "nasc": "1969-03-05",
+            "sexo": "M",
+            "nomeMae": "TEREZINHA INEZ DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA SANTOS",
+            "cpf": "36308374768",
+            "nasc": "1952-12-22",
+            "sexo": "M",
+            "nomeMae": "GLORIA CELESTE CARVALHO DE OLIVEIRA SANTOS"
+        },
+        {
+            "nome": "RAFAEL CARLOS DE OLIVEIRA CARVALHO",
+            "cpf": "33313680836",
+            "nasc": "1982-07-30",
+            "sexo": "M",
+            "nomeMae": "MARILDA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "04743492688",
+            "nasc": "1981-09-29",
+            "sexo": "M",
+            "nomeMae": "MARIA DE FATIMA CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA MOURA",
+            "cpf": "08571994714",
+            "nasc": "1982-03-22",
+            "sexo": "M",
+            "nomeMae": "TANIA CARVALHO ALVARES DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "00266212581",
+            "nasc": "1982-05-10",
+            "sexo": "M",
+            "nomeMae": "VERALUCIA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "LUCAS RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "07203023664",
+            "nasc": "1985-09-11",
+            "sexo": "M",
+            "nomeMae": "MARIA ZELMA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "31819536874",
+            "nasc": "1983-12-08",
+            "sexo": "M",
+            "nomeMae": "BERENICE LIMA DE SOUZA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA DE CARVALHO",
+            "cpf": "33411730803",
+            "nasc": "1983-08-08",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE ALMEIDA CARVALHO",
+            "cpf": "33261441801",
+            "nasc": "1984-07-04",
+            "sexo": "M",
+            "nomeMae": "ELOISA APARECIDA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA ABREU",
+            "cpf": "33701327882",
+            "nasc": "1985-03-31",
+            "sexo": "M",
+            "nomeMae": "MARIA CRISTINA DE CARVALHO OLIVEIRA ABREU"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "32617215881",
+            "nasc": "1984-05-25",
+            "sexo": "M",
+            "nomeMae": "JOANA MARIA DA CONCEICAO DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL ANTONIO OLIVEIRA DE CARVALHO",
+            "cpf": "31100339841",
+            "nasc": "1982-12-12",
+            "sexo": "M",
+            "nomeMae": "VALDETE ALVES DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "CLAUDIONOR RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "03064506234",
+            "nasc": "1937-10-24",
+            "sexo": "M",
+            "nomeMae": "CLOTILDE GABRIEL DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "29675133856",
+            "nasc": "1981-06-17",
+            "sexo": "M",
+            "nomeMae": "SUELY MARIA RAMOS DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA CORRADI",
+            "cpf": "30051492857",
+            "nasc": "1983-09-05",
+            "sexo": "M",
+            "nomeMae": "TEREZA CRISTINA CARVALHO DE OLIVEIRA CORRADI"
+        },
+        {
+            "nome": "RAFAEL TARRE CARVALHO DE OLIVEIRA",
+            "cpf": "02879595703",
+            "nasc": "1976-06-26",
+            "sexo": "M",
+            "nomeMae": "GILDA M C C DE OLIVEIA"
+        },
+        {
+            "nome": "RAFAEL ANGELO FONSECA DE CARVALHO OLIVEIRA",
+            "cpf": "00618756787",
+            "nasc": "1941-05-30",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "43211232249",
+            "nasc": "1973-10-22",
+            "sexo": "M",
+            "nomeMae": "MARIA DAS GRACAS DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "05689518751",
+            "nasc": "1983-06-05",
+            "sexo": "M",
+            "nomeMae": "ELIANA DE OLIVEIRA PERDIGAO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "03666474748",
+            "nasc": "1974-07-19",
+            "sexo": "M",
+            "nomeMae": "MARIA JOSE OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "29793069830",
+            "nasc": "1982-11-27",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA VILARICO CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "08912438794",
+            "nasc": "1981-08-04",
+            "sexo": "M",
+            "nomeMae": "ANA MARIA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "00552979198",
+            "nasc": "1986-09-03",
+            "sexo": "M",
+            "nomeMae": "IVANILDES OLIVEIRA DA SILVA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "05252926670",
+            "nasc": "1982-11-23",
+            "sexo": "M",
+            "nomeMae": "DAISY DE OLIVEIRA GUIMARAES"
+        },
+        {
+            "nome": "RAFAEL EVARISTO DE CARVALHO OLIVEIRA",
+            "cpf": "30377800880",
+            "nasc": "1981-12-02",
+            "sexo": "M",
+            "nomeMae": "MARISA EVARISTO DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "07725596780",
+            "nasc": "1977-08-06",
+            "sexo": "M",
+            "nomeMae": "LUISA ELINAUDE DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "29033857855",
+            "nasc": "1982-04-22",
+            "sexo": "M",
+            "nomeMae": "MARIA DOS ANJOS OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "09838663760",
+            "nasc": "1982-11-15",
+            "sexo": "M",
+            "nomeMae": "SANDRA REGINA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "10250424762",
+            "nasc": "1983-03-10",
+            "sexo": "M",
+            "nomeMae": "TANIA MARIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "00001639021",
+            "nasc": "1984-12-24",
+            "sexo": "M",
+            "nomeMae": "JANETE HERZOGUE DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "06048399600",
+            "nasc": "1983-01-17",
+            "sexo": "M",
+            "nomeMae": "ROSILDA MARIA DE CARVALHO"
+        },
+        {
+            "nome": "PAULO FERNANDO RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "65721551372",
+            "nasc": "1981-11-26",
+            "sexo": "M",
+            "nomeMae": "NELMA CHRISTINA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "81704712068",
+            "nasc": "1983-01-14",
+            "sexo": "M",
+            "nomeMae": "IONICE DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "10623565781",
+            "nasc": "1982-12-10",
+            "sexo": "M",
+            "nomeMae": "GESSI CRUZ DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "05654354779",
+            "nasc": "1982-02-18",
+            "sexo": "M",
+            "nomeMae": "ELAINE MARIA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "93131186100",
+            "nasc": "1981-07-27",
+            "sexo": "M",
+            "nomeMae": "DENIZE DE OLIVEIRA BORGES"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "07870048712",
+            "nasc": "1978-05-10",
+            "sexo": "M",
+            "nomeMae": "MARIA DE LOURDES OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "05995157671",
+            "nasc": "1984-02-16",
+            "sexo": "M",
+            "nomeMae": "DORINHA MARIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL FRANCISCO DE OLIVEIRA CARVALHO",
+            "cpf": "03950014985",
+            "nasc": "1981-06-10",
+            "sexo": "M",
+            "nomeMae": "CARMEM DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "50469886587",
+            "nasc": "1965-05-28",
+            "sexo": "M",
+            "nomeMae": "INES DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "33790228885",
+            "nasc": "1986-12-23",
+            "sexo": "M",
+            "nomeMae": "LEONICE CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL GUSTAVO DE OLIVEIRA CARVALHO",
+            "cpf": "08481937762",
+            "nasc": "1977-08-15",
+            "sexo": "M",
+            "nomeMae": "ROSANGELA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA SANTOS",
+            "cpf": "00326418180",
+            "nasc": "1983-09-03",
+            "sexo": "M",
+            "nomeMae": "ANTONIA MARLEIDE CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "94263841034",
+            "nasc": "1978-06-24",
+            "sexo": "M",
+            "nomeMae": "ANETE CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL NOGUEIRA DE OLIVEIRA CARVALHO",
+            "cpf": "04743503639",
+            "nasc": "1982-03-04",
+            "sexo": "M",
+            "nomeMae": "ISMAURA NOGUEIRA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "29957963880",
+            "nasc": "1981-09-07",
+            "sexo": "M",
+            "nomeMae": "IRAILDES RODRIGUES OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "21822356806",
+            "nasc": "1981-11-17",
+            "sexo": "M",
+            "nomeMae": "NOEMIA MEDEIROS DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "98108387868",
+            "nasc": "1938-01-04",
+            "sexo": "M",
+            "nomeMae": "DEJANIRA MARIA DE JESUS"
+        },
+        {
+            "nome": "TIAGO RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "06626472461",
+            "nasc": "1986-10-05",
+            "sexo": "M",
+            "nomeMae": "MARTA MARIA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "09487075771",
+            "nasc": "1983-09-05",
+            "sexo": "M",
+            "nomeMae": "MARIA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "10771055765",
+            "nasc": "1986-07-26",
+            "sexo": "M",
+            "nomeMae": "KENIA MARIA FERREIRA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "LAZARO RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "02055382152",
+            "nasc": "1988-08-05",
+            "sexo": "M",
+            "nomeMae": "JUSSARA ASSIS CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "83041966468",
+            "nasc": "1975-08-15",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "91094950297",
+            "nasc": "1987-12-10",
+            "sexo": "M",
+            "nomeMae": "ZENILDE CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "85894532272",
+            "nasc": "1987-01-24",
+            "sexo": "M",
+            "nomeMae": "MARIA NEITA CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "06175820681",
+            "nasc": "1983-01-24",
+            "sexo": "M",
+            "nomeMae": "MARILENE DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "PAULO RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "03365495983",
+            "nasc": "1981-07-03",
+            "sexo": "M",
+            "nomeMae": "MARIA DE LOURDES CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "73438022168",
+            "nasc": "1987-12-11",
+            "sexo": "M",
+            "nomeMae": "JOANA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "35749414809",
+            "nasc": "1982-10-31",
+            "sexo": "M",
+            "nomeMae": "VANDA DE SOUZA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA KLAVER",
+            "cpf": "30367788888",
+            "nasc": "1983-12-23",
+            "sexo": "M",
+            "nomeMae": "ANGELA MARIA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "10383744725",
+            "nasc": "1988-01-23",
+            "sexo": "M",
+            "nomeMae": "ROSANIA REZENDE CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "83416439015",
+            "nasc": "1988-01-18",
+            "sexo": "M",
+            "nomeMae": "SANDRA MARA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA BRAZ CARVALHO",
+            "cpf": "35986054806",
+            "nasc": "1994-08-09",
+            "sexo": "M",
+            "nomeMae": "MARIA LUCIA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "10368704726",
+            "nasc": "1983-02-20",
+            "sexo": "M",
+            "nomeMae": "SONIA MARIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "33907621832",
+            "nasc": "1988-12-30",
+            "sexo": "M",
+            "nomeMae": "LUCIANA APARECIDA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "00720249171",
+            "nasc": "1984-03-13",
+            "sexo": "M",
+            "nomeMae": "ANGELA MARIA DE OLIVEIRA"
+        },
+        {
+            "nome": "BRUNO RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "34280350892",
+            "nasc": "1986-04-27",
+            "sexo": "M",
+            "nomeMae": "REGINALDA DE OLIVEIRA SANTOS"
+        },
+        {
+            "nome": "RAFAEL SANDRO DE SOUSA OLIVEIRA CARVALHO",
+            "cpf": "01000165108",
+            "nasc": "1984-11-11",
+            "sexo": "M",
+            "nomeMae": "MARIA NAZARE DE SOUSA OLIVIERA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "00612346137",
+            "nasc": "1985-12-31",
+            "sexo": "M",
+            "nomeMae": "RITA DE JESUS DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "36164578825",
+            "nasc": "1988-06-16",
+            "sexo": "M",
+            "nomeMae": "MAGDA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "11089146752",
+            "nasc": "1986-01-17",
+            "sexo": "M",
+            "nomeMae": "NEUSA JULIA DE CARVALHO"
+        },
+        {
+            "nome": "CLAUDIO RAFAEL DE OLIVEIRA SCALIANTE CARVALHO",
+            "cpf": "05287577923",
+            "nasc": "1991-11-01",
+            "sexo": "M",
+            "nomeMae": "SANDRA CRISTINA DE OLIVEIRA SCALIANTE"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "06051026606",
+            "nasc": "1983-01-18",
+            "sexo": "M",
+            "nomeMae": "ROSILDA MARIA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "04472755939",
+            "nasc": "1984-10-21",
+            "sexo": "M",
+            "nomeMae": "MARIA CRISTINA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA FAGUNDES DE CARVALHO",
+            "cpf": "01628049626",
+            "nasc": "1989-07-05",
+            "sexo": "M",
+            "nomeMae": "EDNEIDE FELIX O CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARLOS DE OLIVEIRA CARVALHO",
+            "cpf": "33471526897",
+            "nasc": "1984-05-18",
+            "sexo": "M",
+            "nomeMae": "MARIA MARCELINO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "34632988804",
+            "nasc": "1988-01-19",
+            "sexo": "M",
+            "nomeMae": "NELCI FRANCA MARTINS DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "80772986053",
+            "nasc": "1982-07-17",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA AVANZA",
+            "cpf": "06082121643",
+            "nasc": "1983-08-09",
+            "sexo": "M",
+            "nomeMae": "MARIA DAS GRACAS CARVALHO DE OLIVEIRA AVANZA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DARIS DE CARVALHO",
+            "cpf": "95773398320",
+            "nasc": "1982-07-04",
+            "sexo": "M",
+            "nomeMae": "JOVELINA DO NASCIMENTO OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "09274273703",
+            "nasc": "1982-10-15",
+            "sexo": "M",
+            "nomeMae": "DENISE MARIA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA GOMES DE CARVALHO",
+            "cpf": "10591396777",
+            "nasc": "1982-09-22",
+            "sexo": "M",
+            "nomeMae": "SUELI OLIVEIRA GOMES DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "11645514773",
+            "nasc": "1989-01-11",
+            "sexo": "M",
+            "nomeMae": "MARIA INES CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "34257366800",
+            "nasc": "1986-12-09",
+            "sexo": "M",
+            "nomeMae": "ELIANA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "11623105706",
+            "nasc": "1987-08-06",
+            "sexo": "M",
+            "nomeMae": "LUCI MENDES DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "07835081660",
+            "nasc": "1994-10-15",
+            "sexo": "M",
+            "nomeMae": "JANETE CLARA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "10047526793",
+            "nasc": "1983-11-01",
+            "sexo": "M",
+            "nomeMae": "MARIA NORMA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "04858606430",
+            "nasc": "1983-04-29",
+            "sexo": "M",
+            "nomeMae": "SEVERINA OLIVEIRA DE MORAIS"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "66439280104",
+            "nasc": "1976-02-13",
+            "sexo": "M",
+            "nomeMae": "ELEUSA MARIA CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "10486895572",
+            "nasc": "1940-01-15",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "HERCILIA CARVALHO RAFAEL DE OLIVEIRA",
+            "cpf": "08404001790",
+            "nasc": "1979-04-17",
+            "sexo": "F",
+            "nomeMae": "MARIA DA GLORIA ROCHA RAFAEL"
+        },
+        {
+            "nome": "CRISTIAN RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "92174663287",
+            "nasc": "2002-11-15",
+            "sexo": "M",
+            "nomeMae": "RENATA LOPES DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "35697461860",
+            "nasc": "1990-02-02",
+            "sexo": "M",
+            "nomeMae": "RAQUEL DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "00454082380",
+            "nasc": "1984-09-09",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL ANTONIO OLIVEIRA DE CARVALHO",
+            "cpf": "31217073884",
+            "nasc": "1982-12-02",
+            "sexo": "M",
+            "nomeMae": "VALDETE ALVES DE OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA WEISS DE CARVALHO",
+            "cpf": "10992912750",
+            "nasc": "1990-11-28",
+            "sexo": "M",
+            "nomeMae": "VANUSA DE OLIVEIRA WEISS DE CARVALHO"
+        },
+        {
+            "nome": "DIEGO RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "04543566920",
+            "nasc": "1993-10-27",
+            "sexo": "M",
+            "nomeMae": "ZILDA GOIS"
+        },
+        {
+            "nome": "LUCIANO RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "06276424625",
+            "nasc": "1985-09-23",
+            "sexo": "M",
+            "nomeMae": "MARIA DE LOURDES CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "00896108147",
+            "nasc": "1985-12-01",
+            "sexo": "M",
+            "nomeMae": "OSAIR RIBEIRO DE CARVALHO"
+        },
+        {
+            "nome": "ITALO RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "01802769137",
+            "nasc": "1988-06-23",
+            "sexo": "M",
+            "nomeMae": "IDERLANDIA ALVES DE OLIVEIRA"
+        },
+        {
+            "nome": "JOSE RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "35468295814",
+            "nasc": "1986-10-09",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA LUCIA DE OLIVEIRA"
+        },
+        {
+            "nome": "YURI RAFAEL CARVALHO BRANCO DE OLIVEIRA",
+            "cpf": "90963598287",
+            "nasc": "1986-01-26",
+            "sexo": "M",
+            "nomeMae": "MARCELENE MARIA CARVALHO BRANCO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "80060161515",
+            "nasc": "1983-09-14",
+            "sexo": "M",
+            "nomeMae": "MARIA SELMA DE ALMEIDA OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO DA SILVA",
+            "cpf": "10183529707",
+            "nasc": "1983-08-14",
+            "sexo": "M",
+            "nomeMae": "MARCIA OLIVEIRA DE CARVALHO DA SILVA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "30123971837",
+            "nasc": "1981-05-03",
+            "sexo": "M",
+            "nomeMae": "JANETE APARECIDA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "09134980504",
+            "nasc": "1930-08-18",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RENATO RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "00436957361",
+            "nasc": "1989-04-08",
+            "sexo": "M",
+            "nomeMae": "MARIA LUISA OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA DE CARVALHO",
+            "cpf": "35362777807",
+            "nasc": "1988-12-03",
+            "sexo": "M",
+            "nomeMae": "SONIA REGINA DE OLIVEIRA"
+        },
+        {
+            "nome": "IGOR RAFAEL CARVALHO FERREIRA DE OLIVEIRA",
+            "cpf": "02843055539",
+            "nasc": "2004-02-14",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "32025597886",
+            "nasc": "1983-12-26",
+            "sexo": "M",
+            "nomeMae": "MARIA DO CARMO OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "33997988811",
+            "nasc": "1985-09-19",
+            "sexo": "M",
+            "nomeMae": "EDILENE CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "32078884880",
+            "nasc": "1983-12-27",
+            "sexo": "M",
+            "nomeMae": "MARIA DE LOURDES CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "07043756642",
+            "nasc": "1984-08-18",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA DE CARVALHO"
+        },
+        {
+            "nome": "MARCUS RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "01763196380",
+            "nasc": "1987-01-06",
+            "sexo": "M",
+            "nomeMae": "MARIA MAIA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "32049981856",
+            "nasc": "1982-10-27",
+            "sexo": "M",
+            "nomeMae": "LISELIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "06944122448",
+            "nasc": "1999-05-20",
+            "sexo": "M",
+            "nomeMae": "SIMONNY BARROS DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "33819837841",
+            "nasc": "2001-11-24",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA NADIA PEIXE DE OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL AUGUSTO CARVALHO DE OLIVEIRA",
+            "cpf": "04510349459",
+            "nasc": "1982-10-25",
+            "sexo": "M",
+            "nomeMae": "CASSIA ROMELIA DE CARVALHO SOUZA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "79491049291",
+            "nasc": "1983-12-20",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "35218260827",
+            "nasc": "1987-09-12",
+            "sexo": "M",
+            "nomeMae": "JOANA CELI CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "LUCAS RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "07066761650",
+            "nasc": "1997-07-31",
+            "sexo": "M",
+            "nomeMae": "VANIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "FRANCISCO RAFAEL PEREIRA DE CARVALHO OLIVEIRA",
+            "cpf": "01842454358",
+            "nasc": "1986-06-29",
+            "sexo": "M",
+            "nomeMae": "ANTONIA PEREIRA BORGES OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "11974223744",
+            "nasc": "1998-01-08",
+            "sexo": "M",
+            "nomeMae": "MERIANGELA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CESAR CARVALHO CHAGAS DE OLIVEIRA",
+            "cpf": "01451398409",
+            "nasc": "1999-10-01",
+            "sexo": "M",
+            "nomeMae": "ALINE DE CARVALHO COSTA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "04371058493",
+            "nasc": "1982-08-01",
+            "sexo": "M",
+            "nomeMae": "MARIA FATIMA OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "31860689833",
+            "nasc": "1983-11-25",
+            "sexo": "M",
+            "nomeMae": "MARIA FRANCISCA BATISTA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "33422696857",
+            "nasc": "1986-08-21",
+            "sexo": "M",
+            "nomeMae": "ANA MARIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO RAMOS",
+            "cpf": "11326155776",
+            "nasc": "1986-07-28",
+            "sexo": "M",
+            "nomeMae": "MARILIA A DE O C RAMOS"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "06728692681",
+            "nasc": "1996-10-14",
+            "sexo": "M",
+            "nomeMae": "GEISIANE CARVALHO MOREIRA"
+        },
+        {
+            "nome": "JOAO RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "11487522770",
+            "nasc": "1987-02-26",
+            "sexo": "M",
+            "nomeMae": "MARIA DA CONCEICAO OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "35910441809",
+            "nasc": "1988-06-03",
+            "sexo": "M",
+            "nomeMae": "ANICE LEITE DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "02098663307",
+            "nasc": "1987-01-07",
+            "sexo": "M",
+            "nomeMae": "MARIA AUXILIADORA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "36165898866",
+            "nasc": "1986-06-11",
+            "sexo": "M",
+            "nomeMae": "NANCI MARA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "12124140710",
+            "nasc": "1986-07-28",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL PAULO CARVALHO DE OLIVEIRA",
+            "cpf": "36151226828",
+            "nasc": "1991-09-11",
+            "sexo": "M",
+            "nomeMae": "ANDREA IRIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "36686092843",
+            "nasc": "1987-01-09",
+            "sexo": "M",
+            "nomeMae": "CLEUZA NAZARE DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL ROBERTO DE CARVALHO OLIVEIRA",
+            "cpf": "36232271882",
+            "nasc": "1986-07-24",
+            "sexo": "M",
+            "nomeMae": "PATRICIA SAVAIO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "36775373805",
+            "nasc": "1986-02-21",
+            "sexo": "M",
+            "nomeMae": "ALZINETE DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "08671031675",
+            "nasc": "1988-11-19",
+            "sexo": "M",
+            "nomeMae": "INES FERNANDES DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "09965035601",
+            "nasc": "1987-04-22",
+            "sexo": "M",
+            "nomeMae": "GERALDA DE OLIVEIRA PENIDO"
+        },
+        {
+            "nome": "RAFAEL LIMA DE CARVALHO DE OLIVEIRA",
+            "cpf": "08745880492",
+            "nasc": "1989-02-25",
+            "sexo": "M",
+            "nomeMae": "ANA LUCIA LIMA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "09498263671",
+            "nasc": "1989-02-14",
+            "sexo": "M",
+            "nomeMae": "RITA LUCIA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "39379465866",
+            "nasc": "1990-03-07",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA SOARES DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL EXPEDITO DE CARVALHO MENDES OLIVEIRA",
+            "cpf": "38432814830",
+            "nasc": "1991-11-19",
+            "sexo": "M",
+            "nomeMae": "ILDA AURELIANA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "39719083816",
+            "nasc": "1991-06-15",
+            "sexo": "M",
+            "nomeMae": "SONIA VALERIA OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "39820680883",
+            "nasc": "2005-12-04",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA SANTOS VIEIRA DE CARVALHO",
+            "cpf": "38732267827",
+            "nasc": "1989-12-25",
+            "sexo": "M",
+            "nomeMae": "ELZA V SANTOS"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "03211490507",
+            "nasc": "1986-11-29",
+            "sexo": "M",
+            "nomeMae": "RAIMUNDA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "03299041169",
+            "nasc": "1990-10-10",
+            "sexo": "M",
+            "nomeMae": "LINDAURA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "JOAO RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "40124858813",
+            "nasc": "1993-05-13",
+            "sexo": "M",
+            "nomeMae": "ODALIA VIEIRA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL MORENO DE OLIVEIRA CARVALHO",
+            "cpf": "39070844893",
+            "nasc": "1989-12-22",
+            "sexo": "M",
+            "nomeMae": "GISLENE MORENO DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "03448097306",
+            "nasc": "1990-07-10",
+            "sexo": "M",
+            "nomeMae": "MARIA DO SOCORRO DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "40466328877",
+            "nasc": "1990-12-04",
+            "sexo": "M",
+            "nomeMae": "VERA LUCIA DE OLIVEIRA"
+        },
+        {
+            "nome": "EMERSON RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "39507368833",
+            "nasc": "1989-04-13",
+            "sexo": "M",
+            "nomeMae": "RITA DE FATIMA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "40190308800",
+            "nasc": "1989-12-19",
+            "sexo": "M",
+            "nomeMae": "GISELE DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE ARAUJO CARVALHO OLIVEIRA",
+            "cpf": "40290881803",
+            "nasc": "1991-10-07",
+            "sexo": "M",
+            "nomeMae": "MARCIA MARIA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "40370811801",
+            "nasc": "1994-09-08",
+            "sexo": "M",
+            "nomeMae": "SELMA DOS SANTOS CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "53583507215",
+            "nasc": "1978-07-03",
+            "sexo": "M",
+            "nomeMae": "BENEDITA DA SILVA OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "60217954316",
+            "nasc": "1987-08-12",
+            "sexo": "M",
+            "nomeMae": "FLOR DE MARIA GOMES SANTOS CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "40872864871",
+            "nasc": "1990-06-04",
+            "sexo": "M",
+            "nomeMae": "REGINA APARECIDA DOS SANTOS OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "03968389522",
+            "nasc": "1988-07-02",
+            "sexo": "M",
+            "nomeMae": "MARIA ANGELINA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA TELES DE CARVALHO",
+            "cpf": "74273230178",
+            "nasc": "1987-05-20",
+            "sexo": "M",
+            "nomeMae": "LUCI OLIVEIRA DA SILVA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "41388029839",
+            "nasc": "1993-01-19",
+            "sexo": "M",
+            "nomeMae": "CLEUZA RODRIGUES DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "BRUNO RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "97977861291",
+            "nasc": "1988-10-14",
+            "sexo": "M",
+            "nomeMae": "ENEIDA PENHA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "04658539519",
+            "nasc": "2003-09-10",
+            "sexo": "M",
+            "nomeMae": "DANIELLE RIBEIRO CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "02576345174",
+            "nasc": "1991-01-13",
+            "sexo": "M",
+            "nomeMae": "ANA OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "02615528130",
+            "nasc": "1990-09-21",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA DA SILVA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "03182095358",
+            "nasc": "1998-05-08",
+            "sexo": "M",
+            "nomeMae": "NOELIA MORAIS DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO MENDES",
+            "cpf": "03100467183",
+            "nasc": "1999-07-27",
+            "sexo": "M",
+            "nomeMae": "YONARA OLIVEIRA DE CARVALHO MENDES"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "03128534322",
+            "nasc": "1988-09-10",
+            "sexo": "M",
+            "nomeMae": "MARIA GERVIS DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "LUCAS RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "02756381381",
+            "nasc": "2003-10-19",
+            "sexo": "M",
+            "nomeMae": "SARA DANIELE SOUSA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "02851729136",
+            "nasc": "1995-03-25",
+            "sexo": "M",
+            "nomeMae": "CRISPINA DA SILVA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "03406680160",
+            "nasc": "1992-02-28",
+            "sexo": "M",
+            "nomeMae": "ANALIA CAIXETA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL HENRIQUE DE OLIVEIRA CARVALHO",
+            "cpf": "03083754167",
+            "nasc": "1996-09-07",
+            "sexo": "M",
+            "nomeMae": "NARA LETICIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE SOUSA CARVALHO",
+            "cpf": "03133386395",
+            "nasc": "1987-09-30",
+            "sexo": "M",
+            "nomeMae": "ANTONIA OLIVEIRA DE SOUSA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "09088888647",
+            "nasc": "1999-12-26",
+            "sexo": "M",
+            "nomeMae": "WILIZETE OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "JOSE RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "04172774580",
+            "nasc": "1991-04-27",
+            "sexo": "M",
+            "nomeMae": "MARIA MADALENA APOLONIO DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "09559739611",
+            "nasc": "1988-09-26",
+            "sexo": "M",
+            "nomeMae": "MARIA TEREZA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "04250553531",
+            "nasc": "2004-09-25",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "03878089309",
+            "nasc": "1987-10-27",
+            "sexo": "M",
+            "nomeMae": "LAUDECI DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "09790353685",
+            "nasc": "1990-02-15",
+            "sexo": "M",
+            "nomeMae": "DELIETE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "04479148396",
+            "nasc": "1991-09-19",
+            "sexo": "M",
+            "nomeMae": "RITA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "04060035300",
+            "nasc": "1989-12-22",
+            "sexo": "M",
+            "nomeMae": "MARIA JOSE CALDAS DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "10323844685",
+            "nasc": "1989-10-29",
+            "sexo": "M",
+            "nomeMae": "ALAIDE DE PAULA VALERIA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL MACHADO CARVALHO DE OLIVEIRA",
+            "cpf": "12678521788",
+            "nasc": "2003-12-02",
+            "sexo": "M",
+            "nomeMae": "LUCIANA DE OLIVEIRA MACHADO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA RODRIGUES DE CARVALHO",
+            "cpf": "12997492750",
+            "nasc": "1988-09-13",
+            "sexo": "M",
+            "nomeMae": "ROSANA OLIVEIRA DE MEDEIROS CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "13101044766",
+            "nasc": "1990-07-20",
+            "sexo": "M",
+            "nomeMae": "MARIA DE LOURDES DA SILVA JOAQUIM CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO DE OLIVEIRA",
+            "cpf": "07290642988",
+            "nasc": "1990-09-28",
+            "sexo": "M",
+            "nomeMae": "IRACEMA MENDES DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "13720281701",
+            "nasc": "1990-07-04",
+            "sexo": "M",
+            "nomeMae": "SUELI CARVALHO DA COSTA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "13874479714",
+            "nasc": "1987-09-11",
+            "sexo": "M",
+            "nomeMae": "JOSELI MARIA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "07213927418",
+            "nasc": "1989-04-03",
+            "sexo": "M",
+            "nomeMae": "MARIA DA CONCEICAO OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "36399018862",
+            "nasc": "1985-10-21",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL SANTOS DE OLIVEIRA CARVALHO",
+            "cpf": "36673893885",
+            "nasc": "1989-09-11",
+            "sexo": "M",
+            "nomeMae": "RUTE SANTOS DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "08080450919",
+            "nasc": "1992-04-01",
+            "sexo": "M",
+            "nomeMae": "ROSANI DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "37098060895",
+            "nasc": "1988-06-27",
+            "sexo": "M",
+            "nomeMae": "LUCIA MARIA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO CAVALHEIRO",
+            "cpf": "07622797960",
+            "nasc": "1991-11-13",
+            "sexo": "M",
+            "nomeMae": "LUZIA DE OLIVEIRA CAVALHEIRO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "07744697901",
+            "nasc": "1990-09-05",
+            "sexo": "M",
+            "nomeMae": "NOELI DE OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "ALEXANDRE RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "37192875805",
+            "nasc": "2004-12-20",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "37694589825",
+            "nasc": "1989-09-01",
+            "sexo": "M",
+            "nomeMae": "JANETE A O CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "38296795809",
+            "nasc": "1992-01-01",
+            "sexo": "M",
+            "nomeMae": "IRACY ROSA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL FERNANDES DE OLIVEIRA CARVALHO",
+            "cpf": "08896884608",
+            "nasc": "1994-02-21",
+            "sexo": "M",
+            "nomeMae": "SEBASTIANA APARECIDA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL MESSIAS CARVALHO DE OLIVEIRA",
+            "cpf": "09023815637",
+            "nasc": "1990-01-15",
+            "sexo": "M",
+            "nomeMae": "SELMA DE FATIMA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL FELIX DE CARVALHO DE OLIVEIRA",
+            "cpf": "38717572843",
+            "nasc": "1991-09-30",
+            "sexo": "M",
+            "nomeMae": "ENILDES FELIX DE CARVALHO"
+        },
+        {
+            "nome": "BRUNO RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "08462031460",
+            "nasc": "1990-02-22",
+            "sexo": "M",
+            "nomeMae": "SUELI ALVES DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL LOPES CARVALHO DE OLIVEIRA",
+            "cpf": "39309306840",
+            "nasc": "1990-10-17",
+            "sexo": "M",
+            "nomeMae": "VIRGINIA MARA LOPES CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "08750215655",
+            "nasc": "1989-12-10",
+            "sexo": "M",
+            "nomeMae": "MARIA JOSE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL LUIZ CARVALHO DE OLIVEIRA",
+            "cpf": "39395581840",
+            "nasc": "1987-06-01",
+            "sexo": "M",
+            "nomeMae": "JOANA DARC CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "08885658601",
+            "nasc": "1984-12-05",
+            "sexo": "M",
+            "nomeMae": "MARIA DACIA DE JESUS CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO LOPES",
+            "cpf": "08916869676",
+            "nasc": "2004-09-25",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "09823171661",
+            "nasc": "1990-06-28",
+            "sexo": "M",
+            "nomeMae": "CARMELITA DE OLIVEIRA SANTOS"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "09195847642",
+            "nasc": "1989-02-28",
+            "sexo": "M",
+            "nomeMae": "CLAUDIA LUCIANA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "40624261883",
+            "nasc": "1992-01-18",
+            "sexo": "M",
+            "nomeMae": "REGINA CELIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "12317320752",
+            "nasc": "1995-07-17",
+            "sexo": "M",
+            "nomeMae": "MARTA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL HENRIQUE CARVALHO DE OLIVEIRA",
+            "cpf": "10218987676",
+            "nasc": "1992-03-30",
+            "sexo": "M",
+            "nomeMae": "LAZARA APARECIDA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "12347626760",
+            "nasc": "1985-08-29",
+            "sexo": "M",
+            "nomeMae": "ROSANGELA SOUZA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO SOUSA SOARES",
+            "cpf": "10289552605",
+            "nasc": "1995-07-17",
+            "sexo": "M",
+            "nomeMae": "RAQUEL DE OLIVEIRA CARVALHO SOARES"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "12468131738",
+            "nasc": "1994-02-09",
+            "sexo": "M",
+            "nomeMae": "RITA DE CASSIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "EDSON RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "13429885744",
+            "nasc": "1995-07-01",
+            "sexo": "M",
+            "nomeMae": "NADJA DE CARVALHO MOREIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "13356187759",
+            "nasc": "1994-06-16",
+            "sexo": "M",
+            "nomeMae": "KATIA REGINA DE OLIVIERA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "12545516708",
+            "nasc": "1989-05-23",
+            "sexo": "M",
+            "nomeMae": "TANIA MARIA MOREIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CHIPITELLI OLIVEIRA DE CARVALHO",
+            "cpf": "12554575703",
+            "nasc": "2003-05-28",
+            "sexo": "M",
+            "nomeMae": "MARCIA VALERIA OLIVEIRA NUNES"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA FIGUEREDO CARVALHO",
+            "cpf": "12469542731",
+            "nasc": "1988-09-28",
+            "sexo": "M",
+            "nomeMae": "VERA LUCIA DE OLIVEIRA FIGUEREDO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "01858476097",
+            "nasc": "1989-05-22",
+            "sexo": "M",
+            "nomeMae": "SONIA MARIA ALVES DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "13802670728",
+            "nasc": "1998-04-22",
+            "sexo": "M",
+            "nomeMae": "JANAINA CARVALHO RODRIGUES"
+        },
+        {
+            "nome": "RAFAEL ALVES CARVALHO DE OLIVEIRA",
+            "cpf": "14168546730",
+            "nasc": "1991-10-19",
+            "sexo": "M",
+            "nomeMae": "ROSANGELA ALVES CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO LOBO DE OLIVEIRA",
+            "cpf": "13579268716",
+            "nasc": "1991-09-04",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA CARVALHO DA SILVA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "36801494848",
+            "nasc": "1990-03-02",
+            "sexo": "M",
+            "nomeMae": "IVETE DE SOUZA OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL PEDROSA CARVALHO DE OLIVEIRA",
+            "cpf": "02677396130",
+            "nasc": "1987-08-11",
+            "sexo": "M",
+            "nomeMae": "LYCIA PEDROSA CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "37477695864",
+            "nasc": "1989-05-16",
+            "sexo": "M",
+            "nomeMae": "TEREZINHA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "36324679861",
+            "nasc": "1992-08-28",
+            "sexo": "M",
+            "nomeMae": "SUELI LOPES DOS SANTOS CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "36375498830",
+            "nasc": "1987-02-17",
+            "sexo": "M",
+            "nomeMae": "ANA GOMES DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA DIAS",
+            "cpf": "36331020861",
+            "nasc": "1997-04-20",
+            "sexo": "M",
+            "nomeMae": "ALEANDRA BELINA CARVALHO ALVES DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "36448051805",
+            "nasc": "1987-04-03",
+            "sexo": "M",
+            "nomeMae": "ELIANA C DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "37959234841",
+            "nasc": "1989-11-27",
+            "sexo": "M",
+            "nomeMae": "DEISE ANTUNES DE CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "MAYARA RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "38473756878",
+            "nasc": "1998-12-02",
+            "sexo": "F",
+            "nomeMae": "VANUSA RAFAEL DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "37124347823",
+            "nasc": "1986-02-23",
+            "sexo": "M",
+            "nomeMae": "ROSALINA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "38448542827",
+            "nasc": "1994-08-09",
+            "sexo": "M",
+            "nomeMae": "MARIA DOS ANJOS ELIAS DE CARVALHO"
+        },
+        {
+            "nome": "PEDRO RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "38724628816",
+            "nasc": "1990-06-29",
+            "sexo": "M",
+            "nomeMae": "MARGARETE DE LOURDES CARNEIRO CARVALHO"
+        },
+        {
+            "nome": "LENON RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "37774582878",
+            "nasc": "1989-12-03",
+            "sexo": "M",
+            "nomeMae": "CLAUDIA SIMONE DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "37775652888",
+            "nasc": "1990-11-20",
+            "sexo": "M",
+            "nomeMae": "MARIA ANA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA SOUSA",
+            "cpf": "37733626846",
+            "nasc": "1989-08-22",
+            "sexo": "M",
+            "nomeMae": "ELIEUSA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "14361122733",
+            "nasc": "1990-10-29",
+            "sexo": "M",
+            "nomeMae": "MARIA DOS ANJOS DA SILVA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "41610967801",
+            "nasc": "1997-01-11",
+            "sexo": "M",
+            "nomeMae": "LUCI HELENA CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA SILVA",
+            "cpf": "41525128817",
+            "nasc": "1994-05-25",
+            "sexo": "M",
+            "nomeMae": "VALDAIRA DA SILVA OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "41461466822",
+            "nasc": "1993-01-29",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "41720280800",
+            "nasc": "1993-06-17",
+            "sexo": "M",
+            "nomeMae": "VALDIRENE SANTOS OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "41491504862",
+            "nasc": "1991-02-08",
+            "sexo": "M",
+            "nomeMae": "MARIA JOSE CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "ROBISON RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "00327429240",
+            "nasc": "1990-08-23",
+            "sexo": "M",
+            "nomeMae": "ROSANGELA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "41669489892",
+            "nasc": "1992-12-31",
+            "sexo": "M",
+            "nomeMae": "SANDRA DA SILVA CARVALHO"
+        },
+        {
+            "nome": "EDUARDO RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "14479725709",
+            "nasc": "1992-03-16",
+            "sexo": "M",
+            "nomeMae": "MARIA CONCEICAO CARVALHO DE MELO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "41754880819",
+            "nasc": "1993-11-15",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "05214511329",
+            "nasc": "1990-02-20",
+            "sexo": "M",
+            "nomeMae": "MARIA DA CONCEICAO CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "02575941083",
+            "nasc": "1991-05-12",
+            "sexo": "M",
+            "nomeMae": "JACQUELINE LEITE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "00460938266",
+            "nasc": "1992-01-02",
+            "sexo": "M",
+            "nomeMae": "FRANCINETE DAMIAO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "01366138295",
+            "nasc": "1992-09-26",
+            "sexo": "M",
+            "nomeMae": "ROZALIA MARIA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "14793975712",
+            "nasc": "1993-01-07",
+            "sexo": "M",
+            "nomeMae": "NELI DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "01535357258",
+            "nasc": "1991-01-20",
+            "sexo": "M",
+            "nomeMae": "AURORA GAMA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "11617458660",
+            "nasc": "1996-02-29",
+            "sexo": "M",
+            "nomeMae": "DILENE LUCIA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "01662319401",
+            "nasc": "1996-03-02",
+            "sexo": "M",
+            "nomeMae": "MARIA LECI OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "JOAO RAFAEL DE OLIVEIRA CARVALHO COSTA",
+            "cpf": "09152592499",
+            "nasc": "1999-05-16",
+            "sexo": "M",
+            "nomeMae": "EVA EUGENIA DE OLIVEIRA CARVALHO COSTA"
+        },
+        {
+            "nome": "RAFAEL ALBERTO DE CARVALHO OLIVEIRA",
+            "cpf": "04239959527",
+            "nasc": "2003-10-10",
+            "sexo": "M",
+            "nomeMae": "ISABEL DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "60412870320",
+            "nasc": "1997-06-20",
+            "sexo": "M",
+            "nomeMae": "NILMA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "11367678609",
+            "nasc": "1994-08-28",
+            "sexo": "M",
+            "nomeMae": "VALDIRENE APARECIDA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "60439755301",
+            "nasc": "1992-09-17",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "11796550604",
+            "nasc": "1990-06-24",
+            "sexo": "M",
+            "nomeMae": "CLAUDIA ALVES DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "05865358537",
+            "nasc": "1990-10-14",
+            "sexo": "M",
+            "nomeMae": "ELZA OLIVEIRA DECARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "05891281597",
+            "nasc": "1994-03-25",
+            "sexo": "M",
+            "nomeMae": "RITA DE CASSIA DA SILVA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "05877124579",
+            "nasc": "1993-05-31",
+            "sexo": "M",
+            "nomeMae": "MARIA HILDA SANTOS DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL ANTONIO DE OLIVEIRA CARVALHO",
+            "cpf": "11536757659",
+            "nasc": "1993-11-01",
+            "sexo": "M",
+            "nomeMae": "MARIA MADALENA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "04670676350",
+            "nasc": "1991-11-07",
+            "sexo": "M",
+            "nomeMae": "ANTONIA DE OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "05809221548",
+            "nasc": "1994-03-03",
+            "sexo": "M",
+            "nomeMae": "FERNANDA SANTOS DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "04809982300",
+            "nasc": "1991-08-03",
+            "sexo": "M",
+            "nomeMae": "NIEDJA MARIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "DOUGLAS RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "09607259467",
+            "nasc": "1993-03-05",
+            "sexo": "M",
+            "nomeMae": "ANA MARA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "IGOR RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "05432279363",
+            "nasc": "1992-05-25",
+            "sexo": "M",
+            "nomeMae": "LUCIANA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL HENRIQUE DE OLIVEIRA CARVALHO",
+            "cpf": "04822230147",
+            "nasc": "1990-03-04",
+            "sexo": "M",
+            "nomeMae": "CASSIA APARECIDA DIAS DE OLIVEIRA"
+        },
+        {
+            "nome": "JOAO RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "10354489470",
+            "nasc": "2009-05-16",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "04520855195",
+            "nasc": "1997-05-22",
+            "sexo": "M",
+            "nomeMae": "SILVANA DE OLIVEIRA ARRES"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "14623381781",
+            "nasc": "1993-11-03",
+            "sexo": "M",
+            "nomeMae": "ELIANA SANTOS OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL AUGUSTO CARVALHO DE OLIVEIRA",
+            "cpf": "02852507013",
+            "nasc": "1991-09-13",
+            "sexo": "M",
+            "nomeMae": "JOSEMERE CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "03992423174",
+            "nasc": "1994-12-07",
+            "sexo": "M",
+            "nomeMae": "ERINEIDE MARIA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "05623866379",
+            "nasc": "1992-08-18",
+            "sexo": "M",
+            "nomeMae": "MARIA ELIZABETE DA SILVA OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "08669110903",
+            "nasc": "1991-03-07",
+            "sexo": "M",
+            "nomeMae": "EDNA SERAFIM DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "MAICON RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "02864419009",
+            "nasc": "1992-09-13",
+            "sexo": "M",
+            "nomeMae": "ROSA ADRIANA PINTO OLIVEIRA"
+        },
+        {
+            "nome": "PEDRO RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "03542792110",
+            "nasc": "1994-03-10",
+            "sexo": "M",
+            "nomeMae": "MARIA DA CONCEICAO DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "09082292912",
+            "nasc": "1995-06-22",
+            "sexo": "M",
+            "nomeMae": "SOLANGE APARECIDA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "04893227190",
+            "nasc": "1992-03-10",
+            "sexo": "M",
+            "nomeMae": "FATIMA CARVALHO"
+        },
+        {
+            "nome": "FRANCISCO RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "05673923333",
+            "nasc": "1991-08-30",
+            "sexo": "M",
+            "nomeMae": "ANTONIA OZENEIDE DE OLIVEIRA VIEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "06043438500",
+            "nasc": "1994-08-06",
+            "sexo": "M",
+            "nomeMae": "MARIA DAS GRACAS DE CARVALHO SALOMAO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "42453027808",
+            "nasc": "1996-12-30",
+            "sexo": "M",
+            "nomeMae": "LUCIANA NEVES DE C OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "04932158165",
+            "nasc": "1992-02-24",
+            "sexo": "M",
+            "nomeMae": "CENIR CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL MACHADO DE CARVALHO OLIVEIRA",
+            "cpf": "06094138562",
+            "nasc": "1994-01-23",
+            "sexo": "M",
+            "nomeMae": "FLAVIA MARGARETE MACHADO DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO CASTRO DE OLIVEIRA",
+            "cpf": "03285853000",
+            "nasc": "1993-11-05",
+            "sexo": "M",
+            "nomeMae": "CLECI CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "06063177590",
+            "nasc": "1994-01-26",
+            "sexo": "M",
+            "nomeMae": "MARLENE ALVES DE OLIVEIRA"
+        },
+        {
+            "nome": "MURILO RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "01746404477",
+            "nasc": "2005-07-23",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "01940800218",
+            "nasc": "1993-01-16",
+            "sexo": "M",
+            "nomeMae": "RUTH HELENA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "01757892400",
+            "nasc": "1998-05-24",
+            "sexo": "M",
+            "nomeMae": "ELIZABETE CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "02036277250",
+            "nasc": "1992-10-03",
+            "sexo": "M",
+            "nomeMae": "SIRLEI CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO COIMBRA DE OLIVEIRA",
+            "cpf": "12338013689",
+            "nasc": "2010-03-24",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "12359077678",
+            "nasc": "1992-09-11",
+            "sexo": "M",
+            "nomeMae": "ANA MARIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO MACHADO DE OLIVEIRA",
+            "cpf": "43049574810",
+            "nasc": "1992-01-03",
+            "sexo": "M",
+            "nomeMae": "MARIA ELENA DE CARVALHO MACHADO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "43090603829",
+            "nasc": "1993-07-20",
+            "sexo": "M",
+            "nomeMae": "MARIA EDILEUZA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO DE OLIVEIRA",
+            "cpf": "06264960551",
+            "nasc": "2008-04-29",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "DOUGLAS RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "60634902300",
+            "nasc": "2000-06-28",
+            "sexo": "M",
+            "nomeMae": "DANIELY VERAS DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "43219800890",
+            "nasc": "1995-10-05",
+            "sexo": "M",
+            "nomeMae": "MARIA ANUNCIADA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "10824962435",
+            "nasc": "1992-10-08",
+            "sexo": "M",
+            "nomeMae": "ROSILENE ANTONIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "BRUNO RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "05999246326",
+            "nasc": "1993-04-28",
+            "sexo": "M",
+            "nomeMae": "MARIA DA CONCEICAO BARROSO DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "43296753826",
+            "nasc": "2009-09-11",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA DE CARVALHO",
+            "cpf": "09510456950",
+            "nasc": "2009-10-09",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "CARLOS RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "06039055367",
+            "nasc": "1993-05-14",
+            "sexo": "M",
+            "nomeMae": "LUZIA DE MARIA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "15684764770",
+            "nasc": "1994-02-28",
+            "sexo": "M",
+            "nomeMae": "LUCIANA P C"
+        },
+        {
+            "nome": "RAFAEL DOS SANTOS DE OLIVEIRA CARVALHO",
+            "cpf": "09553285945",
+            "nasc": "1995-09-12",
+            "sexo": "M",
+            "nomeMae": "SINARIA MARCIA DOS SANTOS CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "43433547840",
+            "nasc": "1996-02-01",
+            "sexo": "M",
+            "nomeMae": "ROSEMERA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "15708595744",
+            "nasc": "2005-07-07",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA MACEDO",
+            "cpf": "12583482688",
+            "nasc": "2002-11-11",
+            "sexo": "M",
+            "nomeMae": "BENIGNA CARVALHO DE MACEDO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "43614284840",
+            "nasc": "2009-05-09",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA PORTO CARVALHO",
+            "cpf": "43701871841",
+            "nasc": "1997-08-27",
+            "sexo": "M",
+            "nomeMae": "MARIA REGINA DE OLIVEIRA PORTO CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO MILAGRE VIANA",
+            "cpf": "12703706693",
+            "nasc": "2007-03-20",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "LUCAS RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "06520284548",
+            "nasc": "1994-07-08",
+            "sexo": "M",
+            "nomeMae": "LUCIA MIRANDA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "15943242716",
+            "nasc": "1997-08-25",
+            "sexo": "M",
+            "nomeMae": "CLAUDIA VIEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO CLEMENTE OLIVEIRA",
+            "cpf": "12811607684",
+            "nasc": "1996-07-24",
+            "sexo": "M",
+            "nomeMae": "MARILENE DE CARVALHO CLEMENTE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "09991663606",
+            "nasc": "1991-08-21",
+            "sexo": "M",
+            "nomeMae": "OLIMPIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO SANTOS",
+            "cpf": "15975644780",
+            "nasc": "2003-03-17",
+            "sexo": "M",
+            "nomeMae": "DENIEUSA OLIVEIRA DE CARVALHO SANTOS"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO ROSA",
+            "cpf": "16012306725",
+            "nasc": "2004-02-14",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "44182292804",
+            "nasc": "1995-07-22",
+            "sexo": "M",
+            "nomeMae": "FRANCIMEIRE ALVES DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "REGINALDO RAFAEL CARVALHO CAMILO DE OLIVEIRA",
+            "cpf": "44231996881",
+            "nasc": "1993-03-18",
+            "sexo": "M",
+            "nomeMae": "ERCILIA CARVALHO DE SOUZA"
+        },
+        {
+            "nome": "RAFAEL FLORES DE OLIVEIRA CARVALHO",
+            "cpf": "16058494729",
+            "nasc": "2004-09-17",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "03660629057",
+            "nasc": "1995-02-04",
+            "sexo": "M",
+            "nomeMae": "MERE T DA S CARVALHO"
+        },
+        {
+            "nome": "RAFAEL LUIZ PEREIRA DE CARVALHO OLIVEIRA",
+            "cpf": "12979565679",
+            "nasc": "2001-09-19",
+            "sexo": "M",
+            "nomeMae": "TIZA COELI PEREIRA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "06675497570",
+            "nasc": "2010-08-20",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ONIDAN RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "02644844282",
+            "nasc": "1997-02-09",
+            "sexo": "M",
+            "nomeMae": "KELIANE DE MELO CARVALHO"
+        },
+        {
+            "nome": "RAFAEL ANDRADE DE OLIVEIRA E SOUZA CARVALHO",
+            "cpf": "44385878838",
+            "nasc": "1999-07-22",
+            "sexo": "M",
+            "nomeMae": "ADRIANA BETTI DE OLIVEIRA E SOUZA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "05552548108",
+            "nasc": "2003-03-19",
+            "sexo": "M",
+            "nomeMae": "RAQUEL GOMES DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "12994724600",
+            "nasc": "2001-10-16",
+            "sexo": "M",
+            "nomeMae": "GIOVANA CRISTINA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "43229995813",
+            "nasc": "2005-09-13",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "06410915322",
+            "nasc": "2000-10-28",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA HELENA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "FRANCISCO RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "05753070302",
+            "nasc": "1994-04-11",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA LUCIA FEIRE DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "02680249283",
+            "nasc": "1993-08-21",
+            "sexo": "M",
+            "nomeMae": "MARIA COSMA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DIAS OLIVEIRA DE CARVALHO",
+            "cpf": "05571798157",
+            "nasc": "2011-04-08",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL JOSE DE OLIVEIRA CARVALHO",
+            "cpf": "11325574457",
+            "nasc": "1994-04-13",
+            "sexo": "M",
+            "nomeMae": "VALDECIRA JOSE DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "70199659117",
+            "nasc": "1994-04-13",
+            "sexo": "M",
+            "nomeMae": "SILVYA MARIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "06794460521",
+            "nasc": "1994-10-09",
+            "sexo": "M",
+            "nomeMae": "GERUZA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "06796026586",
+            "nasc": "1996-08-12",
+            "sexo": "M",
+            "nomeMae": "MARIZETE DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "44780368880",
+            "nasc": "1994-10-21",
+            "sexo": "M",
+            "nomeMae": "GENI DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "13157465651",
+            "nasc": "1995-12-28",
+            "sexo": "M",
+            "nomeMae": "VALDIR CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL ALVES CARVALHO DE OLIVEIRA",
+            "cpf": "85973605507",
+            "nasc": "1995-05-17",
+            "sexo": "M",
+            "nomeMae": "MARIA DA CONCEICAO CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "11451668490",
+            "nasc": "1993-09-01",
+            "sexo": "M",
+            "nomeMae": "GISLAINE ADRIANA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "THIAGO RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "44911095830",
+            "nasc": "2001-08-02",
+            "sexo": "M",
+            "nomeMae": "MARIA NADIA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "11470902460",
+            "nasc": "2011-12-05",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL PINHEIRO DE OLIVEIRA CARVALHO",
+            "cpf": "02883196214",
+            "nasc": "2011-11-07",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "45154340809",
+            "nasc": "2012-02-14",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "THIAGO RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "13358038661",
+            "nasc": "2002-07-06",
+            "sexo": "M",
+            "nomeMae": "MARINALVA SONIA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "05828029118",
+            "nasc": "1998-04-14",
+            "sexo": "M",
+            "nomeMae": "APARECIDA CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "45407813831",
+            "nasc": "2012-02-20",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL RODRIGUES DE OLIVEIRA CARVALHO",
+            "cpf": "13431357610",
+            "nasc": "1997-09-29",
+            "sexo": "M",
+            "nomeMae": "ANDREIA MARIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL GUSTAVO DE OLIVEIRA CARVALHO JUNIOR",
+            "cpf": "16715588716",
+            "nasc": "1997-11-27",
+            "sexo": "M",
+            "nomeMae": "BIANCA ROCHA DO NASCIMENTO"
+        },
+        {
+            "nome": "HEMERSON RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "11731819463",
+            "nasc": "1996-12-09",
+            "sexo": "M",
+            "nomeMae": "MABEL PEREIRA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DOUGLAS DE CARVALHO OLIVEIRA",
+            "cpf": "13466327660",
+            "nasc": "1995-08-16",
+            "sexo": "M",
+            "nomeMae": "ROSANGELA APARECIDA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL AMORIM CARVALHO DE OLIVEIRA",
+            "cpf": "45529339816",
+            "nasc": "1993-03-31",
+            "sexo": "M",
+            "nomeMae": "ZULEIDE LEITAO DE CARVALHO"
+        },
+        {
+            "nome": "JOAO RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "16783130762",
+            "nasc": "2008-04-30",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "16913154780",
+            "nasc": "1996-03-28",
+            "sexo": "M",
+            "nomeMae": "FLAVIANA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO GUIMARAES DE OLIVEIRA",
+            "cpf": "46214965819",
+            "nasc": "2009-12-17",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL VICENTE DE OLIVEIRA CARVALHO",
+            "cpf": "17162781713",
+            "nasc": "1997-01-12",
+            "sexo": "M",
+            "nomeMae": "ELIETE DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL RODRIGUES DE OLIVEIRA CARVALHO",
+            "cpf": "86124118580",
+            "nasc": "1994-10-03",
+            "sexo": "M",
+            "nomeMae": "VILMA RODRIGUES DA SILVA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "46762873804",
+            "nasc": "2011-06-06",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "17060795758",
+            "nasc": "1993-08-12",
+            "sexo": "M",
+            "nomeMae": "ROZINEIDE MONTEIRO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "03574324286",
+            "nasc": "1993-09-27",
+            "sexo": "M",
+            "nomeMae": "MARIA CREUZA BISCARIA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL HENRIQUE OLIVEIRA DE CARVALHO",
+            "cpf": "07439551532",
+            "nasc": "1997-08-08",
+            "sexo": "M",
+            "nomeMae": "VANGELINA DE ARAUJO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "46927482814",
+            "nasc": "1998-09-03",
+            "sexo": "M",
+            "nomeMae": "MARISA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "46986005881",
+            "nasc": "1997-08-22",
+            "sexo": "M",
+            "nomeMae": "VERA LUCIA TEIXEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "70442216106",
+            "nasc": "2007-12-24",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "MARCOS RAFAEL STEPHAN CARVALHO DE OLIVEIRA",
+            "cpf": "13951406690",
+            "nasc": "2013-05-21",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "LUIS RAFAEL DE CARVALHO OLIVEIRA DOS SANTOS",
+            "cpf": "07241152344",
+            "nasc": "1996-09-22",
+            "sexo": "M",
+            "nomeMae": "MARIA DA CONCEICAO DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL HENRIQUE AVELINO OLIVEIRA DE CARVALHO",
+            "cpf": "13557820661",
+            "nasc": "2001-09-08",
+            "sexo": "M",
+            "nomeMae": "DEBORA AVELINO OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "46456316839",
+            "nasc": "1997-12-27",
+            "sexo": "M",
+            "nomeMae": "ANDREIA DE FATIMA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "16657395760",
+            "nasc": "2011-02-28",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "44487986826",
+            "nasc": "1998-09-30",
+            "sexo": "M",
+            "nomeMae": "ADRIANA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO BARBOZA",
+            "cpf": "47147276809",
+            "nasc": "2009-10-19",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "LUCAS RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "07284410396",
+            "nasc": "2009-06-19",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "47342122874",
+            "nasc": "1995-07-22",
+            "sexo": "M",
+            "nomeMae": "MARIA DA GLORIA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "47407370869",
+            "nasc": "2004-01-10",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "06520733105",
+            "nasc": "2006-01-07",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "06550136105",
+            "nasc": "1996-01-03",
+            "sexo": "M",
+            "nomeMae": "EUGENIA MARIA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "LUCAS RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "23669011862",
+            "nasc": "1987-05-25",
+            "sexo": "M",
+            "nomeMae": "ANA ROSA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "07803921590",
+            "nasc": "1997-08-28",
+            "sexo": "M",
+            "nomeMae": "CLAUDIA VIRGINIA OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "07781205545",
+            "nasc": "1997-04-11",
+            "sexo": "M",
+            "nomeMae": "MARY DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA BRITO DE CARVALHO",
+            "cpf": "02239828650",
+            "nasc": "1997-12-22",
+            "sexo": "M",
+            "nomeMae": "LEANIA SOUSA OLIVEIRA BRITO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "07706238598",
+            "nasc": "2007-03-18",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "14159857663",
+            "nasc": "2005-05-31",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "61738044335",
+            "nasc": "2005-02-24",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO CARDOSO DE OLIVEIRA",
+            "cpf": "02291392646",
+            "nasc": "2004-01-27",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "47865176821",
+            "nasc": "1998-06-29",
+            "sexo": "M",
+            "nomeMae": "LAZARA ANTONIA CARVALHO"
+        },
+        {
+            "nome": "NYCOLAS RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "07651417364",
+            "nasc": "2012-03-20",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "11180042999",
+            "nasc": "2002-04-26",
+            "sexo": "M",
+            "nomeMae": "GISELIA APARECIDA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA FERREIRA DE CARVALHO",
+            "cpf": "12684531455",
+            "nasc": "1999-08-30",
+            "sexo": "M",
+            "nomeMae": "ALCINEIDE DE OLIVEIRA FERREIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO JOAO",
+            "cpf": "48538621882",
+            "nasc": "1998-11-11",
+            "sexo": "M",
+            "nomeMae": "VIVIANE MARINA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "07899992508",
+            "nasc": "1998-05-03",
+            "sexo": "M",
+            "nomeMae": "MARCIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "48542755880",
+            "nasc": "1998-04-14",
+            "sexo": "M",
+            "nomeMae": "DERLIVANIA DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL HENRIQUE CARVALHO DE OLIVEIRA",
+            "cpf": "02321429631",
+            "nasc": "2005-03-28",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE SOUZA CARVALHO OLIVEIRA",
+            "cpf": "48589480801",
+            "nasc": "2004-09-16",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "02333912669",
+            "nasc": "1995-07-01",
+            "sexo": "M",
+            "nomeMae": "SONIA BRAZ DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "11361682906",
+            "nasc": "2000-10-04",
+            "sexo": "M",
+            "nomeMae": "ROSELI DE FATIMA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "02347254600",
+            "nasc": "2005-04-29",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "18037152782",
+            "nasc": "2010-05-22",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA LIMA DE CARVALHO",
+            "cpf": "48824937802",
+            "nasc": "2014-07-24",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "12891358430",
+            "nasc": "2009-06-11",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "CAIO RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "08224687511",
+            "nasc": "2007-12-28",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "18245705705",
+            "nasc": "1999-01-09",
+            "sexo": "M",
+            "nomeMae": "VANESSA TEODORO DE CARVALHO OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "49213699840",
+            "nasc": "2014-11-28",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "18373587705",
+            "nasc": "1997-07-02",
+            "sexo": "M",
+            "nomeMae": "OLGA PAIVA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "49426698809",
+            "nasc": "2004-04-23",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "18356490766",
+            "nasc": "2005-12-11",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA DA SILVA",
+            "cpf": "49193426836",
+            "nasc": "2011-03-28",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO DA SILVA OLIVEIRA",
+            "cpf": "62070438392",
+            "nasc": "2014-03-28",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "08347359547",
+            "nasc": "1997-10-21",
+            "sexo": "M",
+            "nomeMae": "GILZELIA RIBEIRO DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "07255296106",
+            "nasc": "2002-08-12",
+            "sexo": "M",
+            "nomeMae": "MARIA APARECIDA DE CARVALHO SANTOS"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "70110136608",
+            "nasc": "2003-04-10",
+            "sexo": "M",
+            "nomeMae": "JOSIANE OLIVEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO DE OLIVEIRA",
+            "cpf": "04946215085",
+            "nasc": "2000-05-05",
+            "sexo": "M",
+            "nomeMae": "NUBIA REGINA SAGAZ DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "50048510858",
+            "nasc": "1999-04-07",
+            "sexo": "M",
+            "nomeMae": "ANTONIA FRANCISCA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "07636898152",
+            "nasc": "2011-12-29",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "07726078189",
+            "nasc": "2006-12-02",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL VIANA CARVALHO MORETO DE OLIVEIRA",
+            "cpf": "07828657129",
+            "nasc": "2016-05-14",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "BRYAN RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "19332030723",
+            "nasc": "2016-06-05",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "50971706875",
+            "nasc": "2016-03-03",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL AUGUSTO OLIVEIRA DE CARVALHO",
+            "cpf": "12474173951",
+            "nasc": "2014-12-06",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL MOREIRA DE CARVALHO MARQUES DE OLIVEIRA",
+            "cpf": "15670192699",
+            "nasc": "2016-06-01",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "18984656739",
+            "nasc": "1998-03-30",
+            "sexo": "M",
+            "nomeMae": "RITA DE CASSIA BENEDITA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "86561988582",
+            "nasc": "1996-01-24",
+            "sexo": "M",
+            "nomeMae": "ARLETE VIEIRA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "60011875097",
+            "nasc": "1999-03-16",
+            "sexo": "M",
+            "nomeMae": "VALDEREZ DE OLIVEIRA"
+        },
+        {
+            "nome": "LUCAS RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "13615133498",
+            "nasc": "2015-12-26",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "50612398811",
+            "nasc": "2014-03-20",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "04987545292",
+            "nasc": "2008-01-06",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "PEDRO RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "18736895784",
+            "nasc": "2012-10-05",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA GASPAR",
+            "cpf": "05007126209",
+            "nasc": "2014-08-11",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL MARCO DE OLIVEIRA CARVALHO",
+            "cpf": "70250992604",
+            "nasc": "2008-07-16",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "LUAN RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "50488267870",
+            "nasc": "2006-05-20",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "07369294102",
+            "nasc": "2011-12-11",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "08683382141",
+            "nasc": "2002-07-10",
+            "sexo": "M",
+            "nomeMae": "REGIANE DE OLIVEIRA NUNES"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "70596164203",
+            "nasc": "2001-05-15",
+            "sexo": "M",
+            "nomeMae": "MARIA CARVALHO DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL SOUZA OLIVEIRA DE CARVALHO",
+            "cpf": "05302602040",
+            "nasc": "2017-01-02",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "05435383030",
+            "nasc": "2012-12-18",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "08389882108",
+            "nasc": "1998-01-22",
+            "sexo": "M",
+            "nomeMae": "SANDRA RAMONA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL IAGO CARVALHO DE OLIVEIRA",
+            "cpf": "15013038642",
+            "nasc": "2008-01-29",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "51818374846",
+            "nasc": "2004-01-12",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "53871720895",
+            "nasc": "2001-09-26",
+            "sexo": "M",
+            "nomeMae": "FABIA DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "50191030805",
+            "nasc": "1997-08-05",
+            "sexo": "M",
+            "nomeMae": "NADJA MARIA DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL JACKSON OLIVEIRA DE CARVALHO",
+            "cpf": "06246535283",
+            "nasc": "1994-06-01",
+            "sexo": "M",
+            "nomeMae": "ROSA TOMAZ DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA LUNA DE CARVALHO",
+            "cpf": "20025655701",
+            "nasc": "1999-07-11",
+            "sexo": "M",
+            "nomeMae": "ANA PAULA OLIVEIRA DA SILVA"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA SILVA",
+            "cpf": "86683595500",
+            "nasc": "2014-05-07",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "71247504158",
+            "nasc": "2004-02-27",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "52596131803",
+            "nasc": "2004-08-10",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO PIRES DE OLIVEIRA",
+            "cpf": "20558461751",
+            "nasc": "2002-04-06",
+            "sexo": "M",
+            "nomeMae": "IVONE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "09156721544",
+            "nasc": "2005-11-17",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "52769188801",
+            "nasc": "2005-12-06",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL HENRIQUE DE CARVALHO OLIVEIRA",
+            "cpf": "16018545608",
+            "nasc": "2004-04-03",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL JOSE OLIVEIRA DE CARVALHO",
+            "cpf": "14632079480",
+            "nasc": "2006-03-17",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL VALENCA CARVALHO DE OLIVEIRA",
+            "cpf": "52326781830",
+            "nasc": "2006-01-21",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA ZANELLA",
+            "cpf": "52860368809",
+            "nasc": "2006-03-26",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "50349124817",
+            "nasc": "2004-09-10",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "56511822842",
+            "nasc": "2009-11-25",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "50616310803",
+            "nasc": "2001-03-04",
+            "sexo": "M",
+            "nomeMae": "MARIA CUSTODIO CARVALHO"
+        },
+        {
+            "nome": "OTAVIO RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "10495303305",
+            "nasc": "2005-06-04",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "05975899257",
+            "nasc": "2002-10-31",
+            "sexo": "M",
+            "nomeMae": "RAQUEL ALVES DE OLIVEIRA"
+        },
+        {
+            "nome": "RAFAEL HENRIK DA SILVA CARVALHO DE OLIVEIRA",
+            "cpf": "53864942870",
+            "nasc": "2003-01-05",
+            "sexo": "M",
+            "nomeMae": "ADRIANA INACIO DA SILVA"
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "08575682300",
+            "nasc": "2008-02-08",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "20483218790",
+            "nasc": "2001-09-16",
+            "sexo": "M",
+            "nomeMae": "DEDJANE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "09654067331",
+            "nasc": "2008-06-08",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "THIAGO RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "50290638895",
+            "nasc": "2007-03-18",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA DE CARVALHO",
+            "cpf": "50916356884",
+            "nasc": "2016-01-25",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL DE OLIVEIRA CARVALHO",
+            "cpf": "62410291341",
+            "nasc": "1999-01-10",
+            "sexo": "M",
+            "nomeMae": "ANTONIA PEREIRA DE OLIVEIRA CARVALHO"
+        },
+        {
+            "nome": "RAFAEL DE CARVALHO OLIVEIRA",
+            "cpf": "10608292583",
+            "nasc": "2005-03-18",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "16292425606",
+            "nasc": "2017-04-29",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAEL OLIVEIRA SOARES DE CARVALHO",
+            "cpf": "05533921079",
+            "nasc": "2003-05-13",
+            "sexo": "M",
+            "nomeMae": "CHARLENE OLIVEIRA SOARES DE CARVALHO"
+        },
+        {
+            "nome": "RAFAEL CARVALHO DE OLIVEIRA",
+            "cpf": "54276847869",
+            "nasc": "2018-01-31",
+            "sexo": "M",
+            "nomeMae": ""
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "success": false,
+    "query": "DEMORA MUNIZ DE ASSIS",
+    "query_date": "2025-07-20T06:08:01.670Z",
+    "query_id": "ebb4855d-7a22-4648-a6aa-b77c499dccb6",
+    "error": {
+        "message": "Nome não encontrado."
+    }
+}

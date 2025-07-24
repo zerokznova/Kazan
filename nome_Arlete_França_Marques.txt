@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "query": "ARLETE FRANCA MARQUES",
+    "query_date": "2025-07-23T15:51:31.789Z",
+    "query_id": "a50806cc-8dbe-4482-a5ee-2360e4092d41",
+    "data": [
+        {
+            "nome": "ARLETE FRANCA MARQUES",
+            "cpf": "36315923534",
+            "nasc": "1967-02-02",
+            "sexo": "F",
+            "nomeMae": "ELZA DOS SANTOS"
+        }
+    ]
+}

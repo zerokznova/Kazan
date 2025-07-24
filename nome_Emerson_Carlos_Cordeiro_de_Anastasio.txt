@@ -1,0 +1,9 @@
+{
+    "success": false,
+    "query": "EMERSON CARLOS CORDEIRO DE ANASTASIO",
+    "query_date": "2025-07-23T17:47:38.770Z",
+    "query_id": "50e229ec-4e22-46f3-b385-56021d011488",
+    "error": {
+        "message": "Nome não encontrado."
+    }
+}

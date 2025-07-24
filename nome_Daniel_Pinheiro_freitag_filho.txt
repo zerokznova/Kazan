@@ -1,0 +1,9 @@
+{
+    "success": false,
+    "query": "DANIEL PINHEIRO FREITAG FILHO",
+    "query_date": "2025-07-23T19:49:34.247Z",
+    "query_id": "a739d07d-165f-408a-b001-6e1ca9bb540c",
+    "error": {
+        "message": "Nome não encontrado."
+    }
+}

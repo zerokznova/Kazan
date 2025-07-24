@@ -1,0 +1,57 @@
+{
+    "success": true,
+    "query": "qoi9c30",
+    "query_date": "2025-07-22T13:41:04.368Z",
+    "query_id": "575cf697-e223-449d-b1f4-407b36698433",
+    "data": {
+        "placaNacional": "QOI9230",
+        "placaMercosul": "QOI9C30",
+        "chassi": "9BFZH54J2J8175648",
+        "renavam": "1153185412",
+        "motor": "U2KAJ8175648",
+        "restricoes": [],
+        "circulacao": {
+            "situacaoVeiculo": "EM CIRCULAÇÃO",
+            "situacaoChassi": "BAIXADO"
+        },
+        "caracteristicas": {
+            "marcaModelo": "FORD/KA SE 1.5 SD B",
+            "corVeiculo": "PRATA",
+            "especieVeiculo": "PASSAGEIRO",
+            "anoModelo": "2018",
+            "anoFabricacao": "2018",
+            "tipoVeiculo": "AUTOMOVEL",
+            "combustivel": "ALCOOL / GASOLINA",
+            "potencia": "110 KM/H",
+            "cilindradas": "1498",
+            "capacidMaxTracao": "146",
+            "capacidPassageiros": "5",
+            "capacidCarga": "",
+            "caixaCambio": "",
+            "pesoBruto": "146 KG",
+            "eixosSuspensao": {
+                "eixos": "2",
+                "eixoTraseiro": "",
+                "terceiroEixo": ""
+            }
+        },
+        "carroceria": {
+            "numeroCarroceria": "",
+            "tipoCarroceria": "NAO APLICAVEL"
+        },
+        "proprietario": {
+            "nome": "MARIA DAS DORES XIMENES",
+            "cpfCnpj": "72646527349",
+            "endereco": {
+                "logradouro": "R ARISTIDES JOFRE",
+                "numero": "40",
+                "bairro": "CASA VERDE ALTA",
+                "cidade": "SAO PAULO",
+                "siglaUf": "SP",
+                "cep": "02565040",
+                "complemento": ""
+            }
+        },
+        "radares": []
+    }
+}

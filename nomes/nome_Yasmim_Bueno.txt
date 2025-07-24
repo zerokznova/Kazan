@@ -1,0 +1,1478 @@
+{
+    "success": true,
+    "query": "YASMIM BUENO",
+    "query_date": "2025-07-19T21:58:41.908Z",
+    "query_id": "6a164188-2496-4a51-9646-fadb8c536cc6",
+    "data": [
+        {
+            "nome": "HEVELLYN YASMIM BUENO DELGADO",
+            "cpf": "02245438140",
+            "nasc": "2001-03-08",
+            "sexo": "F",
+            "nomeMae": "JUCELIA BUENO DELGADO"
+        },
+        {
+            "nome": "BARBARA YASMIM ROCHA BUENO",
+            "cpf": "02674094192",
+            "nasc": "2000-10-14",
+            "sexo": "F",
+            "nomeMae": "MARIA ADELAIDE ROCHA"
+        },
+        {
+            "nome": "YASMIM BUENO DOS SANTOS CARDOSO",
+            "cpf": "39127031837",
+            "nasc": "1991-03-23",
+            "sexo": "F",
+            "nomeMae": "SONIA MARTINS BUENO DOS SANTOS"
+        },
+        {
+            "nome": "YASMIM LUARA DA SILVA BUENO",
+            "cpf": "10531568636",
+            "nasc": "2007-03-04",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "ISABELLE YASMIM BUENO",
+            "cpf": "37099062883",
+            "nasc": "2003-06-28",
+            "sexo": "F",
+            "nomeMae": "GISELE APARECIDA ZANCHETTA"
+        },
+        {
+            "nome": "YASMIM LINS DE ARAUJO BUENO",
+            "cpf": "41877506818",
+            "nasc": "2007-05-04",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM NOGUEIRA BUENO",
+            "cpf": "41558412824",
+            "nasc": "2006-03-20",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DA SILVA",
+            "cpf": "41641556803",
+            "nasc": "1992-10-26",
+            "sexo": "F",
+            "nomeMae": "ANGELA MARIA BUENO DA SILVA"
+        },
+        {
+            "nome": "YASMIM BUENO GOULART DE ANDRADE",
+            "cpf": "42093121859",
+            "nasc": "1995-09-12",
+            "sexo": "F",
+            "nomeMae": "GABRIELE BUENO GOULART DE ANDRADE"
+        },
+        {
+            "nome": "YASMIM PAGANI DE MORAES BUENO",
+            "cpf": "08646908941",
+            "nasc": "1995-04-18",
+            "sexo": "F",
+            "nomeMae": "LUIZA MARIA PAGANI BUENO"
+        },
+        {
+            "nome": "YASMIM CASIMIRO DO NASCIMENTO BUENO",
+            "cpf": "42336028808",
+            "nasc": "1997-07-21",
+            "sexo": "F",
+            "nomeMae": "LUCENIRA DO NASCIMENTO SA"
+        },
+        {
+            "nome": "YASMIM BUENO LOPES",
+            "cpf": "11993477608",
+            "nasc": "2005-11-14",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM LEITE DA SILVA BUENO",
+            "cpf": "42815849860",
+            "nasc": "2001-11-08",
+            "sexo": "F",
+            "nomeMae": "ROSA MARIA LEITE DA SILVA"
+        },
+        {
+            "nome": "YASMIM CHRISTINE BUENO MONTEIRO",
+            "cpf": "43116259879",
+            "nasc": "1994-05-19",
+            "sexo": "F",
+            "nomeMae": "EDILENE CRISTINA BUENO MONTEIRO"
+        },
+        {
+            "nome": "YASMIM BUENO DE LIMA",
+            "cpf": "12478852675",
+            "nasc": "2009-10-02",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM NEVES BUENO",
+            "cpf": "02336160200",
+            "nasc": "2002-10-08",
+            "sexo": "F",
+            "nomeMae": "ROSIANE NEVES VIEGAS"
+        },
+        {
+            "nome": "YASMIM BOM BUENO DE SOUZA",
+            "cpf": "43876616824",
+            "nasc": "2001-05-18",
+            "sexo": "F",
+            "nomeMae": "DANIELLE BOM BUENO DE SOUZA"
+        },
+        {
+            "nome": "YASMIM MACEDO BUENO DE CARVALHO",
+            "cpf": "44393908899",
+            "nasc": "2000-04-13",
+            "sexo": "F",
+            "nomeMae": "RENATA TOMAZ MACEDO"
+        },
+        {
+            "nome": "DAYANA YASMIM BUENO DE SOUZA",
+            "cpf": "10074366971",
+            "nasc": "2011-01-03",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DA SILVA BUENO",
+            "cpf": "44895811816",
+            "nasc": "2005-06-24",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM FERREIRA BUENO",
+            "cpf": "45064977832",
+            "nasc": "2007-02-23",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO MARQUEZANI",
+            "cpf": "45141947866",
+            "nasc": "2006-04-13",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "LIDIA YASMIM BUENO NERY",
+            "cpf": "44507229812",
+            "nasc": "1995-07-29",
+            "sexo": "F",
+            "nomeMae": "LUCI BUENO DE AZEVEDO"
+        },
+        {
+            "nome": "YASMIM BUENO CANDIDO",
+            "cpf": "45412044875",
+            "nasc": "2011-12-07",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DA SILVA BUENO",
+            "cpf": "13517493660",
+            "nasc": "2009-12-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM MOURA BUENO NOGARI",
+            "cpf": "10404371922",
+            "nasc": "2012-07-05",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO DE OLIVEIRA",
+            "cpf": "45855183807",
+            "nasc": "2008-11-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DA SILVA BUENO",
+            "cpf": "06041112151",
+            "nasc": "2009-02-13",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE CAMARGO",
+            "cpf": "10525799907",
+            "nasc": "2005-08-27",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SANTIAGO BUENO GUEDES",
+            "cpf": "10539752959",
+            "nasc": "2001-02-06",
+            "sexo": "F",
+            "nomeMae": "TATIANA SANTIAGO BUENO DE PAULA GUEDES"
+        },
+        {
+            "nome": "YASMIM TOME BUENO",
+            "cpf": "10549755900",
+            "nasc": "2002-02-10",
+            "sexo": "F",
+            "nomeMae": "ROSANGELA RODRIGUES TOME"
+        },
+        {
+            "nome": "YASMIM BUENO DA SILVA",
+            "cpf": "46142257805",
+            "nasc": "2012-05-23",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM LARISSA BUENO DOS SANTOS",
+            "cpf": "46244455894",
+            "nasc": "1997-09-24",
+            "sexo": "F",
+            "nomeMae": "JOSEFA BUENO"
+        },
+        {
+            "nome": "YASMIM BUENO DE ANDRADE DA SILVA",
+            "cpf": "06094876121",
+            "nasc": "2001-10-01",
+            "sexo": "F",
+            "nomeMae": "CARLA CRISTIANE DE ANDRADE"
+        },
+        {
+            "nome": "BEATRIZ YASMIM LUPPI BUENO",
+            "cpf": "46603286866",
+            "nasc": "2013-01-19",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DA NOBREGA BUENO SOUZA",
+            "cpf": "46896237830",
+            "nasc": "2000-11-02",
+            "sexo": "F",
+            "nomeMae": "MARIA APARECIDA DA NOBREGA SOUZA"
+        },
+        {
+            "nome": "YASMIM BUENO DA SILVA",
+            "cpf": "46942712884",
+            "nasc": "2013-05-02",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "KETLYN YASMIM BUENO DE OLIVEIRA",
+            "cpf": "45768594809",
+            "nasc": "2003-08-12",
+            "sexo": "F",
+            "nomeMae": "KELY CRISTINA PAES"
+        },
+        {
+            "nome": "YASMIM DE SOUZA PASSONI BUENO",
+            "cpf": "47072408878",
+            "nasc": "2005-01-05",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAFAELA YASMIM DE OLIVEIRA BUENO",
+            "cpf": "10895921910",
+            "nasc": "2005-11-04",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA GONCALVES BUENO",
+            "cpf": "10997572906",
+            "nasc": "2004-01-19",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE OLIVEIRA",
+            "cpf": "47323158877",
+            "nasc": "2010-12-01",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO ONO",
+            "cpf": "47541576808",
+            "nasc": "2001-03-19",
+            "sexo": "F",
+            "nomeMae": "KARINA LEITE BUENO ONO"
+        },
+        {
+            "nome": "YASMIM GABRIELA FABIANO BUENO",
+            "cpf": "47222673830",
+            "nasc": "1996-07-09",
+            "sexo": "F",
+            "nomeMae": "MARIA ELENA FABIANO"
+        },
+        {
+            "nome": "YASMIM BEATRIZ DE SOUZA BUENO",
+            "cpf": "14200476630",
+            "nasc": "2008-02-15",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO SIMOES",
+            "cpf": "17736809780",
+            "nasc": "2005-11-19",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA FRANCISCA BUENO",
+            "cpf": "14234675660",
+            "nasc": "2011-04-06",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM MAZANTI BUENO",
+            "cpf": "04402875021",
+            "nasc": "2014-01-14",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE LIMA",
+            "cpf": "48000501899",
+            "nasc": "2013-08-27",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM FRANCA BUENO",
+            "cpf": "04030866204",
+            "nasc": "2001-07-09",
+            "sexo": "F",
+            "nomeMae": "ERIKA MARIA ALVES DE FRANCA"
+        },
+        {
+            "nome": "YASMIM BUENO DE MORAIS",
+            "cpf": "48232655801",
+            "nasc": "2007-08-01",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM FASOLO BUENO",
+            "cpf": "11278905901",
+            "nasc": "2012-05-04",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CAROLINE BUENO DE LIMA",
+            "cpf": "06864923150",
+            "nasc": "2004-04-16",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM APARECIDA DE OLIVEIRA BUENO",
+            "cpf": "14430610690",
+            "nasc": "2004-02-09",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO HERTH",
+            "cpf": "48486137870",
+            "nasc": "2013-11-29",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DA SILVA BUENO METTA",
+            "cpf": "48560365800",
+            "nasc": "2007-02-01",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CHRISTINI LOPES BUENO",
+            "cpf": "48497811879",
+            "nasc": "2010-09-28",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM MARTINS BUENO",
+            "cpf": "48599806890",
+            "nasc": "2014-05-23",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO DOS SANTOS",
+            "cpf": "11387917927",
+            "nasc": "2014-03-21",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM WAGNER BUENO",
+            "cpf": "04589583011",
+            "nasc": "2009-05-31",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM COSTA BUENO TELLES",
+            "cpf": "07004589137",
+            "nasc": "2005-04-23",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DE MOURA BUENO",
+            "cpf": "04600224078",
+            "nasc": "2008-03-20",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CRISTINE BUENO CAMILLO",
+            "cpf": "11491373989",
+            "nasc": "2003-05-17",
+            "sexo": "F",
+            "nomeMae": "GISELE BUENO CAMILLO"
+        },
+        {
+            "nome": "YASMIM CHRISTINE BUENO DA SILVA",
+            "cpf": "14627986670",
+            "nasc": "2009-12-17",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "KHETLYN YASMIM ILENA BUENO CABELEIRA",
+            "cpf": "04665584060",
+            "nasc": "2014-05-01",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO BRIZOLLA",
+            "cpf": "11753936900",
+            "nasc": "2011-01-16",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO OLIVEIRA",
+            "cpf": "18262611764",
+            "nasc": "2014-10-07",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA APOLINARIO BUENO",
+            "cpf": "04575554243",
+            "nasc": "2014-12-19",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CRISTINA DE ASSIS BUENO",
+            "cpf": "11866464973",
+            "nasc": "2008-09-21",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO DA ROCHA",
+            "cpf": "49287972800",
+            "nasc": "2006-07-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "KELI YASMIM DOS SANTOS BUENO",
+            "cpf": "11790573920",
+            "nasc": "2003-07-05",
+            "sexo": "F",
+            "nomeMae": "LAURENTINA DOS SANTOS"
+        },
+        {
+            "nome": "YASMIM ALVES BUENO REIS",
+            "cpf": "70698259190",
+            "nasc": "2002-01-05",
+            "sexo": "F",
+            "nomeMae": "SEVERINA ALVES DA SILVA BUENO"
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO RAMM",
+            "cpf": "49458478863",
+            "nasc": "2010-04-04",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CRISTINA DE SANTANA BUENO DE SOUZA",
+            "cpf": "07265531159",
+            "nasc": "2005-07-15",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "VIVIANE YASMIM BUENO",
+            "cpf": "04770502044",
+            "nasc": "2011-02-10",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CARDOSO BUENO",
+            "cpf": "07650770192",
+            "nasc": "2015-10-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM PASTURINO BUENO",
+            "cpf": "12371839957",
+            "nasc": "2009-06-02",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM GABRIELA SOARES DOS SANTOS BUENO",
+            "cpf": "05108189001",
+            "nasc": "2016-04-14",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM MAIA BUENO",
+            "cpf": "05104820076",
+            "nasc": "2016-04-02",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM NOGUEIRA BUENO",
+            "cpf": "12597492907",
+            "nasc": "2008-12-12",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM APARECIDA BENICIO BUENO",
+            "cpf": "15029013660",
+            "nasc": "2011-03-04",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM AMARAL BUENO",
+            "cpf": "18931444702",
+            "nasc": "2015-06-29",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO TRINDADE",
+            "cpf": "60047148012",
+            "nasc": "2014-03-09",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SILVA BUENO",
+            "cpf": "50088219895",
+            "nasc": "2012-10-09",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO DE SOUSA",
+            "cpf": "50667993894",
+            "nasc": "2015-10-03",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM MARIA BUENO",
+            "cpf": "15889982664",
+            "nasc": "2010-05-03",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DUNKER BUENO BRIZOLA",
+            "cpf": "05261682002",
+            "nasc": "2014-01-27",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DA SILVA BUENO",
+            "cpf": "49805586820",
+            "nasc": "2001-05-14",
+            "sexo": "F",
+            "nomeMae": "DANIELLA BARBOSA DA SILVA SUNIGA"
+        },
+        {
+            "nome": "YASMIM BUENO CARRERA",
+            "cpf": "52799574882",
+            "nasc": "2002-09-03",
+            "sexo": "F",
+            "nomeMae": "GIULIANNI BUENO CARRERA"
+        },
+        {
+            "nome": "YASMIM BUENO DOS SANTOS",
+            "cpf": "05599627039",
+            "nasc": "2015-07-29",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM FERNANDA RODRIGUES BUENO",
+            "cpf": "51920806814",
+            "nasc": "2005-08-18",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DE OLIVEIRA BUENO BIDIN",
+            "cpf": "09334205520",
+            "nasc": "2005-11-03",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VALEO BUENO",
+            "cpf": "51809773806",
+            "nasc": "2006-06-18",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM ALVES BUENO",
+            "cpf": "05816176226",
+            "nasc": "2004-09-27",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DE SOUZA BUENO",
+            "cpf": "51618436830",
+            "nasc": "2004-05-09",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SUELI BUENO MONTEIRO",
+            "cpf": "50709337876",
+            "nasc": "2007-02-19",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SENA BUENO DOS SANTOS",
+            "cpf": "08753139577",
+            "nasc": "2001-09-11",
+            "sexo": "F",
+            "nomeMae": "VANIA SENA DOS SANTOS"
+        },
+        {
+            "nome": "YASMIM KELLY PRATES BUENO",
+            "cpf": "53007141869",
+            "nasc": "2004-12-30",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM MARIA BUENO DA SILVA",
+            "cpf": "15230560614",
+            "nasc": "2007-07-19",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO REIS",
+            "cpf": "15118519616",
+            "nasc": "2015-05-22",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM RODRIGUES BUENO MOREIRA",
+            "cpf": "15164224658",
+            "nasc": "2003-06-25",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "SAFIRA YASMIM BUENO DE CARVALHO",
+            "cpf": "07919384176",
+            "nasc": "2002-02-05",
+            "sexo": "F",
+            "nomeMae": "RUTH REJANE BUENO"
+        },
+        {
+            "nome": "YASMIM GABRIELLI BUENO GEIB",
+            "cpf": "10902892517",
+            "nasc": "2006-01-20",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CRISTINA LIMA BUENO",
+            "cpf": "09056124188",
+            "nasc": "2003-07-01",
+            "sexo": "F",
+            "nomeMae": "ROSA DE JESUS LIMA CARDOSO"
+        },
+        {
+            "nome": "YASMIM BUENO AMARAL",
+            "cpf": "13849776948",
+            "nasc": "2007-04-08",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "LETICIA YASMIM LUPPI BUENO",
+            "cpf": "56237048839",
+            "nasc": "2018-12-10",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE OLIVEIRA",
+            "cpf": "13968457986",
+            "nasc": "2008-02-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE SOUZA",
+            "cpf": "70320421635",
+            "nasc": "2008-04-01",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO RIBEIRO",
+            "cpf": "51685340822",
+            "nasc": "2012-09-14",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DE ABREU BUENO SILVA",
+            "cpf": "51235211860",
+            "nasc": "2000-11-14",
+            "sexo": "F",
+            "nomeMae": "LEANDRA APARECIDA DE ABREU BUENO DA SILVA"
+        },
+        {
+            "nome": "YASMIM VITORIA DA SILVA BUENO",
+            "cpf": "55126257803",
+            "nasc": "2008-03-08",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO ROSA",
+            "cpf": "14397268924",
+            "nasc": "2005-02-07",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE FRANCA",
+            "cpf": "51801314802",
+            "nasc": "2002-01-11",
+            "sexo": "F",
+            "nomeMae": "VIVIANE BUENO DOS SANTOS"
+        },
+        {
+            "nome": "YASMIM VIEIRA DIAS BUENO",
+            "cpf": "55221908840",
+            "nasc": "2004-05-05",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "PEROLLA YASMIM BUENO DOURADO",
+            "cpf": "08427091184",
+            "nasc": "2015-11-10",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM EMANUELLI BUENO DE CENE",
+            "cpf": "12954885904",
+            "nasc": "2011-10-04",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM LETICIA DOS SANTOS BUENO",
+            "cpf": "13570515907",
+            "nasc": "2010-04-01",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CORREIA BUENO",
+            "cpf": "49982667807",
+            "nasc": "2009-10-10",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM MENDES GARCEZ BUENO",
+            "cpf": "71108313108",
+            "nasc": "2001-08-26",
+            "sexo": "F",
+            "nomeMae": "EVACI SILVA MENDES"
+        },
+        {
+            "nome": "YASMIM DA SILVA BUENO",
+            "cpf": "08045677198",
+            "nasc": "2016-10-15",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SOPHIA BUENO ARAUJO",
+            "cpf": "62718913304",
+            "nasc": "2016-10-09",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO SIMAO DE OLIVEIRA",
+            "cpf": "50469435810",
+            "nasc": "2008-05-04",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BARBOSA BUENO",
+            "cpf": "50824164806",
+            "nasc": "2014-09-03",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SANTIAGO BUENO",
+            "cpf": "50820972886",
+            "nasc": "2008-12-10",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM GABRIELLE DA SILVA BUENO",
+            "cpf": "51332646824",
+            "nasc": "2015-12-27",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM FERNANDA DE CARVALHO BUENO",
+            "cpf": "50066921899",
+            "nasc": "2008-11-08",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM KAROLYNE BUENO DE OLIVEIRA",
+            "cpf": "52796823814",
+            "nasc": "2008-05-21",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE CAMARGO PIOVESAN GURRES",
+            "cpf": "53336392802",
+            "nasc": "2010-09-15",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO DA SILVA",
+            "cpf": "52755071869",
+            "nasc": "2011-09-18",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA NOVELLI BUENO",
+            "cpf": "52671438800",
+            "nasc": "2014-07-05",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE OLIVEIRA",
+            "cpf": "51627658807",
+            "nasc": "2016-08-08",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO",
+            "cpf": "52515855865",
+            "nasc": "2017-02-24",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BARROSO BUENO JORGE CALDEIRA",
+            "cpf": "51734116862",
+            "nasc": "2016-09-10",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM HADASSA BUENO TALARIDO",
+            "cpf": "13148895916",
+            "nasc": "2017-02-15",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA DE SOUZA BUENO",
+            "cpf": "12871248958",
+            "nasc": "2010-04-05",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO DE OLIVEIRA",
+            "cpf": "13253923916",
+            "nasc": "2017-03-12",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM EDUARDA VIEIRA BUENO",
+            "cpf": "13250077909",
+            "nasc": "2017-03-30",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "KETLEM YASMIM BUENO DA SILVA",
+            "cpf": "15919051680",
+            "nasc": "2011-02-23",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM IZIQUIEL BUENO DE ABREU",
+            "cpf": "15800968675",
+            "nasc": "2008-11-20",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM MARIA BUENO FEDRIGO",
+            "cpf": "12761306945",
+            "nasc": "2010-05-07",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA MOREIRA BUENO",
+            "cpf": "17158072606",
+            "nasc": "2018-06-27",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM FERRARI BUENO",
+            "cpf": "07279326242",
+            "nasc": "2018-05-24",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM FERNANDES BUENO",
+            "cpf": "54398996850",
+            "nasc": "2010-05-09",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA DA SILVA BUENO",
+            "cpf": "54979569803",
+            "nasc": "2018-04-20",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BENTO BUENO DA SILVA",
+            "cpf": "56940989862",
+            "nasc": "2014-05-02",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM EDUARDA DE OLIVEIRA BUENO",
+            "cpf": "56923052831",
+            "nasc": "2013-09-25",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM NUNES BUENO",
+            "cpf": "56223559828",
+            "nasc": "2018-12-02",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO DA SILVA",
+            "cpf": "56489515822",
+            "nasc": "2011-01-18",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE SOUZA",
+            "cpf": "56693148832",
+            "nasc": "2013-02-14",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DAS DORES",
+            "cpf": "56735160886",
+            "nasc": "2011-11-13",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO GONCALVES",
+            "cpf": "56516859876",
+            "nasc": "2019-01-29",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DE OLIVEIRA BUENO",
+            "cpf": "56576639856",
+            "nasc": "2013-10-09",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO MOURA DOS SANTOS",
+            "cpf": "56262415823",
+            "nasc": "2010-06-29",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM TRAINOTTI BUENO",
+            "cpf": "57471963832",
+            "nasc": "2004-08-23",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DOS SANTOS BUENO",
+            "cpf": "24145770889",
+            "nasc": "2013-08-28",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SORAGGI BUENO",
+            "cpf": "24373108862",
+            "nasc": "2014-04-18",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CRUZ BUENO",
+            "cpf": "53886257886",
+            "nasc": "2014-05-08",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VIEIRA BUENO DE LIMA",
+            "cpf": "53729402803",
+            "nasc": "2013-07-28",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM GABRIELLE RIBEIRO BUENO",
+            "cpf": "55034931842",
+            "nasc": "2013-12-12",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE SOUSA",
+            "cpf": "55178887808",
+            "nasc": "2009-12-19",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DE GODOY BUENO SOUSA",
+            "cpf": "55174438855",
+            "nasc": "2012-08-16",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DA SILVA",
+            "cpf": "55566574831",
+            "nasc": "2009-09-26",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DE ARAUJO SILVA",
+            "cpf": "55615959894",
+            "nasc": "2012-06-03",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DOS SANTOS",
+            "cpf": "55640212829",
+            "nasc": "2009-09-21",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO BARBOSA",
+            "cpf": "57003824825",
+            "nasc": "2013-06-06",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM GABRIELLY DE SOUZA BUENO",
+            "cpf": "57009378835",
+            "nasc": "2019-04-17",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DE FREITAS BUENO",
+            "cpf": "09960915131",
+            "nasc": "2011-10-21",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CAROLINE BUENO BARBOSA",
+            "cpf": "57723006870",
+            "nasc": "2008-06-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM GABRIELLE BUENO DA CONCEICAO",
+            "cpf": "57638253817",
+            "nasc": "2010-01-19",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "DAYANA YASMIM BUENO DE SOUZA",
+            "cpf": "57306663810",
+            "nasc": "2011-01-03",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "RAYSSA YASMIM BUENO SOUZA",
+            "cpf": "57372724864",
+            "nasc": "2005-02-14",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO BEZERRA",
+            "cpf": "57963484857",
+            "nasc": "2012-04-30",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VICTORIA BUENO DE OLIVEIRA",
+            "cpf": "58077574831",
+            "nasc": "2009-04-19",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO DE MORAIS",
+            "cpf": "58132177894",
+            "nasc": "2015-07-02",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM FERNANDA BUENO DE ANDRADE",
+            "cpf": "58001507882",
+            "nasc": "2014-11-20",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM MARCHESIN BUENO",
+            "cpf": "57866083878",
+            "nasc": "2009-05-24",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SOUSA BUENO DOS SANTOS",
+            "cpf": "58288669824",
+            "nasc": "2004-04-07",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM TAYANE DA SILVA BUENO",
+            "cpf": "58314168874",
+            "nasc": "2009-05-29",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM RODRIGUES BUENO",
+            "cpf": "58367656857",
+            "nasc": "2013-04-18",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO MIRANDA DA SILVA",
+            "cpf": "58463301851",
+            "nasc": "2007-05-02",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM EMANUELLY BUENO DE SOUZA",
+            "cpf": "58629216808",
+            "nasc": "2020-06-22",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM GABRIELLY BUENO COELHO",
+            "cpf": "70375238280",
+            "nasc": "2003-08-06",
+            "sexo": "F",
+            "nomeMae": "JESSICA FERNANDA BUENO PESSOA"
+        },
+        {
+            "nome": "YASMIM DA SILVA BUENO",
+            "cpf": "06125529002",
+            "nasc": "2004-10-03",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SUYANE LIMA BUENO",
+            "cpf": "07984515212",
+            "nasc": "2012-07-12",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA DOS SANTOS BUENO",
+            "cpf": "58761617806",
+            "nasc": "2020-07-29",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO",
+            "cpf": "17286838660",
+            "nasc": "2014-11-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO DA SILVA",
+            "cpf": "17568116603",
+            "nasc": "2008-10-16",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM RIBEIRO BUENO SILVA",
+            "cpf": "10037821164",
+            "nasc": "2017-12-13",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DA SILVA",
+            "cpf": "10048528196",
+            "nasc": "2015-05-18",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM LEMES BUENO MAGALHAES",
+            "cpf": "09369992170",
+            "nasc": "2006-10-30",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM CORREA BUENO DA SILVA",
+            "cpf": "10555715159",
+            "nasc": "2010-12-09",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO DOS SANTOS",
+            "cpf": "10545810108",
+            "nasc": "2020-01-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM REBECA BUENO LOPES",
+            "cpf": "10856256137",
+            "nasc": "2020-08-17",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SILVA BUENO",
+            "cpf": "09145373183",
+            "nasc": "2009-01-02",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "LUNNA YASMIM RIBEIRO BUENO",
+            "cpf": "09255961160",
+            "nasc": "2018-04-10",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA BUENO MIRANDA",
+            "cpf": "09245571173",
+            "nasc": "2018-02-11",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO SILVA ARAUJO",
+            "cpf": "71190688140",
+            "nasc": "2013-03-16",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM MARTINS BUENO",
+            "cpf": "71320123120",
+            "nasc": "2017-01-16",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM GABRIELLY COUTINHO BUENO",
+            "cpf": "71451551177",
+            "nasc": "2010-06-18",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM SOARES DA SILVA BUENO",
+            "cpf": "71606782142",
+            "nasc": "2010-10-20",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM VITORIA LEMOS BUENO",
+            "cpf": "63347328388",
+            "nasc": "2014-10-01",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "LUARA YASMIM BUENO DA CRUZ",
+            "cpf": "59036775841",
+            "nasc": "2020-12-24",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "INGRID YASMIM LIMA BUENO",
+            "cpf": "14301380922",
+            "nasc": "2018-06-16",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM EMANUELY CARDOSO BUENO",
+            "cpf": "14666512969",
+            "nasc": "2013-10-08",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DOS SANTOS BUENO",
+            "cpf": "14886085989",
+            "nasc": "2015-07-21",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM APARECIDA FIGUEIRA BUENO",
+            "cpf": "14981600933",
+            "nasc": "2015-07-31",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM DE FATIMA BUENO KUCHAN",
+            "cpf": "14955085954",
+            "nasc": "2016-01-30",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM GABRIELLY BUENO PATKOSKI",
+            "cpf": "14995615989",
+            "nasc": "2019-05-06",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM BUENO CARVALHO",
+            "cpf": "20313183732",
+            "nasc": "2004-05-10",
+            "sexo": "F",
+            "nomeMae": ""
+        },
+        {
+            "nome": "YASMIM KAROLINE BUENO DA SILVA",
+            "cpf": "06707073095",
+            "nasc": "2005-11-07",
+            "sexo": "F",
+            "nomeMae": ""
+        }
+    ]
+}

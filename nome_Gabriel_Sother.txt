@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "query": "GABRIEL SOTHER",
+    "query_date": "2025-07-24T02:41:59.212Z",
+    "query_id": "45f33ec8-4d60-4364-a885-5973b4bc52da",
+    "data": [
+        {
+            "nome": "GABRIEL SOTHER MIRANDA",
+            "cpf": "02753688150",
+            "nasc": "1996-09-02",
+            "sexo": "M",
+            "nomeMae": "MARCELA BARATA SOTHER"
+        },
+        {
+            "nome": "GABRIEL KENIGSBERG WERNECK SOTHER",
+            "cpf": "16572708748",
+            "nasc": "2011-02-15",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "GABRIEL SOTHER FIGUEREDO",
+            "cpf": "06406662725",
+            "nasc": "2004-12-01",
+            "sexo": "M",
+            "nomeMae": ""
+        }
+    ]
+}

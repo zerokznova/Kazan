@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "query": "EDUARDO RICARDO DA SILVA SA",
+    "query_date": "2025-07-23T18:47:04.110Z",
+    "query_id": "b16360c7-45a9-4592-aa1d-cd9fc1ea3e7e",
+    "data": [
+        {
+            "nome": "EDUARDO RICARDO DA SILVA SA",
+            "cpf": "03457353310",
+            "nasc": "2004-08-13",
+            "sexo": "M",
+            "nomeMae": ""
+        }
+    ]
+}

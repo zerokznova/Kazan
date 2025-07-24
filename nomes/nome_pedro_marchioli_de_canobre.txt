@@ -1,0 +1,9 @@
+{
+    "success": false,
+    "query": "PEDRO MARCHIOLI DE CANOBRE",
+    "query_date": "2025-07-21T04:35:02.475Z",
+    "query_id": "df6095f6-185d-40c0-acd9-653591d5900c",
+    "error": {
+        "message": "Nome não encontrado."
+    }
+}

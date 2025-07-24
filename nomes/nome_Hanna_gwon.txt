@@ -1,0 +1,9 @@
+{
+    "success": false,
+    "query": "HANNA GWON",
+    "query_date": "2025-07-21T00:52:49.457Z",
+    "query_id": "b864a91a-ba85-41f0-9b84-ed34ac4be41d",
+    "error": {
+        "message": "Nome não encontrado."
+    }
+}

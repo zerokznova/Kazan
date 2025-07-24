@@ -1,0 +1,358 @@
+{
+    "success": true,
+    "query": "REGINALDO JOSE DE BRITO",
+    "query_date": "2025-07-23T16:15:14.365Z",
+    "query_id": "5894dcb0-6583-48a0-8bf5-3fbf065c3f86",
+    "data": [
+        {
+            "nome": "JOSE REGINALDO BRITO DE JESUS",
+            "cpf": "74104489549",
+            "nasc": "1972-12-28",
+            "sexo": "M",
+            "nomeMae": "JOELINA FRANCISCA DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO NAZARIO DE BRITO",
+            "cpf": "02535276437",
+            "nasc": "1965-04-07",
+            "sexo": "M",
+            "nomeMae": "CECILIA MARIA DA CONCEICAO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "46159487434",
+            "nasc": "1966-06-15",
+            "sexo": "M",
+            "nomeMae": "MARIA DOS PRAZERES DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO",
+            "cpf": "04573432817",
+            "nasc": "1961-01-03",
+            "sexo": "M",
+            "nomeMae": "PALMIRA VALENTIN DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO",
+            "cpf": "27792208800",
+            "nasc": "1979-01-22",
+            "sexo": "M",
+            "nomeMae": "DEOLINA AGUIAR DE BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "00934957819",
+            "nasc": "1960-01-18",
+            "sexo": "M",
+            "nomeMae": "LAIR PORTELLA DE BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "39272320330",
+            "nasc": "1969-06-19",
+            "sexo": "M",
+            "nomeMae": "MARIA FRANCISCA DA SILVA"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO",
+            "cpf": "07531677865",
+            "nasc": "1963-02-18",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA OLIVEIRA DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO PEREIRA",
+            "cpf": "57557551320",
+            "nasc": "1971-03-14",
+            "sexo": "M",
+            "nomeMae": "SATURNINA CANDIDO DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO MELO",
+            "cpf": "34314520353",
+            "nasc": "1967-01-28",
+            "sexo": "M",
+            "nomeMae": "IRACY DE BRITO MELO"
+        },
+        {
+            "nome": "JOSE REGINALDO MACHADO DE BRITO",
+            "cpf": "25934422553",
+            "nasc": "1964-03-12",
+            "sexo": "M",
+            "nomeMae": "IONISSE OLIVEIRA DE BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "13808150530",
+            "nasc": "1957-12-14",
+            "sexo": "M",
+            "nomeMae": "AUREA DE JESUS BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE OLIVEIRA BRITO",
+            "cpf": "22924221315",
+            "nasc": "1964-11-05",
+            "sexo": "M",
+            "nomeMae": "MARIA DO CARMO OLIVEIRA BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO VIEIRA DE BRITO",
+            "cpf": "27665569315",
+            "nasc": "1965-11-29",
+            "sexo": "M",
+            "nomeMae": "MARIA HELENA VIEIRA DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO NUNES DE BRITO",
+            "cpf": "66825903420",
+            "nasc": "1968-11-24",
+            "sexo": "M",
+            "nomeMae": "MARIA DO SOCORRO NUNES DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO VIEIRA DE BRITO",
+            "cpf": "28443661801",
+            "nasc": "1965-11-29",
+            "sexo": "M",
+            "nomeMae": "MARIA HELENA VIEIRA DE BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "96292199991",
+            "nasc": "1972-12-11",
+            "sexo": "M",
+            "nomeMae": "IGNES TAINER DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO DE ARAUJO BRITO",
+            "cpf": "21396019391",
+            "nasc": "1954-10-12",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "06301351851",
+            "nasc": "1964-09-20",
+            "sexo": "M",
+            "nomeMae": "VICENCIA MARIA TENORIO DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO FRANCA",
+            "cpf": "81968582487",
+            "nasc": "1969-11-10",
+            "sexo": "M",
+            "nomeMae": "MARIA BARBOSA DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO",
+            "cpf": "07269843880",
+            "nasc": "1966-09-22",
+            "sexo": "M",
+            "nomeMae": "ELVIRA GOMES BARBOSA"
+        },
+        {
+            "nome": "JOSE REGINALDO CAMPOS DE BRITO",
+            "cpf": "02401581480",
+            "nasc": "1976-07-29",
+            "sexo": "M",
+            "nomeMae": "SUELY CAMPOS DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO GONCALVES DE BRITO",
+            "cpf": "73429686687",
+            "nasc": "1966-10-18",
+            "sexo": "M",
+            "nomeMae": "HERODIAS GONCALVES DE BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "44155956420",
+            "nasc": "1965-02-16",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA MARIA DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO CIPRIANO DE BRITO",
+            "cpf": "58299718791",
+            "nasc": "1959-08-30",
+            "sexo": "M",
+            "nomeMae": "CLARINDA MARIA DA CONCEICAO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "28596938826",
+            "nasc": "1973-06-10",
+            "sexo": "M",
+            "nomeMae": "NEIDE CARDOSO DE FARIA"
+        },
+        {
+            "nome": "JOSE REGINALDO BRITO DE ASSIS",
+            "cpf": "39751880220",
+            "nasc": "1972-10-21",
+            "sexo": "M",
+            "nomeMae": "MARIA LIVRAMENTO BRITO ASSIS"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "04759673997",
+            "nasc": "1983-02-20",
+            "sexo": "M",
+            "nomeMae": "MARIA LEONEL DA SILVA"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO",
+            "cpf": "13711818889",
+            "nasc": "1970-06-16",
+            "sexo": "M",
+            "nomeMae": "LAURA RODRIGUES DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO NOGUEIRA DE BRITO",
+            "cpf": "31604072504",
+            "nasc": "1963-05-05",
+            "sexo": "M",
+            "nomeMae": "BERNARDINA DA SILVA BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "49989812420",
+            "nasc": "1967-05-09",
+            "sexo": "M",
+            "nomeMae": "MARIA DE LOURDES DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO DE OLIVEIRA BRITO",
+            "cpf": "17124339898",
+            "nasc": "1973-04-03",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "JOSE REGINALDO FARIAS DE BRITO",
+            "cpf": "36116114253",
+            "nasc": "1957-09-08",
+            "sexo": "M",
+            "nomeMae": "ANTONIA G DE BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE OLIVEIRA BRITO FILHO",
+            "cpf": "02075851131",
+            "nasc": "1997-02-15",
+            "sexo": "M",
+            "nomeMae": "MARINEIDE DA SILVA DIAS"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO",
+            "cpf": "29080663867",
+            "nasc": "1969-01-05",
+            "sexo": "M",
+            "nomeMae": "CONSTANCIA OLIVEIRA DE BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "19203470468",
+            "nasc": "1958-01-01",
+            "sexo": "M",
+            "nomeMae": "MARIA BEZERRA DE BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "21426674813",
+            "nasc": "1978-05-07",
+            "sexo": "M",
+            "nomeMae": "MARIA CLEMENCIA DA SILVA"
+        },
+        {
+            "nome": "JOSE REGINALDO ALVES DE BRITO",
+            "cpf": "01618358308",
+            "nasc": "1986-08-04",
+            "sexo": "M",
+            "nomeMae": "RAIMUNDA RODRIGUES DE BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "01634121627",
+            "nasc": "1988-03-25",
+            "sexo": "M",
+            "nomeMae": "LENI MARIA ALVARENGA DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO PEREIRA DE BRITO",
+            "cpf": "02706660368",
+            "nasc": "1942-01-04",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "JOSE REGINALDO MONTEIRO DE BRITO",
+            "cpf": "26331101420",
+            "nasc": "1954-06-01",
+            "sexo": "M",
+            "nomeMae": "ISABEL MARIA MONTEIRO DE BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO FERREIRA DE BRITO",
+            "cpf": "00098580752",
+            "nasc": "1957-03-02",
+            "sexo": "M",
+            "nomeMae": ""
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO LIMA",
+            "cpf": "00225195305",
+            "nasc": "1978-04-12",
+            "sexo": "M",
+            "nomeMae": "FRANCISCA BENICIO DE BRITO LIMA"
+        },
+        {
+            "nome": "JOSE REGINALDO PEREIRA DE BRITO",
+            "cpf": "02242435353",
+            "nasc": "1942-01-04",
+            "sexo": "M",
+            "nomeMae": "MARIA TORGUATA PEREIRA BRITO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO",
+            "cpf": "00640399355",
+            "nasc": "1974-03-27",
+            "sexo": "M",
+            "nomeMae": "FRANCISA APOLONIA DE JESUS"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO",
+            "cpf": "38083566420",
+            "nasc": "1956-12-18",
+            "sexo": "M",
+            "nomeMae": "MARIA JOSEFA DA CONCEICAO"
+        },
+        {
+            "nome": "REGINALDO JOSE DE BRITO JUNIOR",
+            "cpf": "08225542401",
+            "nasc": "1987-09-18",
+            "sexo": "M",
+            "nomeMae": "MARLUCIA SERAFIM DE SOUZA BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO JUNIOR",
+            "cpf": "37350042884",
+            "nasc": "1995-10-07",
+            "sexo": "M",
+            "nomeMae": "IVANIR SOUZA SANTOS"
+        },
+        {
+            "nome": "JOSE REGINALDO DE BRITO ARAUJO",
+            "cpf": "09309404400",
+            "nasc": "1990-01-01",
+            "sexo": "M",
+            "nomeMae": "MARIA ZELIA DA SILVA BRITO"
+        },
+        {
+            "nome": "JOSE REGINALDO DE SOUSA BRITO",
+            "cpf": "07550466335",
+            "nasc": "1998-08-08",
+            "sexo": "M",
+            "nomeMae": "LEIDIANA PAULINA DA CONCEICAO"
+        }
+    ]
+}

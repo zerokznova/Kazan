@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "query": "KAUANY RESNER",
+    "query_date": "2025-07-23T17:54:11.592Z",
+    "query_id": "a555f14f-24ef-450f-8c0e-87fc8620284c",
+    "data": [
+        {
+            "nome": "KAUANY CRISTINI RESNER MEIRELES DA SILVA",
+            "cpf": "11672223938",
+            "nasc": "2007-08-30",
+            "sexo": "F",
+            "nomeMae": ""
+        }
+    ]
+}

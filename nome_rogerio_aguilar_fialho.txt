@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "query": "ROGERIO AGUILAR FIALHO",
+    "query_date": "2025-07-23T18:36:44.326Z",
+    "query_id": "5609ab17-9932-4f41-9afb-49b037ffd6c6",
+    "data": [
+        {
+            "nome": "ROGERIO AGUILAR FIALHO",
+            "cpf": "03365652914",
+            "nasc": "1981-07-21",
+            "sexo": "M",
+            "nomeMae": "IZILDA APARECIDA AGUILAR FIALHO"
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "success": true,
+    "query": "02377056059",
+    "query_date": "2025-07-22T18:54:54.378Z",
+    "query_id": "06ec2fc4-b50c-4747-b2c3-2b89ccb05e7d",
+    "data": {
+        "dadosBasicos": {
+            "cnsDef": "706801285304825",
+            "cnsProv": "898004517306706",
+            "cpf": "02377056059",
+            "nome": "LAURA RIOS BARON",
+            "nomeSocial": "",
+            "sexo": "F",
+            "sexoRetratado": "",
+            "nasc": "1999-09-01 00:00:00",
+            "racaCor": "BRANCO(A)",
+            "signo": "VIRGEM",
+            "tipoSanguineo": "",
+            "partoGemelar": false,
+            "vipSus": false,
+            "vipMotivo": "",
+            "escolaridade": "",
+            "empresario": false,
+            "aposentado": false,
+            "servidorPubl": false,
+            "nacionalidade": "",
+            "estCivil": "",
+            "rendaAtual": "1050",
+            "scoreFaixa": "ENTRE 501 E 750",
+            "scoreSpc": "479",
+            "filiacao": {
+                "nomeMae": "JANETE BEATRIZ RIOS BARON",
+                "nomePai": ""
+            },
+            "situacaoCadastral": {
+                "descricao": "REGULAR",
+                "dataSituacao": "2022-12-16 08:41:01",
+                "obito": {}
+            }
+        },
+        "registroGeral": {
+            "rgNumero": "4123992259",
+            "orgaoEmissor": "SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA",
+            "ufEmissao": "RS"
+        },
+        "bigDataDocumentos": [],
+        "serasaAnalytics": {
+            "csb8": "679",
+            "csb8Faixa": "BAIXO",
+            "csb8Descricao": "UTILIZADO PARA ANÁLISE DE PRODUTOS DE CRÉDITO PESSOAL",
+            "csba": "678",
+            "csbaFaixa": "BAIXO",
+            "csbaDescricao": "UTILIZADO PARA ANÁLISE E AVALIAÇÃO DE CRÉDITO EMPRESARIAL SOBRE O TITULAR"
+        },
+        "serasaMosaic": {
+            "codMosaic": "",
+            "descricaoMosaic": "",
+            "codMosaicSecundario": "D14",
+            "descMosaicSecundario": "JUVENTUDE DE BAIXA RENDA DO INTERIOR URBANO",
+            "codMosaicNovo": "I29",
+            "descricaoMosaicNovo": ""
+        },
+        "serasaConselhos": [],
+        "poderAquisitivo": {
+            "codPoderAquisitivo": "1",
+            "poderAquisitivo": "MUITO BAIXO",
+            "renda": "1050",
+            "faixaRenda": "DE R$ 631 ATÉ R$ 1018"
+        },
+        "profissaoAtual": {},
+        "universitario": [],
+        "pisPasep": [
+            {
+                "numeroPis": "21287204157",
+                "dataInclusao": "2019-05-31 00:00:00"
+            }
+        ],
+        "nisHist": [],
+        "tse": [],
+        "telefones": [
+            {
+                "ddd": "54",
+                "telefone": "996245897",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            }
+        ],
+        "emails": [
+            {
+                "email": "prof.laurabaron@gmail.com",
+                "score": "POTENCIALMENTE BOM",
+                "usoPessoal": true,
+                "blackList": false
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "ITAÚ",
+                "numero": "283",
+                "complemento": "CASA",
+                "bairro": "SÃO CRISTÓVÃO",
+                "cidade": "431410",
+                "siglaUf": "RS",
+                "cep": "99060220"
+            },
+            {
+                "logradouro": "ITAU",
+                "numero": "283",
+                "complemento": "",
+                "bairro": "S CRISTOVAO",
+                "cidade": "PASSO FUNDO",
+                "siglaUf": "RS",
+                "cep": "99060220"
+            }
+        ],
+        "veiculos": [],
+        "parentes": [
+            {
+                "nome": "JANETE BEATRIZ RIOS BARON",
+                "cpf": "58223304015",
+                "tipoVinculo": "MAE"
+            },
+            {
+                "nome": "LUCIA RIOS BARON",
+                "cpf": "02377052061",
+                "tipoVinculo": "IRMA(O)"
+            }
+        ],
+        "vizinhos": [],
+        "imoveis": [],
+        "empresas": [],
+        "empregos": [
+            {
+                "cnpj": "86552809001202",
+                "razaoSocial": "INSTITUTO DE ENSINO E ASSISTENCIA SOCIAL",
+                "situacao": "",
+                "cboNumero": "411005",
+                "cboDescricao": "AUXILIAR DE ESCRITÓRIO",
+                "ctpsNumero": "7577757",
+                "ctpsSerie": "40",
+                "dataCadastro": "",
+                "dataAdmissao": "2015-11-27 00:00:00",
+                "dataDesligamento": ""
+            }
+        ],
+        "dividas": [],
+        "beneficios": {
+            "previdenciaSocial": {
+                "descricao": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "fundoGarantia": {
+                "descricao": "FUNDO DE GARANTIA DE TEMPO DE SERVIÇO",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas ": []
+            },
+            "assistenciaSocial": {
+                "descricao": "LEI ORGÂNICA DE ASSISTÊNCIA SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioEmergencial": {
+                "descricao": "AUXÍLIO EMERGENCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "150",
+                "parcelasRecebidas": [
+                    {
+                        "valor": "150",
+                        "nisFavorecido": "",
+                        "dataInclusao": "2023-01-04 14:40:00"
+                    }
+                ]
+            },
+            "auxilioBrasil": {
+                "descricao": "AUXÍLIO BRASIL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "bolsaFamilia": {
+                "descricao": "BOLSA FAMÍLIA",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "detalhamentoDependentes": []
+            },
+            "saudeParticular": {
+                "descricao": "PLANOS DE SAÚDE",
+                "tipoAcesso": "PRIVADO",
+                "totalContrato": "0",
+                "registroContratos": []
+            }
+        },
+        "vacinas": [],
+        "certidoes": [],
+        "bancarias": [],
+        "compras": [],
+        "internet": [],
+        "irpf": [],
+        "interesses": {
+            "creditoPessoalPreAprovado": false,
+            "creditoImobiliarioPreAprovado": false,
+            "financiamentoDeVeiculoPreAprovado": false,
+            "classeMedia": false,
+            "debitoAutomatico": false,
+            "possuiLuxo": true,
+            "possuiInvestimentos": true,
+            "possuiCartaoDeCredito": true,
+            "possuiMultiplosCartoes": false,
+            "possuiContaAltoPadrao": false,
+            "possuiCartaoBlack": false,
+            "possuiCartaoPrime": false,
+            "possuiCelularPrePago": true,
+            "possuiCelularPosPago": false,
+            "possuiMilhasAcumuladas": false,
+            "possuiCasaPropria": true,
+            "possuiDescontos": true,
+            "possuiContasCorrentes": false,
+            "possuiInternetBanking": true,
+            "possuiSeguroAutomotivo": false,
+            "possuiPrevidenciaPrivada": false,
+            "realizouViagens": true
+        }
+    }
+}

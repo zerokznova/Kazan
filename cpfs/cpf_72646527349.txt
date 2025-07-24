@@ -1,0 +1,381 @@
+{
+    "success": true,
+    "query": "72646527349",
+    "query_date": "2025-07-22T14:09:16.838Z",
+    "query_id": "07f093a6-a0d6-4df3-a60c-c185b26250f7",
+    "data": {
+        "dadosBasicos": {
+            "cnsDef": "700405758092550",
+            "cnsProv": "801440411749930",
+            "cpf": "72646527349",
+            "nome": "MARIA DAS DORES XIMENES",
+            "nomeSocial": "",
+            "sexo": "F",
+            "sexoRetratado": "F",
+            "nasc": "1968-12-05 00:00:00",
+            "racaCor": "BRANCO(A)",
+            "signo": "SAGITÁRIO",
+            "tipoSanguineo": "",
+            "partoGemelar": false,
+            "vipSus": false,
+            "vipMotivo": "",
+            "escolaridade": "ENSINO SUPERIOR",
+            "empresario": true,
+            "aposentado": false,
+            "servidorPubl": false,
+            "nacionalidade": "",
+            "estCivil": "",
+            "rendaAtual": "6750",
+            "scoreFaixa": "ENTRE 501 E 750",
+            "scoreSpc": "55",
+            "filiacao": {
+                "nomeMae": "MARIA DOS SANTOS ALENCAR",
+                "nomePai": "GERALDO ALENCAR"
+            },
+            "situacaoCadastral": {
+                "descricao": "REGULAR",
+                "dataSituacao": "2023-11-21 11:07:00",
+                "obito": {}
+            }
+        },
+        "registroGeral": {
+            "rgNumero": "197118990",
+            "orgaoEmissor": "SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA",
+            "ufEmissao": "CE"
+        },
+        "bigDataDocumentos": [],
+        "serasaAnalytics": {
+            "csb8": "55",
+            "csb8Faixa": "ALTISSIMO",
+            "csb8Descricao": "UTILIZADO PARA ANÁLISE DE PRODUTOS DE CRÉDITO PESSOAL",
+            "csba": "58",
+            "csbaFaixa": "ALTISSIMO",
+            "csbaDescricao": "UTILIZADO PARA ANÁLISE E AVALIAÇÃO DE CRÉDITO EMPRESARIAL SOBRE O TITULAR"
+        },
+        "serasaMosaic": {
+            "codMosaic": "D12",
+            "descricaoMosaic": "TRABALHADORES VIZINHOS DA GRANDE CIDADE",
+            "codMosaicSecundario": "G22",
+            "descMosaicSecundario": "EMPRESÁRIOS ESTABILIZADOS",
+            "codMosaicNovo": "A02",
+            "descricaoMosaicNovo": "ELITE URBANA QUALIFICADA"
+        },
+        "serasaConselhos": [],
+        "poderAquisitivo": {
+            "codPoderAquisitivo": "4",
+            "poderAquisitivo": "MEDIO",
+            "renda": "6750",
+            "faixaRenda": "DE R$ 1631 ATÉ R$ 4082"
+        },
+        "profissaoAtual": {
+            "cboNumero": "252105",
+            "cboDescricao": "ADMINISTRADOR",
+            "servidoresPublicos": []
+        },
+        "universitario": [],
+        "pisPasep": [],
+        "nisHist": [],
+        "tse": [],
+        "telefones": [
+            {
+                "ddd": "11",
+                "telefone": "38583555",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "11",
+                "telefone": "997571967",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "11",
+                "telefone": "964918855",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "11",
+                "telefone": "22612954",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "11",
+                "telefone": "42416611",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "11",
+                "telefone": "998555601",
+                "operadoraLinha": "",
+                "tipoLinha": "",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "11",
+                "telefone": "989208464",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            },
+            {
+                "ddd": "11",
+                "telefone": "989395832",
+                "operadoraLinha": "",
+                "tipoLinha": "MÓVEL",
+                "usoPessoal": true
+            }
+        ],
+        "emails": [
+            {
+                "email": "lanny_gatinha01@terra.com.br",
+                "score": "BOM",
+                "usoPessoal": false,
+                "blackList": false
+            },
+            {
+                "email": "dora.ximenes@hotmail.com",
+                "score": "RUIM",
+                "usoPessoal": true,
+                "blackList": false
+            },
+            {
+                "email": "dora.ximenes@gmail.com",
+                "score": "",
+                "usoPessoal": true,
+                "blackList": false
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "R NOVO HAMBURGO",
+                "numero": "6",
+                "complemento": "C 1",
+                "bairro": "JD VISTA ALEGRE",
+                "cidade": "EMBU DAS ARTES",
+                "siglaUf": "SP",
+                "cep": "06807060"
+            },
+            {
+                "logradouro": "R TEN MOURA 33",
+                "numero": "33",
+                "complemento": "",
+                "bairro": "HORTO FLORESTAL",
+                "cidade": "SAO PAULO",
+                "siglaUf": "SP",
+                "cep": ""
+            },
+            {
+                "logradouro": "ARISTIDES JOFRE",
+                "numero": "40",
+                "complemento": "APTO161",
+                "bairro": "CASA VERDE ALTA",
+                "cidade": "355030",
+                "siglaUf": "SP",
+                "cep": "02565040"
+            },
+            {
+                "logradouro": "ARISTIDES JOFRE",
+                "numero": "0",
+                "complemento": "",
+                "bairro": "CASA VERDE ALTA",
+                "cidade": "SAO PAULO",
+                "siglaUf": "SP",
+                "cep": "02565040"
+            }
+        ],
+        "veiculos": [
+            {
+                "marcaModelo": "FORD/KA SE 1.5 SD B",
+                "placa": "QOI9C30",
+                "chassi": "9BFZH54J2J8175648",
+                "renavam": "1153185412",
+                "anoFabricacao": "2018",
+                "anoModelo": "2018"
+            }
+        ],
+        "parentes": [
+            {
+                "nome": "MARIA DOS SANTOS ALENCAR",
+                "cpf": "",
+                "tipoVinculo": "MAE"
+            }
+        ],
+        "vizinhos": [
+            {
+                "nome": "TEREZA SANTOS DE PAULA",
+                "cpf": "46461523804",
+                "cep": "02530000"
+            },
+            {
+                "nome": "ROSANGELA LEIKO SATO",
+                "cpf": "20247169897",
+                "cep": "18133220"
+            },
+            {
+                "nome": "LUIZ RICARDO NUNES FILHO",
+                "cpf": "32591932867",
+                "cep": "18133220"
+            }
+        ],
+        "imoveis": [
+            {
+                "codSetor": "355030821000057",
+                "tipoDomicilio": "",
+                "condicaoDomicilio": ""
+            }
+        ],
+        "empresas": [
+            {
+                "razaoSocial": "L.D.X. TRANSPORTE DE CARGAS LTDA",
+                "cnpj": "05571595000159",
+                "nomeFantasia": "L.D.X. TRANSPORTE"
+            }
+        ],
+        "empregos": [],
+        "dividas": [],
+        "beneficios": {
+            "previdenciaSocial": {
+                "descricao": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "fundoGarantia": {
+                "descricao": "FUNDO DE GARANTIA DE TEMPO DE SERVIÇO",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas ": []
+            },
+            "assistenciaSocial": {
+                "descricao": "LEI ORGÂNICA DE ASSISTÊNCIA SOCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioEmergencial": {
+                "descricao": "AUXÍLIO EMERGENCIAL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "auxilioBrasil": {
+                "descricao": "AUXÍLIO BRASIL",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "parcelasRecebidas": []
+            },
+            "bolsaFamilia": {
+                "descricao": "BOLSA FAMÍLIA",
+                "tipoAcesso": "PÚBLICO",
+                "totalRecebido": "0",
+                "detalhamentoDependentes": []
+            },
+            "saudeParticular": {
+                "descricao": "PLANOS DE SAÚDE",
+                "tipoAcesso": "PRIVADO",
+                "totalContrato": "0",
+                "registroContratos": []
+            }
+        },
+        "vacinas": [
+            {
+                "vacinaNome": "COVID-19 PFIZER - COMIRNATY",
+                "descricao": "2ª DOSE",
+                "lote": "FD7222",
+                "fabricante": "PFIZER",
+                "estabAplicacao": "UBS CASA VERDE ALTA",
+                "grupoAtendimento": "HIPERTENSÃO DE DIFÍCIL CONTROLE OU COM COMPLICAÇÕES/LESÃO DE ÓRGÃO ALVO",
+                "profissionalAplic": "LEILA LOPES DOS SANTOS",
+                "dataAplicacao": "2021-08-18T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 ASTRAZENECA/FIOCRUZ - COVISHIELD",
+                "descricao": "REFORÇO",
+                "lote": "21PVCD361Z",
+                "fabricante": "ASTRAZENECA/FIOCRUZ",
+                "estabAplicacao": "UBS CASA VERDE ALTA",
+                "grupoAtendimento": "HIPERTENSÃO DE DIFÍCIL CONTROLE OU COM COMPLICAÇÕES/LESÃO DE ÓRGÃO ALVO",
+                "profissionalAplic": "LAUANE FRANCO DA SILVA",
+                "dataAplicacao": "2022-07-13T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 PFIZER - COMIRNATY",
+                "descricao": "1ª DOSE",
+                "lote": "EW0195",
+                "fabricante": "PFIZER",
+                "estabAplicacao": "UBS CASA VERDE ALTA",
+                "grupoAtendimento": "HIPERTENSÃO DE DIFÍCIL CONTROLE OU COM COMPLICAÇÕES/LESÃO DE ÓRGÃO ALVO",
+                "profissionalAplic": "CARLA BORGES DE RIENZO DOMINGUES",
+                "dataAplicacao": "2021-05-18T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 ASTRAZENECA/FIOCRUZ - COVISHIELD",
+                "descricao": "REFORÇO",
+                "lote": "21PVCD361Z",
+                "fabricante": "ASTRAZENECA/FIOCRUZ",
+                "estabAplicacao": "UBS CASA VERDE ALTA",
+                "grupoAtendimento": "HIPERTENSÃO DE DIFÍCIL CONTROLE OU COM COMPLICAÇÕES/LESÃO DE ÓRGÃO ALVO",
+                "profissionalAplic": "LAUANE FRANCO DA SILVA",
+                "dataAplicacao": "2022-07-13T00:00:00.000Z"
+            },
+            {
+                "vacinaNome": "COVID-19 PFIZER - COMIRNATY",
+                "descricao": "REFORÇO",
+                "lote": "FL3203",
+                "fabricante": "PFIZER",
+                "estabAplicacao": "UBS CASA VERDE ALTA",
+                "grupoAtendimento": "HIPERTENSÃO DE DIFÍCIL CONTROLE OU COM COMPLICAÇÕES/LESÃO DE ÓRGÃO ALVO",
+                "profissionalAplic": "ADRIANA DE LIMA PACIFICO",
+                "dataAplicacao": "2022-01-05T00:00:00.000Z"
+            }
+        ],
+        "certidoes": [],
+        "bancarias": [],
+        "compras": [],
+        "internet": [],
+        "irpf": [
+            {
+                "instituicao": "NÃO INFORMADA NA BASE DE DADOS",
+                "codAgencia": "",
+                "lote": "",
+                "dataLote": "",
+                "anoReferencia": "2014",
+                "situacaoReceita": "SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL",
+                "dataConsulta": ""
+            }
+        ],
+        "interesses": {
+            "creditoPessoalPreAprovado": true,
+            "creditoImobiliarioPreAprovado": false,
+            "financiamentoDeVeiculoPreAprovado": true,
+            "classeMedia": false,
+            "debitoAutomatico": false,
+            "possuiLuxo": true,
+            "possuiInvestimentos": true,
+            "possuiCartaoDeCredito": true,
+            "possuiMultiplosCartoes": false,
+            "possuiContaAltoPadrao": true,
+            "possuiCartaoBlack": true,
+            "possuiCartaoPrime": true,
+            "possuiCelularPrePago": false,
+            "possuiCelularPosPago": true,
+            "possuiMilhasAcumuladas": true,
+            "possuiCasaPropria": true,
+            "possuiDescontos": true,
+            "possuiContasCorrentes": true,
+            "possuiInternetBanking": true,
+            "possuiSeguroAutomotivo": true,
+            "possuiPrevidenciaPrivada": true,
+            "realizouViagens": true
+        }
+    }
+}
